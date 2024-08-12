@@ -33,14 +33,14 @@ def logaritmos(x, y):
 
 def seno(angulo_graus):
     angulo_radianos = math.radians(angulo_graus)
-    return math.sin(angulo_radianos)
+    return round(math.sin(angulo_radianos), 3)
 def cosseno(angulo_graus):
     angulo_radianos = math.radians(angulo_graus)
-    return math.cos(angulo_radianos)
+    return round(math.cos(angulo_radianos), 3)
 
 def tangente(angulo_graus):
     angulo_radianos = math.radians(angulo_graus)
-    return math.tan(angulo_radianos)
+    return round(math.tan(angulo_radianos), 3)
 
 def trigonometricas(numero, opcao):
     if opcao == 1:
@@ -75,9 +75,9 @@ def menu():
         numero2 = float(input("Digite o segundo numero: "))
         print(f"O resultado atualmente é {divisao(numero1, numero2)}")
     elif opcao == 5:
-        print("01-Seno", "02-Cosseno", "03-Tangente", sep="/n")
-        opcao_trigonometria = int(input("Escolha uma opção:"))
-        numero1 = float(input("Digite um numero no angulo radiano"))
+        print("01-Seno", "02-Cosseno", "03-Tangente", sep="\n")
+        opcao_trigonometria = int(input("Escolha uma opção: "))
+        numero1 = float(input("Digite um numero no angulo radiano: "))
         print(f"{trigonometricas(numero1, opcao_trigonometria)}")
     elif opcao == 6:
         numero1 = float(input("Digite o primeiro numero: "))
