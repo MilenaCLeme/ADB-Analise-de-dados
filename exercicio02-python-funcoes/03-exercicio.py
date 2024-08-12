@@ -6,6 +6,30 @@
 
 """
 
+
+"""
+
+Outra forma - estudar 
+
+
+import re (veirificar como funciona o re)
+
+
+def palindromo():
+  frase = input("Digite uma frase: ").strip().upper()
+  frase_sem_espaco_caractere = re.sub('[^a-zA-Z0-9]', '', frase) --- localizado aqui 
+  frase_inversa = frase_sem_espaco_caractere[::-1]
+  
+  if (frase_sem_espaco_caractere == frase_inversa ):
+   print("Esta palavra é um palindromo")
+  else:
+   print("Esta palavra não é um palindromo")
+
+print(palindromo())
+
+
+"""
+
 import unicodedata
 import string
 
