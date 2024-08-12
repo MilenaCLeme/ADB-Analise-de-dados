@@ -9,7 +9,7 @@ print("2. Classificação de Idade com Mensagens Personalizadas")
 
 idade = int(input("Digite a sua idade: "))
 
-def mensagem_personaliza_por_idade(valor):
+def mensagem_personaliza_por_idade(valor=0):
     if 0 < valor < 13:
         print(f"Sua idade é {valor} anos. Sua mensagem no dia: Você é uma criança cheia de energia!")
     elif 12 < valor < 18:
