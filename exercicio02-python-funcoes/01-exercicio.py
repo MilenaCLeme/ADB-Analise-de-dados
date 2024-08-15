@@ -12,7 +12,7 @@ list = []
 
 def adicao(x, y):
     return x+y
-# outra forma soma = lambda a,b: a + b
+# outra forma soma = lambda a,b: a + b 
 
 def subtracao(x, y):
     return x-y
