@@ -8,6 +8,8 @@
 def multiplicacao(a,b):
     return a * b
 
+int1 = 5
+
 def operacao(x, y, func):
     return func(x, y)
 

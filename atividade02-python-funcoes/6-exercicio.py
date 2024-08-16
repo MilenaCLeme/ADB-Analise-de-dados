@@ -11,3 +11,10 @@ def fatorial(n):
 print(fatorial(5))
 print(fatorial(10))
 print(fatorial(6))
+
+"""
+120
+3628800
+720
+
+"""
