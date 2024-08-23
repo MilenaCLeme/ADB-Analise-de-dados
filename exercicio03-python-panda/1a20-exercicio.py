@@ -126,7 +126,6 @@ novo_index = data.set_index('Nome', inplace=True)
 
 resetado = data.reset_index()
 
-
 """
 17 - Exiba as linhas do DataFrame onde a altura é maior que 1.70.
 """
