@@ -5,8 +5,9 @@ from pyspark.sql.types import FloatType
 from pyspark.sql.types import IntegerType
 from pyspark.ml.feature import VectorAssembler
 from pyspark.ml.regression import LinearRegression
-from pyspark.ml.classification import LogisticRegression
-from pyspark.ml.evaluation import BinaryClassificationEvaluator
+from pyspark.ml.evaluation import RegressionEvaluator
+
+
 from datetime import datetime
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -590,26 +591,15 @@ tabela_ano_tempo = tabela_ano_tempo.groupBy(['Área','Tempo de Contratação']).
 probabilidade de deixar a empresa.
 """
 
-db_dd = dados_new.withColumn("Status de Emprego", F.col("Status de Emprego").lower().alias("Status de Emprego"))
-db_dd = dados_new.withColumn("Status de Emprego", F.lower(F.col("Status de Emprego")))
+dados_new.show()
 
-db_dd = db_dd.withColumn("Data de Contratação", F.col("Data de Contratação").cast("date"))
-db_dd = db_dd.withColumn("Tempo de Serviço", F.datediff(F.current_date(), F.col("Data de Contratação")))
+entrada_e_saida = dados_new.groupBy('Status de Emprego').agg(
+    F.count('*')
+)
 
-train_data, test_data = db_dd.randomSplit([0.8, 0.2], seed=42)
+turnover = ((9 + 2 / 2) / 11) * 100
 
-assembler = VectorAssembler(inputCols=["Idade", "Salário", "Tempo de Serviço"], outputCol="features")
-train_data = assembler.transform(train_data)
-test_data = assembler.transform(test_data)
-
-lr = LogisticRegression(featuresCol="features", labelCol="Alvo")
-lr_model = lr.fit(train_data)
-
-predictions = lr_model.transform(test_data)
-
-evaluator = BinaryClassificationEvaluator(labelCol="Alvo", metricName="areaUnderROC")
-roc_auc = evaluator.evaluate(predictions)
-print(f"Área sob a Curva ROC: {roc_auc}")
+#print(turnover)
 
 """
 35. Análise de Homogeneidade Salarial: Verificar a homogeneidade dos salários dentro de cada
@@ -620,6 +610,8 @@ tabela_de_homogenidade = dados_new.groupBy(['Área', 'Salário']).agg(
     F.count('*')
 )
 
+max_tempo_de_casa = nova_tabela_3.agg(F.max('Tempo de casa')).collect()[0][0]
+
 #tabela_de_homogenidade.show()
 
 """
@@ -627,7 +619,21 @@ tabela_de_homogenidade = dados_new.groupBy(['Área', 'Salário']).agg(
 destoam significativamente dos outros no mesmo departamento.
 """
 
+media_salarial = dados_new.agg(F.avg('Salário')).collect()[0][0]
+desvio_salarial = dados_new.agg(F.stddev('Salário')).collect()[0][0]
 
+idades_media = dados_new.agg(F.avg('Idade')).collect()[0][0]
+idades_desvio = dados_new.agg(F.stddev('Idade')).collect()[0][0]
+
+db_idade_salarial = dados_new.withColumn('z_score_salario', ((F.col('Salário') - media_salarial) / desvio_salarial))
+db_idade_salarial = db_idade_salarial.withColumn('z_score_idade', ((F.col('Idade') - idades_media) / idades_desvio))
+
+anomalies = db_idade_salarial.filter(
+    (F.abs(F.col('z_score_salario')) > 2) |
+    (F.abs(F.col('z_score_idade')) > 2)
+)
+
+#anomalies.show()
 
 """
 37. Comparação de Salários por Região: Se houvesse uma coluna de localização, comparar os
@@ -640,6 +646,10 @@ salários entre diferentes regiões.
 38. Criação de Métricas Personalizadas: Desenvolver novas métricas como &quot;salário ajustado pela
 idade&quot; ou &quot;tempo de casa ajustado pela idade&quot;.
 """
+
+metris_personalizada = dados_new.withColumn('salario_ajustado_idade', (F.col('Salário') / F.col('Idade')))
+
+#metris_personalizada.show()
 
 """
 39. Análise de Recrutamento Recente: Focar na análise dos funcionários contratados nos últimos
@@ -681,6 +691,8 @@ funcionario_com_rotatividade = dados_new.groupBy(['Status de Emprego', 'Área'])
 42. Comparação de Salários por Gênero: Se houvesse uma coluna de gênero, comparar os
 salários médios entre homens e mulheres.
 """
+
+# Não tem gênero
 
 """
 43. Correlação Entre Status de Emprego e Desempenho Salarial: Avaliar se há diferença
@@ -738,26 +750,24 @@ analisar como diferentes formações afetam o salário e tempo de casa.
 49. Previsão de Salários Futuros: Usar regressão linear ou outros modelos para prever o
 crescimento salarial futuro.
 """
-data_atual = datetime.now()
 
-db = dados_new.withColumn('Data de Contratação', F.to_date(F.col('Data de Contratação'), 'dd/MM/yyyy'))
-db = db.withColumn('Ano de Contratação', F.year(F.col('Data de Contratação')))
-db = db.withColumn('Ano Atual', 2024)
-db = db.withColumn('Anos de Experiencia', (data_atual - F.col('Ano de Contratação')))
+tabela_previsao = dados_new.withColumn('Tempo de casa', inserir_informacao(F.col('Data de Contratação')))
 
-assembler = VectorAssembler(inputCols=['Anos de Experiência'], outputCol='features')
-dados = assembler.transform(dados)
+tabela_previsao = tabela_previsao.select("Salário", "Idade", "Tempo de casa")
 
-lr = LinearRegression(featuresCol='features', labelCol='Salário')
-modelo = lr.fit(dados)
+train_df, test_df = tabela_previsao.randomSplit([0.8, 0.2], seed=1234)
 
-resumo = modelo.summary
-"""
-print(f'Coeficiente: {resumo.coefficients}')
-print(f'Intercepto: {resumo.intercept}')
-print(f'R²: {resumo.r2}')
-"""
+assembler = VectorAssembler(
+    inputCols=["Idade", "Tempo de casa"],
+    outputCol="features"
+)
 
+train_df = assembler.transform(train_df)
+test_df = assembler.transform(test_df)
+
+
+lr = LinearRegression(featuresCol="features", labelCol="Salário")
+lr_model = lr.fit(train_df)
 
 """
 50. Identificação de Padrões de Promoção Interna: Analisar os padrões de promoção dentro da
