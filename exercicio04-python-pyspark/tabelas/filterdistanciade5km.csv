@@ -1,0 +1,839 @@
+,Idade,Demissão,Viagem de negócios,Diárias recebidas,Departamento,Distância de Casa,Escolaridade,Área de Formação,Número de contratos de trabalho na empresa,ID Funcionário,Nível de Satisfação com o ambiente de trabalho,Gênero,Salário por hora,Nível de envolvimento com o trabalho,Nível hierárquico,Cargo,Satisfação com o trabalho,Estado civil,Renda mensal,Salário Mensal,qtde de empresas que já trabalhou,Maior de idade,Faz hora extra,percentual de aumento de salário,score de performance,Satisfação nas relações Não trabalho,Jornada padrão de trabalho,opção de remaunração variável em ações,Total de anos trabalhados,Qtde de treinamentos realizados no último ano,Equilíbrio vida trabalho,Total de anos trabalhados na empresa,Anos trabalhados na função atual,Anos desde a última promoção,Anos trabalhando com o atual gestor
+0,49,Não,Viaja frequentemente,279,Pesquisa e Desenvolvimento,8,1,Ciências Humanas,1,2,3,Masculino,61,2,2,Pesquisador cientista,2,Casado,5130,24907,1,Sim,Não,23,4,4,80,1,10,3,3,10,7,1,7
+1,30,Não,Viaja raramente,1358,Pesquisa e Desenvolvimento,24,1,Ciências Humanas,1,11,4,Masculino,67,3,1,Técnico de Laboratório,3,Divorciado,2693,13335,1,Sim,Não,22,4,2,80,1,1,2,3,1,0,0,0
+2,38,Não,Viaja frequentemente,216,Pesquisa e Desenvolvimento,23,3,Ciências Humanas,1,12,4,Masculino,44,2,3,Diretor de manufatura,3,Solteiro,9526,8787,0,Sim,Não,21,4,2,80,0,10,2,3,9,7,1,8
+3,36,Não,Viaja raramente,1299,Pesquisa e Desenvolvimento,27,3,Ciências Médicas,1,13,3,Masculino,94,3,2,Reprentante de saúde,3,Casado,5237,16577,6,Sim,Não,13,3,2,80,2,17,3,2,7,7,7,7
+4,35,Não,Viaja raramente,809,Pesquisa e Desenvolvimento,16,3,Ciências Médicas,1,14,1,Masculino,84,4,1,Técnico de Laboratório,2,Casado,2426,16479,0,Sim,Não,13,3,3,80,1,6,5,3,5,4,0,3
+5,29,Não,Viaja raramente,153,Pesquisa e Desenvolvimento,15,2,Ciências Humanas,1,15,4,Feminino,49,2,2,Técnico de Laboratório,3,Solteiro,4193,12682,0,Sim,Sim,12,3,4,80,0,10,3,3,9,5,0,8
+6,31,Não,Viaja raramente,670,Pesquisa e Desenvolvimento,26,1,Ciências Humanas,1,16,1,Masculino,31,3,1,Pesquisador cientista,3,Divorciado,2911,15170,1,Sim,Não,17,3,4,80,1,5,1,2,5,2,4,3
+7,34,Não,Viaja raramente,1346,Pesquisa e Desenvolvimento,19,2,Ciências Médicas,1,18,2,Masculino,93,3,1,Técnico de Laboratório,4,Divorciado,2661,8758,0,Sim,Não,11,3,3,80,1,3,2,3,2,2,1,2
+8,28,Sim,Viaja raramente,103,Pesquisa e Desenvolvimento,24,3,Ciências Humanas,1,19,3,Masculino,93,2,1,Técnico de Laboratório,3,Solteiro,2028,12947,5,Sim,Sim,14,3,2,80,0,6,4,3,4,2,0,3
+9,29,Não,Viaja raramente,1389,Pesquisa e Desenvolvimento,21,4,Ciências Humanas,1,20,2,Feminino,51,4,3,Diretor de manufatura,1,Divorciado,9980,10195,1,Sim,Não,11,3,3,80,1,10,1,3,10,9,8,8
+10,22,Não,Não Viaja,1123,Pesquisa e Desenvolvimento,16,2,Ciências Médicas,1,22,4,Masculino,96,4,1,Técnico de Laboratório,4,Divorciado,2935,7324,1,Sim,Sim,13,3,2,80,2,1,2,2,1,0,0,0
+11,24,Não,Não Viaja,673,Pesquisa e Desenvolvimento,11,2,Outras,1,26,1,Feminino,96,4,2,Diretor de manufatura,3,Divorciado,4011,8232,0,Sim,Não,18,3,4,80,1,5,5,2,4,2,1,3
+12,36,Sim,Viaja raramente,1218,Vendas,9,4,Ciências Humanas,1,27,3,Masculino,82,2,1,Representante de vendas,1,Solteiro,3407,6986,7,Sim,Não,23,4,2,80,0,10,4,3,5,3,0,3
+13,34,Não,Viaja raramente,419,Pesquisa e Desenvolvimento,7,4,Ciências Humanas,1,28,1,Feminino,53,3,3,Diretor de pesquisa,2,Solteiro,11994,21293,0,Sim,Não,11,3,3,80,0,13,4,3,12,6,2,11
+14,21,Não,Viaja raramente,391,Pesquisa e Desenvolvimento,15,2,Ciências Humanas,1,30,3,Masculino,96,3,1,Pesquisador cientista,4,Solteiro,1232,19281,1,Sim,Não,14,3,4,80,0,0,6,3,0,0,0,0
+15,34,Sim,Viaja raramente,699,Pesquisa e Desenvolvimento,6,1,Ciências Médicas,1,31,2,Masculino,83,3,1,Pesquisador cientista,1,Solteiro,2960,17102,2,Sim,Não,11,3,3,80,0,8,2,3,4,2,1,3
+16,32,Sim,Viaja frequentemente,1125,Pesquisa e Desenvolvimento,16,1,Ciências Humanas,1,33,2,Feminino,72,1,1,Pesquisador cientista,1,Solteiro,3919,4681,1,Sim,Sim,22,4,2,80,0,10,5,3,10,2,6,7
+17,42,Não,Viaja raramente,691,Vendas,8,4,Marketing,1,35,3,Masculino,48,3,2,Executivo de vendas,2,Casado,6825,21173,0,Sim,Não,11,3,4,80,1,10,2,3,9,7,4,2
+18,44,Não,Viaja raramente,477,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,36,1,Feminino,42,2,3,Reprentante de saúde,4,Casado,10248,2094,3,Sim,Não,14,3,4,80,1,24,4,3,22,6,5,17
+19,44,Não,Viaja raramente,1459,Pesquisa e Desenvolvimento,10,4,Outras,1,40,4,Masculino,41,3,2,Reprentante de saúde,4,Casado,6465,19121,2,Sim,Sim,13,3,4,80,0,9,5,4,4,2,1,3
+20,30,Não,Viaja raramente,125,Pesquisa e Desenvolvimento,9,2,Ciências Médicas,1,41,4,Masculino,83,2,1,Técnico de Laboratório,3,Solteiro,2206,16117,1,Sim,Não,13,3,1,80,0,10,5,3,10,0,1,8
+21,26,Sim,Viaja raramente,1357,Pesquisa e Desenvolvimento,25,3,Ciências Humanas,1,55,1,Masculino,48,1,1,Técnico de Laboratório,3,Solteiro,2293,10558,1,Sim,Não,12,3,3,80,0,1,2,2,1,0,0,1
+22,27,Não,Viaja frequentemente,994,Vendas,8,3,Ciências Humanas,1,56,4,Masculino,37,3,3,Executivo de vendas,3,Solteiro,8726,2975,1,Sim,Não,15,3,4,80,0,9,0,3,9,8,1,7
+23,41,Sim,Viaja raramente,1360,Pesquisa e Desenvolvimento,12,3,EnsiNão técnico,1,58,2,Feminino,49,3,5,Diretor de pesquisa,3,Casado,19545,16280,1,Sim,Não,12,3,4,80,0,23,0,3,22,15,15,8
+24,34,Não,Não Viaja,1065,Vendas,23,4,Marketing,1,60,2,Masculino,72,3,2,Executivo de vendas,3,Solteiro,4568,10034,0,Sim,Não,20,4,3,80,0,10,2,3,9,5,8,7
+25,37,Não,Viaja raramente,408,Pesquisa e Desenvolvimento,19,2,Ciências Humanas,1,61,2,Masculino,73,3,1,Pesquisador cientista,2,Casado,3022,10227,4,Sim,Não,21,4,1,80,0,8,1,3,1,0,0,0
+26,35,Não,Viaja raramente,1229,Pesquisa e Desenvolvimento,8,1,Ciências Humanas,1,63,4,Masculino,36,4,1,Técnico de Laboratório,4,Casado,2269,4892,1,Sim,Não,19,3,4,80,0,1,2,3,1,0,0,1
+27,35,Não,Não Viaja,1097,Pesquisa e Desenvolvimento,11,2,Ciências Médicas,1,70,3,Masculino,79,2,3,Reprentante de saúde,1,Casado,9884,8302,2,Sim,Sim,13,3,3,80,1,10,3,3,4,0,2,3
+28,26,Não,Viaja raramente,1443,Vendas,23,3,Marketing,1,72,3,Feminino,47,2,2,Executivo de vendas,4,Casado,4157,21436,7,Sim,Sim,19,3,3,80,1,5,2,2,2,2,0,0
+29,35,Não,Viaja frequentemente,853,Vendas,18,5,Ciências Humanas,1,74,2,Masculino,71,3,3,Executivo de vendas,1,Casado,9069,11031,1,Sim,Não,22,4,4,80,1,9,3,2,9,8,1,8
+30,35,Não,Viaja raramente,1142,Pesquisa e Desenvolvimento,23,4,Ciências Médicas,1,75,3,Feminino,30,3,1,Técnico de Laboratório,1,Casado,4014,16002,3,Sim,Sim,15,3,3,80,1,4,3,3,2,2,2,2
+31,31,Não,Viaja raramente,655,Pesquisa e Desenvolvimento,7,4,Ciências Humanas,1,76,4,Masculino,48,3,2,Técnico de Laboratório,4,Divorciado,5915,9528,3,Sim,Não,22,4,4,80,1,10,3,2,7,7,1,7
+32,38,Não,Viaja frequentemente,653,Pesquisa e Desenvolvimento,29,5,Ciências Humanas,1,79,4,Feminino,50,3,2,Técnico de Laboratório,4,Solteiro,2406,5456,1,Sim,Não,11,3,4,80,0,10,2,3,10,3,9,9
+33,50,Não,Viaja raramente,989,Pesquisa e Desenvolvimento,7,2,Ciências Médicas,1,80,2,Feminino,43,2,5,Diretor de pesquisa,3,Divorciado,18740,16701,5,Sim,Sim,12,3,4,80,1,29,2,2,27,3,13,8
+34,59,Não,Viaja raramente,1435,Vendas,25,3,Ciências Humanas,1,81,1,Feminino,99,3,3,Executivo de vendas,1,Solteiro,7637,2354,7,Sim,Não,11,3,4,80,0,28,3,2,21,16,7,9
+35,36,Não,Viaja raramente,1223,Pesquisa e Desenvolvimento,8,3,EnsiNão técnico,1,83,3,Feminino,59,3,3,Reprentante de saúde,3,Divorciado,10096,8202,1,Sim,Não,13,3,2,80,3,17,2,3,17,14,12,8
+36,55,Não,Viaja raramente,836,Pesquisa e Desenvolvimento,8,3,Ciências Médicas,1,84,4,Feminino,33,3,4,Gerente,3,Divorciado,14756,19730,2,Sim,Sim,14,3,3,80,3,21,2,3,5,0,0,2
+37,36,Não,Viaja frequentemente,1195,Pesquisa e Desenvolvimento,11,3,Ciências Humanas,1,85,2,Masculino,95,2,2,Diretor de manufatura,2,Solteiro,6499,22656,1,Sim,Não,13,3,3,80,0,6,3,3,6,5,0,3
+38,45,Não,Viaja raramente,1339,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,86,2,Masculino,59,3,3,Pesquisador cientista,1,Divorciado,9724,18787,2,Sim,Não,17,3,3,80,1,25,2,3,1,0,0,0
+39,36,Sim,Viaja raramente,318,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,90,4,Masculino,79,2,1,Pesquisador cientista,3,Casado,3388,21777,0,Sim,Sim,17,3,1,80,1,2,0,2,1,0,0,0
+40,36,Não,Viaja raramente,132,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,97,2,Feminino,55,4,1,Técnico de Laboratório,4,Casado,3038,22002,3,Sim,Não,12,3,2,80,0,5,3,3,1,0,0,0
+41,31,Não,Viaja raramente,746,Pesquisa e Desenvolvimento,8,4,Ciências Humanas,1,98,3,Feminino,61,3,2,Diretor de manufatura,4,Solteiro,4424,20682,1,Sim,Não,23,4,4,80,0,11,2,3,11,7,1,8
+42,45,Não,Viaja raramente,193,Pesquisa e Desenvolvimento,6,4,Outras,1,101,4,Masculino,52,3,3,Diretor de pesquisa,1,Casado,13245,15067,4,Sim,Sim,14,3,2,80,0,17,3,4,0,0,0,0
+43,37,Não,Viaja raramente,397,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,102,1,Masculino,30,3,3,Diretor de pesquisa,3,Solteiro,13664,25258,4,Sim,Não,13,3,1,80,0,16,3,4,5,2,0,2
+44,38,Não,Não Viaja,573,Pesquisa e Desenvolvimento,6,3,Ciências Médicas,1,107,2,Feminino,79,1,2,Pesquisador cientista,4,Divorciado,5329,15717,7,Sim,Sim,12,3,4,80,3,17,3,3,13,11,1,9
+45,56,Não,Viaja raramente,1400,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,112,4,Masculino,49,1,3,Diretor de manufatura,4,Solteiro,7260,21698,4,Sim,Não,11,3,1,80,0,37,3,2,6,4,0,2
+46,51,Não,Viaja raramente,432,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,116,4,Masculino,96,3,1,Técnico de Laboratório,4,Casado,2075,18725,3,Sim,Não,23,4,2,80,2,10,4,3,4,2,0,3
+47,46,Sim,Viaja raramente,669,Vendas,9,2,Ciências Médicas,1,118,3,Masculino,64,2,3,Executivo de vendas,4,Solteiro,9619,13596,1,Sim,Não,16,3,4,80,0,9,3,3,9,8,4,7
+48,51,Não,Viaja raramente,632,Vendas,21,4,Marketing,1,120,3,Masculino,71,3,2,Executivo de vendas,4,Solteiro,5441,8423,0,Sim,Sim,22,4,4,80,0,11,2,1,10,7,1,0
+49,32,Não,Viaja raramente,1093,Vendas,6,4,Ciências Médicas,1,125,2,Masculino,87,3,2,Executivo de vendas,3,Solteiro,5010,24301,1,Sim,Não,16,3,1,80,0,12,0,3,11,8,5,7
+50,58,Não,Viaja raramente,682,Vendas,10,4,Ciências Médicas,1,131,4,Masculino,37,3,4,Executivo de vendas,3,Solteiro,13872,24409,0,Sim,Não,13,3,3,80,0,38,1,2,37,10,1,8
+51,44,Não,Não Viaja,489,Pesquisa e Desenvolvimento,23,3,Ciências Médicas,1,132,2,Masculino,67,3,2,Técnico de Laboratório,2,Casado,2042,25043,4,Sim,Não,12,3,3,80,1,17,3,4,3,2,1,2
+52,37,Sim,Viaja raramente,807,Recursos HumaNãos,6,4,Recursos HumaNãos,1,133,3,Masculino,63,3,1,Recursos HumaNãos,1,Divorciado,2073,23648,4,Sim,Sim,22,4,4,80,0,7,3,3,3,2,0,2
+53,20,Sim,Viaja frequentemente,871,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,137,4,Feminino,66,2,1,Técnico de Laboratório,4,Solteiro,2926,19783,1,Sim,Sim,18,3,2,80,0,1,5,3,1,0,1,0
+54,34,Não,Viaja raramente,665,Pesquisa e Desenvolvimento,6,4,Outras,1,138,1,Feminino,41,3,2,Pesquisador cientista,3,Solteiro,4809,12482,1,Sim,Não,14,3,3,80,0,16,3,3,16,13,2,10
+55,25,Não,Viaja raramente,1280,Pesquisa e Desenvolvimento,7,1,Ciências Médicas,1,143,4,Masculino,64,2,1,Pesquisador cientista,4,Casado,2889,26897,1,Sim,Não,11,3,3,80,2,2,2,3,2,2,2,1
+56,22,Não,Viaja raramente,534,Pesquisa e Desenvolvimento,15,3,Ciências Médicas,1,144,2,Feminino,59,3,1,Técnico de Laboratório,4,Solteiro,2871,23785,1,Sim,Não,15,3,3,80,0,1,5,3,0,0,0,0
+57,34,Sim,Viaja frequentemente,658,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,147,1,Masculino,66,1,2,Técnico de Laboratório,3,Solteiro,6074,22887,1,Sim,Sim,24,4,4,80,0,9,3,3,9,7,0,6
+58,54,Não,Não Viaja,142,Recursos HumaNãos,26,3,Recursos HumaNãos,1,148,4,Feminino,30,4,4,Gerente,4,Solteiro,17328,13871,2,Sim,Sim,12,3,3,80,0,23,3,3,5,3,4,4
+59,24,Não,Viaja raramente,1127,Pesquisa e Desenvolvimento,18,1,Ciências Humanas,1,150,2,Masculino,52,3,1,Técnico de Laboratório,3,Casado,2774,13257,0,Sim,Não,12,3,3,80,1,6,2,3,5,3,1,2
+60,34,Não,Viaja raramente,1031,Pesquisa e Desenvolvimento,6,4,Ciências Humanas,1,151,3,Feminino,45,2,2,Pesquisador cientista,2,Divorciado,4505,15000,6,Sim,Não,15,3,3,80,1,12,3,3,1,0,0,0
+61,36,Não,Viaja frequentemente,1467,Vendas,11,2,EnsiNão técnico,1,154,2,Feminino,92,3,3,Executivo de vendas,4,Casado,9738,22952,0,Sim,Não,14,3,3,80,1,10,6,3,9,7,2,8
+62,43,Não,Viaja frequentemente,394,Vendas,26,2,Ciências Humanas,1,158,3,Masculino,92,3,4,Gerente,4,Casado,16959,19494,1,Sim,Sim,12,3,4,80,2,25,3,4,25,12,4,12
+63,30,Não,Viaja frequentemente,1312,Pesquisa e Desenvolvimento,23,3,Ciências Humanas,1,159,1,Masculino,96,1,1,Pesquisador cientista,3,Divorciado,2613,22310,1,Sim,Não,25,4,3,80,3,10,2,2,10,7,0,9
+64,33,Não,Não Viaja,750,Vendas,22,2,Marketing,1,160,3,Masculino,95,3,2,Executivo de vendas,2,Casado,6146,15480,0,Sim,Não,13,3,1,80,1,8,2,4,7,7,0,7
+65,56,Sim,Viaja raramente,441,Pesquisa e Desenvolvimento,14,4,Ciências Humanas,1,161,2,Feminino,72,3,1,Pesquisador cientista,2,Casado,4963,4510,9,Sim,Sim,18,3,1,80,3,7,2,3,5,4,4,3
+66,51,Não,Viaja raramente,684,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,162,1,Masculino,51,3,5,Diretor de pesquisa,3,Solteiro,19537,6462,7,Sim,Não,13,3,3,80,0,23,5,3,20,18,15,15
+67,31,Sim,Viaja raramente,249,Vendas,6,4,Ciências Humanas,1,163,2,Masculino,76,1,2,Executivo de vendas,3,Casado,6172,20739,4,Sim,Sim,18,3,2,80,0,12,3,2,7,7,7,7
+68,26,Não,Viaja raramente,841,Pesquisa e Desenvolvimento,6,3,Outras,1,164,3,Feminino,46,2,1,Pesquisador cientista,2,Casado,2368,23300,1,Sim,Não,19,3,3,80,0,5,3,2,5,4,4,3
+69,58,Sim,Viaja raramente,147,Pesquisa e Desenvolvimento,23,4,Ciências Médicas,1,165,4,Feminino,94,3,3,Reprentante de saúde,4,Casado,10312,3465,1,Sim,Não,12,3,4,80,1,40,3,2,40,10,15,6
+70,19,Sim,Viaja raramente,528,Vendas,22,1,Marketing,1,167,4,Masculino,50,3,1,Representante de vendas,3,Solteiro,1675,26820,1,Sim,Sim,19,3,4,80,0,0,2,2,0,0,0,0
+71,49,Não,Viaja raramente,470,Pesquisa e Desenvolvimento,20,4,Ciências Médicas,1,170,3,Feminino,96,3,2,Diretor de manufatura,1,Casado,6567,5549,1,Sim,Não,14,3,3,80,0,16,2,2,15,11,5,11
+72,43,Não,Viaja frequentemente,957,Pesquisa e Desenvolvimento,28,3,Ciências Médicas,1,171,2,Feminino,72,4,1,Pesquisador cientista,3,Solteiro,4739,16090,4,Sim,Não,12,3,4,80,0,18,2,3,3,2,1,2
+73,50,Não,Viaja frequentemente,809,Vendas,12,3,Marketing,1,174,3,Feminino,77,3,3,Executivo de vendas,4,Solteiro,9208,6645,4,Sim,Não,11,3,4,80,0,16,3,3,2,2,2,1
+74,31,Sim,Viaja raramente,542,Vendas,20,3,Ciências Humanas,1,175,2,Feminino,71,1,2,Executivo de vendas,3,Casado,4559,24788,3,Sim,Sim,11,3,3,80,1,4,2,3,2,2,2,2
+75,41,Não,Viaja raramente,802,Vendas,9,1,Ciências Humanas,1,176,3,Masculino,96,3,3,Executivo de vendas,3,Divorciado,8189,21196,3,Sim,Sim,13,3,3,80,1,12,2,3,9,7,0,7
+76,26,Não,Viaja raramente,1355,Recursos HumaNãos,25,1,Ciências Humanas,1,177,3,Feminino,61,3,1,Recursos HumaNãos,3,Casado,2942,8916,1,Sim,Não,23,4,4,80,1,8,3,3,8,7,5,7
+77,36,Não,Viaja raramente,216,Pesquisa e Desenvolvimento,6,2,Ciências Médicas,1,178,2,Masculino,84,3,2,Diretor de manufatura,2,Divorciado,4941,2819,6,Sim,Não,20,4,4,80,2,7,0,3,3,2,0,1
+78,51,Sim,Viaja frequentemente,1150,Pesquisa e Desenvolvimento,8,4,Ciências Humanas,1,179,1,Masculino,53,1,3,Diretor de manufatura,4,Solteiro,10650,25150,2,Sim,Não,15,3,4,80,0,18,2,3,4,2,0,3
+79,25,Não,Viaja raramente,959,Vendas,28,3,Ciências Humanas,1,183,1,Masculino,41,2,2,Executivo de vendas,3,Casado,8639,24835,2,Sim,Não,18,3,4,80,0,6,3,3,2,2,2,2
+80,30,Não,Viaja raramente,1240,Recursos HumaNãos,9,3,Recursos HumaNãos,1,184,3,Masculino,48,3,2,Recursos HumaNãos,4,Casado,6347,13982,0,Sim,Sim,19,3,4,80,0,12,2,1,11,9,4,7
+81,32,Sim,Viaja raramente,1033,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,190,1,Feminino,41,3,1,Técnico de Laboratório,1,Solteiro,4200,10224,7,Sim,Não,22,4,1,80,0,10,2,4,5,4,0,4
+82,45,Não,Viaja raramente,1316,Pesquisa e Desenvolvimento,29,3,Ciências Médicas,1,192,3,Masculino,83,3,1,Pesquisador cientista,4,Solteiro,3452,9752,5,Sim,Não,13,3,2,80,0,9,2,2,6,5,0,3
+83,30,Não,Viaja raramente,438,Pesquisa e Desenvolvimento,18,3,Ciências Humanas,1,194,1,Feminino,75,3,1,Pesquisador cientista,3,Solteiro,2632,23910,1,Sim,Não,14,3,3,80,0,5,4,2,5,4,0,4
+84,32,Não,Viaja frequentemente,689,Vendas,9,2,Ciências Médicas,1,195,4,Masculino,35,1,2,Executivo de vendas,4,Divorciado,4668,22812,0,Sim,Não,17,3,4,80,3,9,2,4,8,7,0,7
+85,41,Não,Viaja frequentemente,857,Pesquisa e Desenvolvimento,10,3,Ciências Humanas,1,199,4,Masculino,91,2,4,Gerente,1,Divorciado,17181,12888,4,Sim,Não,13,3,2,80,1,21,2,2,7,6,7,7
+86,41,Não,Viaja raramente,933,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,200,3,Masculino,94,3,1,Técnico de Laboratório,1,Casado,2238,6961,2,Sim,Não,21,4,4,80,1,7,2,3,5,0,1,4
+87,40,Não,Viaja frequentemente,1395,Pesquisa e Desenvolvimento,26,3,Ciências Médicas,1,202,2,Feminino,54,3,2,Pesquisador cientista,2,Divorciado,5605,8504,1,Sim,Não,11,3,1,80,1,20,2,3,20,7,2,13
+88,53,Não,Viaja raramente,1436,Vendas,6,2,Marketing,1,205,2,Masculino,34,3,2,Representante de vendas,3,Casado,2306,16047,2,Sim,Sim,20,4,4,80,1,13,3,1,7,7,4,5
+89,45,Não,Viaja raramente,194,Pesquisa e Desenvolvimento,9,3,Ciências Humanas,1,206,2,Masculino,60,3,2,Técnico de Laboratório,2,Divorciado,2348,10901,8,Sim,Não,18,3,3,80,1,20,2,1,17,9,0,15
+90,32,Não,Viaja frequentemente,967,Vendas,8,3,Marketing,1,207,2,Feminino,43,3,3,Executivo de vendas,4,Solteiro,8998,15589,1,Sim,Não,14,3,4,80,0,9,2,3,9,8,3,7
+91,51,Não,Viaja raramente,1169,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,211,2,Masculino,34,2,2,Diretor de manufatura,3,Casado,6132,13983,2,Sim,Não,17,3,3,80,0,10,2,3,1,0,0,0
+92,58,Não,Viaja raramente,1145,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,214,2,Feminino,75,2,1,Pesquisador cientista,2,Casado,3346,11873,4,Sim,Sim,20,4,2,80,1,9,3,2,1,0,0,0
+93,22,Não,Viaja raramente,1256,Pesquisa e Desenvolvimento,19,1,Ciências Médicas,1,217,3,Masculino,80,3,1,Pesquisador cientista,4,Casado,2323,11992,1,Sim,Não,24,4,1,80,2,2,6,3,2,2,2,2
+94,27,Não,Não Viaja,691,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,218,4,Masculino,57,3,1,Pesquisador cientista,2,Divorciado,2024,5970,6,Sim,Não,18,3,4,80,1,6,1,1,2,2,2,2
+95,28,Não,Viaja raramente,440,Pesquisa e Desenvolvimento,21,3,Ciências Médicas,1,221,3,Masculino,42,3,1,Pesquisador cientista,4,Casado,2713,6672,1,Sim,Não,11,3,3,80,1,5,2,1,5,2,0,2
+96,57,Não,Viaja raramente,334,Pesquisa e Desenvolvimento,24,2,Ciências Humanas,1,223,3,Masculino,83,4,3,Reprentante de saúde,4,Divorciado,9439,23402,3,Sim,Sim,16,3,2,80,1,12,2,1,5,3,1,4
+97,50,Não,Viaja raramente,1452,Pesquisa e Desenvolvimento,11,3,Ciências Humanas,1,226,3,Feminino,53,3,5,Gerente,2,Solteiro,19926,17053,3,Sim,Não,15,3,2,80,0,21,5,3,5,4,4,4
+98,41,Não,Viaja raramente,465,Pesquisa e Desenvolvimento,14,3,Ciências Humanas,1,227,1,Masculino,56,3,1,Pesquisador cientista,3,Divorciado,2451,4609,4,Sim,Não,12,3,1,80,1,13,2,3,9,8,1,8
+99,32,Não,Viaja raramente,120,Pesquisa e Desenvolvimento,6,5,Ciências Humanas,1,231,3,Masculino,43,3,1,Pesquisador cientista,3,Solteiro,3038,12430,3,Sim,Não,20,4,1,80,0,8,2,3,5,4,1,4
+100,27,Não,Viaja raramente,1157,Pesquisa e Desenvolvimento,17,3,EnsiNão técnico,1,233,3,Masculino,51,3,1,Pesquisador cientista,2,Casado,3058,13364,0,Sim,Sim,16,3,4,80,1,6,3,2,5,2,1,1
+101,30,Não,Não Viaja,111,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,239,3,Masculino,66,3,2,Técnico de Laboratório,1,Divorciado,3072,11012,1,Sim,Não,11,3,3,80,2,12,4,3,12,9,6,10
+102,56,Não,Viaja raramente,713,Pesquisa e Desenvolvimento,8,3,Ciências Humanas,1,241,3,Feminino,67,3,1,Pesquisador cientista,1,Divorciado,4257,13939,4,Sim,Sim,18,3,3,80,1,19,3,3,2,2,2,2
+103,38,Não,Viaja raramente,1380,Pesquisa e Desenvolvimento,9,2,Ciências Humanas,1,245,3,Feminino,75,3,1,Técnico de Laboratório,4,Solteiro,2288,6319,1,Sim,Não,12,3,3,80,0,2,3,3,2,2,2,1
+104,31,Não,Viaja raramente,140,Pesquisa e Desenvolvimento,12,1,Ciências Médicas,1,246,3,Feminino,95,3,1,Pesquisador cientista,4,Casado,3929,6984,8,Sim,Sim,23,4,3,80,1,7,0,3,4,2,0,2
+105,34,Não,Viaja raramente,629,Pesquisa e Desenvolvimento,27,2,Ciências Médicas,1,247,4,Feminino,95,3,1,Pesquisador cientista,2,Solteiro,2311,5711,2,Sim,Não,15,3,4,80,0,9,3,3,3,2,1,2
+106,41,Sim,Viaja raramente,1356,Vendas,20,2,Marketing,1,248,2,Feminino,70,3,1,Representante de vendas,2,Solteiro,3140,21728,1,Sim,Sim,22,4,4,80,0,4,5,2,4,3,0,2
+107,53,Não,Viaja raramente,1084,Pesquisa e Desenvolvimento,13,2,Ciências Médicas,1,250,4,Feminino,57,4,2,Diretor de manufatura,1,Divorciado,4450,26250,1,Sim,Não,11,3,3,80,2,5,3,3,4,2,1,3
+108,33,Não,Viaja raramente,931,Pesquisa e Desenvolvimento,14,3,Ciências Médicas,1,252,4,Feminino,72,3,1,Pesquisador cientista,2,Casado,2756,4673,1,Sim,Não,13,3,4,80,1,8,5,3,8,7,1,6
+109,55,Não,Viaja raramente,692,Pesquisa e Desenvolvimento,14,4,Ciências Médicas,1,254,3,Masculino,61,4,5,Diretor de pesquisa,2,Solteiro,18722,13339,8,Sim,Não,11,3,4,80,0,36,3,3,24,15,2,15
+110,27,Não,Viaja raramente,894,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,260,4,Feminino,99,3,1,Pesquisador cientista,2,Solteiro,2279,11781,1,Sim,Não,16,3,4,80,0,7,2,2,7,7,0,3
+111,35,Sim,Viaja raramente,556,Pesquisa e Desenvolvimento,23,2,Ciências Humanas,1,261,2,Masculino,50,2,2,Diretor de manufatura,3,Casado,5916,15497,3,Sim,Sim,13,3,1,80,0,8,1,3,1,0,0,1
+112,43,Não,Não Viaja,1344,Pesquisa e Desenvolvimento,7,3,Ciências Médicas,1,262,4,Masculino,37,4,1,Pesquisador cientista,4,Divorciado,2089,5228,4,Sim,Não,14,3,4,80,3,7,3,4,5,4,2,2
+113,37,Não,Viaja raramente,290,Pesquisa e Desenvolvimento,21,3,Ciências Humanas,1,267,2,Masculino,65,4,1,Pesquisador cientista,1,Casado,3564,22977,1,Sim,Sim,12,3,1,80,1,8,3,2,8,7,1,7
+114,42,Não,Não Viaja,926,Pesquisa e Desenvolvimento,21,2,Ciências Médicas,1,270,3,Feminino,36,3,2,Diretor de manufatura,3,Divorciado,5265,16439,2,Sim,Não,16,3,2,80,1,11,5,3,5,3,0,2
+115,38,Não,Viaja raramente,1084,Pesquisa e Desenvolvimento,29,3,EnsiNão técnico,1,273,4,Masculino,54,3,2,Diretor de manufatura,4,Casado,6261,4185,3,Sim,Não,18,3,1,80,1,9,3,1,7,7,1,7
+116,49,Não,Não Viaja,1002,Pesquisa e Desenvolvimento,18,4,Ciências Humanas,1,275,4,Masculino,92,3,2,Diretor de manufatura,4,Divorciado,6804,23793,1,Sim,Sim,15,3,1,80,2,7,0,3,7,7,1,7
+117,34,Não,Viaja frequentemente,878,Pesquisa e Desenvolvimento,10,4,Ciências Médicas,1,277,4,Masculino,43,3,1,Pesquisador cientista,3,Divorciado,3815,5972,1,Sim,Sim,17,3,4,80,1,5,4,4,5,3,2,0
+118,40,Não,Viaja raramente,905,Pesquisa e Desenvolvimento,19,2,Ciências Médicas,1,281,3,Masculino,99,3,2,Técnico de Laboratório,4,Casado,2741,16523,8,Sim,Sim,15,3,3,80,1,15,2,4,7,2,3,7
+119,38,Sim,Viaja raramente,1180,Pesquisa e Desenvolvimento,29,1,Ciências Médicas,1,282,2,Masculino,70,3,2,Reprentante de saúde,1,Casado,6673,11354,7,Sim,Sim,19,3,2,80,0,17,2,3,1,0,0,0
+120,29,Sim,Viaja raramente,121,Vendas,27,3,Marketing,1,283,2,Feminino,35,3,3,Executivo de vendas,4,Casado,7639,24525,1,Sim,Não,22,4,4,80,3,10,3,2,10,4,1,9
+121,36,Não,Viaja frequentemente,635,Pesquisa e Desenvolvimento,18,1,Ciências Médicas,1,286,2,Feminino,73,3,1,Técnico de Laboratório,4,Solteiro,2153,7703,1,Sim,Não,13,3,1,80,0,8,2,3,8,1,1,7
+122,40,Não,Não Viaja,1151,Pesquisa e Desenvolvimento,9,5,Ciências Humanas,1,287,4,Masculino,63,2,2,Reprentante de saúde,4,Casado,4876,14242,9,Sim,Não,14,3,4,80,1,5,5,1,3,2,0,2
+123,27,Não,Viaja frequentemente,1242,Vendas,20,3,Ciências Humanas,1,293,4,Feminino,90,3,2,Executivo de vendas,3,Solteiro,9981,12916,1,Sim,Não,14,3,4,80,0,7,2,3,7,7,0,7
+124,51,Não,Viaja raramente,1469,Pesquisa e Desenvolvimento,8,4,Ciências Humanas,1,296,2,Masculino,81,2,3,Diretor de pesquisa,2,Casado,12490,15736,5,Sim,Não,16,3,4,80,2,16,5,1,10,9,4,7
+125,41,Não,Viaja raramente,896,Vendas,6,3,Ciências Humanas,1,298,4,Feminino,75,3,3,Gerente,4,Solteiro,13591,14674,3,Sim,Sim,18,3,3,80,0,16,3,3,1,0,0,0
+126,30,Sim,Viaja frequentemente,334,Vendas,26,4,Marketing,1,299,3,Feminino,52,2,2,Executivo de vendas,1,Solteiro,6696,22967,5,Sim,Não,15,3,3,80,0,9,5,2,6,3,0,1
+127,45,Não,Não Viaja,1052,Vendas,6,3,Ciências Médicas,1,302,4,Feminino,57,2,3,Executivo de vendas,4,Solteiro,8865,16840,6,Sim,Não,12,3,4,80,0,23,2,3,19,7,12,8
+128,37,Não,Viaja frequentemente,663,Pesquisa e Desenvolvimento,11,3,Outras,1,306,2,Masculino,47,3,3,Diretor de pesquisa,4,Divorciado,12185,10056,1,Sim,Sim,14,3,3,80,3,10,1,3,10,8,0,7
+129,29,Sim,Viaja raramente,896,Pesquisa e Desenvolvimento,18,1,Ciências Médicas,1,315,3,Masculino,86,2,1,Pesquisador cientista,4,Solteiro,2389,14961,1,Sim,Sim,13,3,3,80,0,4,3,2,4,3,0,1
+130,59,Não,Viaja raramente,818,Recursos HumaNãos,6,2,Ciências Médicas,1,321,2,Masculino,52,3,1,Recursos HumaNãos,3,Casado,2267,25657,8,Sim,Não,17,3,4,80,0,7,2,2,2,2,2,2
+131,33,Sim,Viaja raramente,813,Pesquisa e Desenvolvimento,14,3,Ciências Médicas,1,325,3,Masculino,58,3,1,Técnico de Laboratório,4,Casado,2436,22149,5,Sim,Sim,13,3,3,80,1,8,2,1,5,4,0,4
+132,43,Não,Viaja raramente,1034,Vendas,16,3,Marketing,1,327,4,Feminino,80,3,4,Gerente,4,Casado,16064,7744,5,Sim,Sim,22,4,3,80,1,22,3,3,17,13,1,9
+133,32,Não,Não Viaja,976,Vendas,26,4,Marketing,1,333,3,Masculino,100,3,2,Executivo de vendas,4,Casado,4465,12069,0,Sim,Não,18,3,1,80,0,4,2,3,3,2,2,2
+134,41,Não,Viaja raramente,1411,Pesquisa e Desenvolvimento,19,2,Ciências Humanas,1,334,3,Masculino,36,3,2,Pesquisador cientista,1,Divorciado,3072,19877,2,Sim,Não,16,3,1,80,2,17,2,2,1,0,0,0
+135,40,Não,Viaja raramente,1300,Pesquisa e Desenvolvimento,24,2,EnsiNão técnico,1,335,1,Masculino,62,3,2,Pesquisador cientista,4,Divorciado,3319,24447,1,Sim,Não,17,3,1,80,2,9,3,3,9,8,4,7
+136,45,Não,Viaja frequentemente,1199,Pesquisa e Desenvolvimento,7,4,Ciências Humanas,1,341,1,Masculino,77,4,2,Diretor de manufatura,3,Casado,6434,5118,4,Sim,Não,17,3,4,80,1,9,1,3,3,2,0,2
+137,37,Sim,Viaja frequentemente,504,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,342,1,Masculino,61,3,3,Diretor de manufatura,3,Divorciado,10048,22573,6,Sim,Não,11,3,2,80,2,17,5,3,1,0,0,0
+138,29,Não,Viaja raramente,665,Pesquisa e Desenvolvimento,15,3,Ciências Humanas,1,346,3,Masculino,60,3,1,Pesquisador cientista,4,Solteiro,2340,22673,1,Sim,Não,19,3,1,80,0,6,1,3,6,5,1,5
+139,42,Não,Viaja raramente,916,Pesquisa e Desenvolvimento,17,2,Ciências Humanas,1,347,4,Feminino,82,4,2,Pesquisador cientista,1,Solteiro,6545,23016,3,Sim,Sim,13,3,3,80,0,10,1,3,3,2,0,2
+140,29,Não,Viaja raramente,1247,Vendas,20,2,Marketing,1,349,4,Masculino,45,3,2,Executivo de vendas,4,Divorciado,6931,10732,2,Sim,Não,14,3,4,80,1,10,2,3,3,2,0,2
+141,31,Sim,Viaja frequentemente,307,Pesquisa e Desenvolvimento,29,2,Ciências Médicas,1,355,3,Masculino,71,2,1,Técnico de Laboratório,2,Solteiro,3479,11652,0,Sim,Não,11,3,2,80,0,6,2,4,5,4,1,4
+142,32,Não,Viaja frequentemente,1311,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,359,2,Masculino,100,4,1,Técnico de Laboratório,2,Casado,2794,26062,1,Sim,Não,20,4,3,80,0,5,3,1,5,1,0,3
+143,31,Não,Viaja raramente,1463,Pesquisa e Desenvolvimento,23,3,Ciências Médicas,1,367,2,Masculino,64,2,2,Reprentante de saúde,4,Casado,5582,14408,0,Sim,Não,21,4,2,80,1,10,2,3,9,0,7,8
+144,45,Não,Viaja raramente,1385,Pesquisa e Desenvolvimento,20,2,Ciências Médicas,1,372,3,Masculino,79,3,4,Reprentante de saúde,4,Casado,13496,7501,0,Sim,Sim,14,3,2,80,0,21,2,3,20,7,4,10
+145,36,Não,Viaja raramente,1403,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,373,4,Masculino,47,3,1,Técnico de Laboratório,4,Casado,3210,20251,0,Sim,Não,11,3,3,80,1,16,4,3,15,13,10,11
+146,47,Sim,Não Viaja,666,Pesquisa e Desenvolvimento,29,4,Ciências Humanas,1,376,1,Masculino,88,3,3,Gerente,2,Casado,11849,10268,1,Sim,Sim,12,3,4,80,1,10,2,2,10,7,9,9
+147,28,Não,Viaja raramente,1158,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,377,4,Masculino,94,3,1,Pesquisador cientista,4,Casado,2070,2613,1,Sim,Não,23,4,4,80,1,5,3,2,5,2,0,4
+148,37,Não,Viaja raramente,228,Vendas,6,4,Ciências Médicas,1,378,3,Masculino,98,3,2,Executivo de vendas,4,Casado,6502,22825,4,Sim,Não,14,3,2,80,1,7,5,4,5,4,0,1
+149,35,Não,Viaja raramente,1315,Pesquisa e Desenvolvimento,22,3,Ciências Humanas,1,381,2,Feminino,71,4,3,Gerente,2,Divorciado,11996,19100,7,Sim,Não,18,3,2,80,1,10,6,2,7,7,6,2
+150,38,Não,Viaja raramente,322,Vendas,7,2,Ciências Médicas,1,382,1,Feminino,44,4,2,Executivo de vendas,1,Divorciado,5605,19191,1,Sim,Sim,24,4,3,80,1,8,3,3,8,0,7,7
+151,55,Não,Viaja raramente,147,Pesquisa e Desenvolvimento,20,2,EnsiNão técnico,1,389,2,Masculino,37,3,2,Técnico de Laboratório,4,Casado,5415,15972,3,Sim,Sim,19,3,4,80,1,12,4,3,10,7,0,8
+152,26,Não,Viaja frequentemente,496,Pesquisa e Desenvolvimento,11,2,Ciências Médicas,1,390,1,Masculino,60,3,2,Reprentante de saúde,1,Casado,4741,22722,1,Sim,Sim,13,3,3,80,1,5,3,3,5,3,3,3
+153,44,Sim,Viaja frequentemente,920,Pesquisa e Desenvolvimento,24,3,Ciências Humanas,1,392,4,Masculino,43,3,1,Técnico de Laboratório,3,Divorciado,3161,19920,3,Sim,Sim,22,4,4,80,1,19,0,1,1,0,0,0
+154,38,Não,Viaja raramente,688,Pesquisa e Desenvolvimento,23,4,Ciências Humanas,1,393,4,Masculino,82,3,2,Reprentante de saúde,4,Divorciado,5745,18899,9,Sim,Não,14,3,2,80,1,10,2,3,2,2,1,2
+155,26,Sim,Viaja raramente,1449,Pesquisa e Desenvolvimento,16,4,Ciências Médicas,1,394,1,Masculino,45,3,1,Técnico de Laboratório,2,Divorciado,2373,14180,2,Sim,Sim,13,3,4,80,1,5,2,3,3,2,0,2
+156,28,Não,Viaja raramente,1117,Pesquisa e Desenvolvimento,8,2,Ciências Humanas,1,395,4,Feminino,66,3,1,Pesquisador cientista,4,Solteiro,3310,4488,1,Sim,Não,21,4,4,80,0,5,3,3,5,3,0,2
+157,49,Não,Viaja frequentemente,636,Pesquisa e Desenvolvimento,10,4,Ciências Humanas,1,396,3,Feminino,35,3,5,Diretor de pesquisa,1,Solteiro,18665,25594,9,Sim,Sim,11,3,4,80,0,22,4,3,3,2,1,2
+158,37,Não,Viaja frequentemente,889,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,403,2,Masculino,53,3,1,Pesquisador cientista,4,Casado,2326,11411,1,Sim,Sim,12,3,3,80,3,4,3,2,4,2,1,2
+159,42,Não,Viaja frequentemente,555,Vendas,26,3,Marketing,1,404,3,Feminino,77,3,4,Executivo de vendas,2,Casado,13525,14864,5,Sim,Não,14,3,4,80,1,23,2,4,20,4,4,8
+160,35,Não,Viaja raramente,1232,Vendas,16,3,Marketing,1,406,3,Masculino,96,3,3,Executivo de vendas,2,Casado,8020,5100,0,Sim,Não,15,3,3,80,2,12,3,2,11,9,6,9
+161,36,Não,Viaja frequentemente,566,Pesquisa e Desenvolvimento,18,4,Ciências Humanas,1,407,3,Masculino,81,4,1,Técnico de Laboratório,4,Casado,3688,7122,4,Sim,Não,18,3,4,80,2,4,2,3,1,0,0,0
+162,18,Não,Viaja raramente,812,Vendas,10,3,Ciências Médicas,1,411,4,Feminino,69,2,1,Representante de vendas,3,Solteiro,1200,9724,1,Sim,Não,12,3,1,80,0,0,2,3,0,0,0,0
+163,28,Não,Viaja raramente,1476,Pesquisa e Desenvolvimento,16,2,Ciências Médicas,1,412,2,Masculino,68,4,2,Reprentante de saúde,1,Solteiro,5661,4824,0,Sim,Não,19,3,3,80,0,9,2,3,8,3,0,7
+164,31,Não,Viaja raramente,218,Vendas,7,3,EnsiNão técnico,1,416,2,Masculino,100,4,2,Executivo de vendas,4,Casado,6929,12241,4,Sim,Não,11,3,2,80,1,10,3,2,8,7,7,7
+165,36,Não,Não Viaja,1105,Pesquisa e Desenvolvimento,24,4,Ciências Humanas,1,419,2,Feminino,47,3,2,Técnico de Laboratório,2,Casado,5674,6927,7,Sim,Não,15,3,3,80,1,11,3,3,9,8,0,8
+166,32,Não,Viaja raramente,906,Vendas,7,3,Ciências Humanas,1,420,4,Masculino,91,2,2,Executivo de vendas,3,Casado,5484,16985,1,Sim,Não,14,3,3,80,1,13,3,2,13,8,4,8
+167,38,Não,Viaja raramente,849,Pesquisa e Desenvolvimento,25,2,Ciências Humanas,1,421,1,Feminino,81,2,3,Diretor de pesquisa,2,Casado,12061,26707,3,Sim,Não,17,3,3,80,1,19,2,3,10,8,0,1
+168,45,Não,Viaja frequentemente,1249,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,425,1,Masculino,97,3,3,Técnico de Laboratório,1,Divorciado,5210,20308,1,Sim,Não,18,3,1,80,1,24,2,3,24,9,9,11
+169,39,Não,Viaja raramente,117,Pesquisa e Desenvolvimento,10,1,Ciências Médicas,1,429,3,Masculino,99,3,4,Gerente,1,Casado,17068,5355,1,Sim,Sim,14,3,4,80,0,21,3,3,21,9,11,10
+170,43,Não,Viaja frequentemente,185,Pesquisa e Desenvolvimento,10,4,Ciências Humanas,1,430,3,Feminino,33,3,1,Técnico de Laboratório,4,Solteiro,2455,10675,0,Sim,Não,19,3,1,80,0,9,5,3,8,7,1,7
+171,52,Sim,Viaja raramente,723,Pesquisa e Desenvolvimento,8,4,Ciências Médicas,1,433,3,Masculino,85,2,2,Pesquisador cientista,2,Casado,4941,17747,2,Sim,Não,15,3,1,80,0,11,3,2,8,2,7,7
+172,32,Não,Viaja raramente,588,Vendas,8,2,EnsiNão técnico,1,436,3,Feminino,65,2,2,Executivo de vendas,2,Casado,5228,24624,1,Sim,Sim,11,3,4,80,0,13,2,3,13,12,11,9
+173,31,Não,Viaja raramente,691,Vendas,7,3,Marketing,1,438,4,Masculino,73,3,2,Executivo de vendas,4,Divorciado,7547,7143,4,Sim,Não,12,3,4,80,3,13,3,3,7,7,1,7
+174,30,Não,Viaja raramente,1275,Pesquisa e Desenvolvimento,28,2,Ciências Médicas,1,441,4,Feminino,64,3,2,Pesquisador cientista,4,Casado,5775,11934,1,Sim,Não,13,3,4,80,2,11,2,3,10,8,1,9
+175,31,Não,Viaja frequentemente,798,Pesquisa e Desenvolvimento,7,2,Ciências Humanas,1,442,3,Feminino,48,2,3,Diretor de manufatura,3,Casado,8943,14034,1,Sim,Não,24,4,1,80,1,10,2,3,10,9,8,9
+176,39,Não,Viaja frequentemente,672,Pesquisa e Desenvolvimento,7,2,Ciências Médicas,1,444,3,Masculino,54,2,5,Gerente,4,Casado,19272,21141,1,Sim,Não,15,3,1,80,1,21,2,3,21,9,13,3
+177,33,Não,Viaja frequentemente,508,Vendas,10,3,Marketing,1,446,2,Masculino,46,2,2,Executivo de vendas,4,Solteiro,4682,4317,3,Sim,Não,14,3,3,80,0,9,6,2,7,7,0,1
+178,43,Não,Viaja frequentemente,559,Pesquisa e Desenvolvimento,10,4,Ciências Humanas,1,448,3,Feminino,82,2,2,Técnico de Laboratório,3,Divorciado,5257,6227,1,Sim,Não,11,3,2,80,1,9,3,4,9,7,0,0
+179,54,Não,Viaja frequentemente,928,Pesquisa e Desenvolvimento,20,4,Ciências Humanas,1,450,4,Feminino,31,3,2,Pesquisador cientista,3,Solteiro,4869,16885,3,Sim,Não,12,3,4,80,0,20,4,2,4,3,0,3
+180,43,Não,Viaja raramente,1001,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,451,3,Feminino,43,3,3,Reprentante de saúde,1,Casado,9985,9262,8,Sim,Não,16,3,1,80,1,10,1,2,1,0,0,0
+181,45,Não,Viaja raramente,549,Pesquisa e Desenvolvimento,8,4,Outras,1,452,4,Masculino,75,3,2,Pesquisador cientista,4,Casado,3697,9278,9,Sim,Não,14,3,1,80,2,12,3,3,10,9,9,8
+182,29,Sim,Viaja raramente,318,Pesquisa e Desenvolvimento,8,4,Outras,1,454,2,Masculino,77,1,1,Técnico de Laboratório,1,Casado,2119,4759,1,Sim,Sim,11,3,4,80,0,7,4,2,7,7,0,7
+183,29,Não,Viaja raramente,738,Pesquisa e Desenvolvimento,9,5,Outras,1,455,2,Masculino,30,2,1,Técnico de Laboratório,4,Solteiro,3983,7621,0,Sim,Não,17,3,3,80,0,4,2,3,3,2,2,2
+184,27,Não,Viaja raramente,1130,Vendas,8,4,Marketing,1,458,2,Feminino,56,3,2,Executivo de vendas,2,Casado,6214,3415,1,Sim,Não,18,3,1,80,1,8,3,3,8,7,0,7
+185,38,Não,Viaja raramente,343,Pesquisa e Desenvolvimento,15,2,Ciências Humanas,1,461,3,Masculino,92,2,3,Diretor de pesquisa,4,Divorciado,11510,15682,0,Sim,Sim,14,3,2,80,1,12,3,3,11,10,2,9
+186,31,Não,Viaja raramente,1232,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,462,3,Feminino,39,3,3,Diretor de manufatura,4,Solteiro,7143,25713,1,Sim,Sim,14,3,3,80,0,11,2,2,11,9,4,10
+187,29,Não,Viaja raramente,144,Vendas,10,1,Marketing,1,463,4,Feminino,39,2,2,Executivo de vendas,2,Divorciado,8268,11866,1,Sim,Sim,14,3,1,80,2,7,2,3,7,7,1,7
+188,23,Não,Viaja raramente,1309,Pesquisa e Desenvolvimento,26,1,Ciências Humanas,1,465,3,Masculino,83,3,1,Pesquisador cientista,4,Divorciado,2904,16092,1,Sim,Não,12,3,3,80,2,4,2,2,4,2,0,2
+189,41,Não,Viaja raramente,483,Pesquisa e Desenvolvimento,6,3,Ciências Médicas,1,466,4,Masculino,95,2,2,Diretor de manufatura,2,Solteiro,6032,10110,6,Sim,Sim,15,3,4,80,0,8,3,3,5,4,1,2
+190,42,Não,Viaja raramente,810,Pesquisa e Desenvolvimento,23,5,Ciências Humanas,1,468,1,Feminino,44,3,4,Diretor de pesquisa,4,Solteiro,15992,15901,2,Sim,Não,14,3,2,80,0,16,2,3,1,0,0,0
+191,48,Não,Viaja raramente,530,Vendas,29,1,Ciências Médicas,1,473,1,Feminino,91,3,3,Gerente,3,Casado,12504,23978,3,Sim,Não,21,4,2,80,1,15,3,1,0,0,0,0
+192,37,Não,Viaja raramente,1319,Pesquisa e Desenvolvimento,6,3,Ciências Médicas,1,474,3,Masculino,51,4,2,Pesquisador cientista,1,Divorciado,5974,17001,4,Sim,Sim,13,3,1,80,2,13,2,3,7,7,6,7
+193,30,Não,Não Viaja,641,Vendas,25,2,EnsiNão técnico,1,475,4,Feminino,85,3,2,Executivo de vendas,3,Casado,4736,6069,7,Sim,Sim,12,3,2,80,1,4,2,4,2,2,2,2
+194,40,Não,Viaja raramente,1171,Pesquisa e Desenvolvimento,10,4,Ciências Humanas,1,483,4,Feminino,46,4,1,Técnico de Laboratório,3,Casado,2213,22495,3,Sim,Sim,13,3,3,80,1,10,3,3,7,7,1,7
+195,21,Não,Não Viaja,895,Vendas,9,2,Ciências Médicas,1,484,1,Masculino,39,3,1,Representante de vendas,4,Solteiro,2610,2851,1,Sim,Não,24,4,3,80,0,3,3,2,3,2,2,2
+196,37,Não,Viaja raramente,921,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,486,3,Feminino,98,3,1,Técnico de Laboratório,1,Casado,3452,17663,6,Sim,Não,20,4,2,80,1,17,3,3,5,4,0,3
+197,46,Não,Não Viaja,1144,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,487,3,Feminino,30,3,2,Diretor de manufatura,3,Casado,5258,16044,2,Sim,Não,14,3,3,80,0,7,2,4,1,0,0,0
+198,50,Não,Viaja raramente,1046,Pesquisa e Desenvolvimento,10,3,EnsiNão técnico,1,491,4,Masculino,100,2,3,Reprentante de saúde,4,Solteiro,10496,2755,6,Sim,Não,15,3,4,80,0,20,2,3,4,3,1,3
+199,40,Sim,Viaja raramente,575,Vendas,22,2,Marketing,1,492,3,Masculino,68,2,2,Executivo de vendas,3,Casado,6380,6110,2,Sim,Sim,12,3,1,80,2,8,6,3,6,4,1,0
+200,31,Não,Viaja raramente,408,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,493,3,Masculino,42,2,1,Pesquisador cientista,2,Solteiro,2657,7551,0,Sim,Sim,16,3,4,80,0,3,5,3,2,2,2,2
+201,21,Sim,Viaja raramente,156,Vendas,12,3,Ciências Humanas,1,494,3,Feminino,90,4,1,Representante de vendas,2,Solteiro,2716,25422,1,Sim,Não,15,3,4,80,0,1,0,3,1,0,0,0
+202,29,Não,Viaja raramente,1283,Pesquisa e Desenvolvimento,23,3,Ciências Humanas,1,495,4,Masculino,54,3,1,Pesquisador cientista,4,Solteiro,2201,18168,9,Sim,Não,16,3,4,80,0,6,4,3,3,2,1,2
+203,35,Não,Viaja raramente,755,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,496,3,Masculino,97,2,2,Reprentante de saúde,2,Solteiro,6540,19394,9,Sim,Não,19,3,3,80,0,10,5,3,1,1,0,0
+204,28,Não,Viaja raramente,304,Vendas,9,4,Ciências Humanas,1,498,2,Masculino,92,3,2,Executivo de vendas,4,Solteiro,5253,20750,1,Sim,Não,16,3,4,80,0,7,1,3,7,5,0,7
+205,49,Não,Viaja raramente,1261,Pesquisa e Desenvolvimento,7,3,Outras,1,499,2,Masculino,31,2,3,Reprentante de saúde,3,Solteiro,10965,12066,8,Sim,Não,24,4,3,80,0,26,2,3,5,2,0,0
+206,51,Não,Viaja raramente,1178,Vendas,14,2,Ciências Humanas,1,500,3,Feminino,87,3,2,Executivo de vendas,4,Casado,4936,14862,4,Sim,Não,11,3,3,80,1,18,2,2,7,7,0,7
+207,34,Sim,Não Viaja,1362,Vendas,19,3,Marketing,1,502,1,Masculino,67,4,2,Executivo de vendas,4,Solteiro,5304,4652,8,Sim,Sim,13,3,2,80,0,9,3,2,5,2,0,4
+208,24,Não,Viaja raramente,1371,Vendas,10,4,Marketing,1,507,4,Feminino,77,3,2,Executivo de vendas,3,Divorciado,4260,5915,1,Sim,Sim,12,3,4,80,1,5,2,4,5,2,0,3
+209,22,Não,Viaja raramente,253,Pesquisa e Desenvolvimento,11,3,Ciências Médicas,1,511,1,Feminino,43,3,1,Pesquisador cientista,2,Casado,2244,24440,1,Sim,Não,13,3,4,80,1,2,1,3,2,1,1,2
+210,37,Não,Viaja raramente,1107,Pesquisa e Desenvolvimento,14,3,Ciências Humanas,1,515,4,Feminino,95,3,1,Técnico de Laboratório,1,Divorciado,3034,26914,1,Sim,Não,12,3,3,80,1,18,2,2,18,7,12,17
+211,37,Não,Viaja raramente,1305,Pesquisa e Desenvolvimento,10,4,Ciências Humanas,1,518,3,Masculino,49,3,2,Diretor de manufatura,2,Solteiro,4197,21123,2,Sim,Sim,12,3,4,80,0,18,2,2,1,0,0,1
+212,43,Não,Viaja raramente,982,Pesquisa e Desenvolvimento,12,3,Ciências Humanas,1,520,1,Masculino,59,2,4,Diretor de pesquisa,2,Divorciado,14336,4345,1,Sim,Não,11,3,3,80,1,25,3,3,25,10,3,9
+213,31,Não,Viaja raramente,480,Pesquisa e Desenvolvimento,7,2,Ciências Médicas,1,524,2,Feminino,31,3,2,Diretor de manufatura,1,Casado,4306,4156,1,Sim,Não,12,3,2,80,1,13,5,1,13,10,3,12
+214,43,Não,Viaja frequentemente,313,Pesquisa e Desenvolvimento,21,3,Ciências Médicas,1,525,4,Masculino,61,3,1,Técnico de Laboratório,4,Casado,2258,15238,7,Sim,Não,20,4,1,80,1,8,1,3,3,2,1,2
+215,43,Não,Viaja raramente,1473,Pesquisa e Desenvolvimento,8,4,Outras,1,526,3,Feminino,74,3,2,Reprentante de saúde,3,Divorciado,4522,2227,4,Sim,Sim,14,3,4,80,0,8,3,3,5,2,0,2
+216,37,Não,Não Viaja,1063,Pesquisa e Desenvolvimento,25,5,Ciências Médicas,1,529,2,Feminino,72,3,2,Pesquisador cientista,3,Casado,4449,23866,3,Sim,Sim,15,3,1,80,2,15,2,3,13,11,10,7
+217,56,Não,Viaja frequentemente,906,Vendas,6,3,Ciências Humanas,1,532,3,Feminino,86,4,4,Executivo de vendas,1,Casado,13212,18256,9,Sim,Não,11,3,4,80,3,36,0,2,7,7,7,7
+218,30,Não,Viaja raramente,1082,Vendas,12,3,EnsiNão técnico,1,533,2,Feminino,83,3,2,Executivo de vendas,3,Solteiro,6577,19558,0,Sim,Não,11,3,2,80,0,6,6,3,5,4,4,4
+219,28,Não,Viaja raramente,1300,Pesquisa e Desenvolvimento,17,2,Ciências Médicas,1,536,3,Masculino,79,3,2,Técnico de Laboratório,1,Divorciado,4558,13535,1,Sim,Não,12,3,4,80,1,10,2,3,10,0,1,8
+220,45,Não,Viaja raramente,192,Pesquisa e Desenvolvimento,10,2,Ciências Humanas,1,544,1,Masculino,69,3,1,Pesquisador cientista,4,Casado,2654,9655,3,Sim,Não,21,4,4,80,2,8,3,2,2,2,0,2
+221,42,Não,Viaja frequentemente,532,Pesquisa e Desenvolvimento,29,2,Ciências Humanas,1,547,1,Feminino,92,3,2,Pesquisador cientista,3,Divorciado,4556,12932,2,Sim,Não,11,3,2,80,1,19,3,3,5,4,0,2
+222,60,Não,Viaja raramente,422,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,549,1,Feminino,41,3,5,Gerente,1,Casado,19566,3854,5,Sim,Não,11,3,4,80,0,33,5,1,29,8,11,10
+223,46,Não,Viaja raramente,1485,Pesquisa e Desenvolvimento,18,3,Ciências Médicas,1,550,3,Feminino,87,3,2,Diretor de manufatura,3,Divorciado,4810,26314,2,Sim,Não,14,3,3,80,1,19,5,2,10,7,0,8
+224,42,Não,Viaja frequentemente,1368,Pesquisa e Desenvolvimento,28,4,EnsiNão técnico,1,551,4,Feminino,88,2,2,Reprentante de saúde,4,Casado,4523,4386,0,Sim,Não,11,3,4,80,3,7,4,4,6,5,0,4
+225,34,Sim,Viaja frequentemente,296,Vendas,6,2,Marketing,1,555,4,Feminino,33,1,1,Representante de vendas,3,Divorciado,2351,12253,0,Sim,Não,16,3,4,80,1,3,3,2,2,2,1,0
+226,26,Não,Viaja raramente,1349,Pesquisa e Desenvolvimento,23,3,Ciências Humanas,1,560,1,Feminino,90,3,1,Pesquisador cientista,4,Divorciado,2886,3032,1,Sim,Não,22,4,2,80,2,3,3,1,3,2,0,2
+227,29,Sim,Viaja raramente,408,Pesquisa e Desenvolvimento,25,5,EnsiNão técnico,1,565,3,Feminino,71,2,1,Pesquisador cientista,2,Casado,2546,18300,5,Sim,Não,16,3,2,80,0,6,2,4,2,2,1,1
+228,30,Não,Não Viaja,1398,Vendas,22,4,Outras,1,567,3,Feminino,69,3,3,Executivo de vendas,1,Casado,8412,2890,0,Sim,Não,11,3,3,80,0,10,3,3,9,8,7,8
+229,57,Não,Viaja raramente,210,Vendas,29,3,Marketing,1,568,1,Masculino,56,2,4,Gerente,4,Divorciado,14118,22102,3,Sim,Não,12,3,3,80,1,32,3,2,1,0,0,0
+230,50,Não,Viaja raramente,1099,Pesquisa e Desenvolvimento,29,4,Ciências Humanas,1,569,2,Masculino,88,2,4,Gerente,3,Casado,17046,9314,0,Sim,Não,15,3,2,80,1,28,2,3,27,10,15,7
+231,60,Não,Viaja frequentemente,1499,Vendas,28,3,Marketing,1,573,3,Feminino,80,2,3,Executivo de vendas,1,Casado,10266,2845,4,Sim,Não,19,3,4,80,0,22,5,4,18,13,13,11
+232,35,Não,Viaja raramente,144,Pesquisa e Desenvolvimento,22,3,Ciências Humanas,1,577,4,Masculino,46,1,1,Técnico de Laboratório,3,Solteiro,4230,19225,0,Sim,Não,15,3,3,80,0,6,2,3,5,4,4,3
+233,54,Não,Viaja raramente,548,Pesquisa e Desenvolvimento,8,4,Ciências Humanas,1,578,3,Feminino,42,3,2,Técnico de Laboratório,3,Solteiro,3780,23428,7,Sim,Não,11,3,3,80,0,19,3,3,1,0,0,0
+234,46,Não,Viaja raramente,1125,Vendas,10,3,Marketing,1,580,3,Feminino,94,2,3,Executivo de vendas,4,Casado,9071,11563,2,Sim,Sim,19,3,3,80,1,15,3,3,3,2,1,2
+235,31,Não,Viaja raramente,1274,Pesquisa e Desenvolvimento,9,1,Ciências Humanas,1,581,3,Masculino,33,3,3,Diretor de manufatura,2,Divorciado,10648,14394,1,Sim,Não,25,4,4,80,1,13,6,4,13,8,0,8
+236,33,Sim,Viaja raramente,1277,Pesquisa e Desenvolvimento,15,1,Ciências Médicas,1,582,2,Masculino,56,3,3,Gerente,3,Casado,13610,24619,7,Sim,Sim,12,3,4,80,0,15,2,4,7,6,7,7
+237,33,Sim,Viaja raramente,587,Pesquisa e Desenvolvimento,10,1,Ciências Médicas,1,584,1,Masculino,38,1,1,Técnico de Laboratório,4,Divorciado,3408,6705,7,Sim,Não,13,3,1,80,3,8,2,3,4,3,1,3
+238,30,Não,Viaja raramente,413,Vendas,7,1,Marketing,1,585,4,Masculino,57,3,1,Representante de vendas,2,Solteiro,2983,18398,0,Sim,Não,14,3,1,80,0,4,3,3,3,2,1,2
+239,35,Não,Viaja raramente,1276,Pesquisa e Desenvolvimento,16,3,Ciências Humanas,1,586,4,Masculino,72,3,3,Reprentante de saúde,3,Casado,7632,14295,4,Sim,Sim,12,3,3,80,0,10,2,3,8,7,0,0
+240,31,Sim,Viaja frequentemente,534,Pesquisa e Desenvolvimento,20,3,Ciências Humanas,1,587,1,Masculino,66,3,3,Reprentante de saúde,3,Casado,9824,22908,3,Sim,Não,12,3,1,80,0,12,2,3,1,0,0,0
+241,34,Sim,Viaja frequentemente,988,Recursos HumaNãos,23,3,Recursos HumaNãos,1,590,2,Feminino,43,3,3,Recursos HumaNãos,1,Divorciado,9950,11533,9,Sim,Sim,15,3,3,80,3,11,2,3,3,2,0,2
+242,36,Não,Não Viaja,635,Vendas,10,4,Ciências Médicas,1,592,2,Masculino,32,3,3,Executivo de vendas,4,Solteiro,9980,15318,1,Sim,Não,14,3,4,80,0,10,3,2,10,3,9,7
+243,55,Não,Viaja raramente,1117,Vendas,18,5,Ciências Humanas,1,597,1,Feminino,83,3,4,Gerente,2,Solteiro,16835,9873,3,Sim,Não,23,4,4,80,0,37,2,3,10,9,7,7
+244,41,Não,Não Viaja,267,Vendas,10,2,Ciências Humanas,1,599,4,Masculino,56,3,2,Executivo de vendas,4,Solteiro,6230,13430,7,Sim,Não,14,3,4,80,0,16,3,3,14,3,1,10
+245,40,Não,Viaja raramente,302,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,601,2,Feminino,75,3,4,Diretor de manufatura,3,Solteiro,13237,20364,7,Sim,Não,15,3,3,80,0,22,3,3,20,6,5,13
+246,39,Não,Viaja frequentemente,443,Pesquisa e Desenvolvimento,8,1,Ciências Humanas,1,602,3,Feminino,48,3,1,Técnico de Laboratório,3,Casado,3755,17872,1,Sim,Não,11,3,1,80,1,8,3,3,8,3,0,7
+247,42,Não,Viaja raramente,319,Pesquisa e Desenvolvimento,24,3,Ciências Médicas,1,605,4,Masculino,56,3,3,Diretor de manufatura,1,Casado,7406,6950,1,Sim,Sim,21,4,4,80,1,10,5,2,10,9,5,8
+248,26,Sim,Viaja frequentemente,426,Recursos HumaNãos,17,4,Ciências Humanas,1,608,2,Feminino,58,3,1,Recursos HumaNãos,3,Divorciado,2741,22808,0,Sim,Sim,11,3,2,80,1,8,2,2,7,7,1,0
+249,29,Não,Viaja raramente,232,Pesquisa e Desenvolvimento,19,3,EnsiNão técnico,1,611,4,Masculino,34,3,2,Diretor de manufatura,4,Divorciado,4262,22645,4,Sim,Não,12,3,2,80,2,8,2,4,3,2,1,2
+250,31,Não,Viaja raramente,688,Vendas,7,3,Ciências Humanas,1,613,3,Masculino,44,2,3,Gerente,4,Divorciado,11557,25291,9,Sim,Não,21,4,3,80,1,10,3,2,5,4,0,1
+251,40,Não,Não Viaja,1094,Vendas,28,3,Outras,1,615,3,Masculino,58,1,3,Executivo de vendas,1,Divorciado,10932,11373,3,Sim,Não,15,3,3,80,1,20,2,3,1,0,0,1
+252,26,Não,Viaja raramente,775,Vendas,29,2,Ciências Médicas,1,618,1,Masculino,45,3,2,Executivo de vendas,3,Divorciado,4306,4267,5,Sim,Não,12,3,1,80,2,8,5,3,0,0,0,0
+253,34,Não,Viaja raramente,258,Vendas,21,4,Ciências Humanas,1,621,4,Masculino,74,4,2,Executivo de vendas,4,Solteiro,5337,19921,1,Sim,Não,12,3,4,80,0,10,3,3,10,7,5,7
+254,26,Sim,Viaja raramente,471,Pesquisa e Desenvolvimento,24,3,EnsiNão técnico,1,622,3,Masculino,66,1,1,Técnico de Laboratório,4,Solteiro,2340,23213,1,Sim,Sim,18,3,2,80,0,1,3,1,1,0,0,0
+255,46,Não,Viaja frequentemente,1034,Pesquisa e Desenvolvimento,18,1,Ciências Médicas,1,624,1,Feminino,86,3,3,Reprentante de saúde,3,Casado,10527,8984,5,Sim,Não,11,3,4,80,0,28,3,2,2,2,1,2
+256,37,Não,Não Viaja,142,Vendas,9,4,Ciências Médicas,1,626,1,Masculino,69,3,3,Executivo de vendas,2,Divorciado,8834,24666,1,Sim,Não,13,3,4,80,1,9,6,3,9,5,7,7
+257,52,Não,Viaja raramente,956,Pesquisa e Desenvolvimento,6,2,EnsiNão técnico,1,630,4,Masculino,78,3,2,Pesquisador cientista,1,Divorciado,5577,22087,3,Sim,Sim,12,3,2,80,2,18,3,3,10,9,6,9
+258,32,Sim,Não Viaja,1474,Vendas,11,4,Outras,1,631,4,Masculino,60,4,2,Executivo de vendas,3,Casado,4707,23914,8,Sim,Não,12,3,4,80,0,6,2,3,4,2,1,2
+259,24,Não,Viaja frequentemente,535,Vendas,24,3,Ciências Médicas,1,632,4,Masculino,38,3,1,Representante de vendas,4,Casado,2400,5530,0,Sim,Não,13,3,3,80,2,3,3,3,2,2,2,1
+260,38,Não,Viaja raramente,1495,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,634,3,Feminino,76,3,2,Reprentante de saúde,3,Casado,9824,22174,3,Sim,Não,19,3,3,80,1,18,4,3,1,0,0,0
+261,49,Não,Viaja raramente,1245,Pesquisa e Desenvolvimento,18,4,Ciências Humanas,1,638,4,Masculino,58,2,5,Diretor de pesquisa,3,Divorciado,19502,2125,1,Sim,Sim,17,3,3,80,1,31,5,3,31,9,0,9
+262,24,Não,Viaja raramente,691,Pesquisa e Desenvolvimento,23,3,Ciências Médicas,1,639,2,Masculino,89,4,1,Pesquisador cientista,4,Casado,2725,21630,1,Sim,Sim,11,3,2,80,2,6,3,3,6,5,1,4
+263,26,Não,Viaja raramente,703,Vendas,28,2,Marketing,1,641,1,Masculino,66,3,2,Executivo de vendas,2,Casado,6272,7428,1,Sim,Não,20,4,4,80,2,6,5,4,5,3,1,4
+264,24,Não,Viaja raramente,823,Pesquisa e Desenvolvimento,17,2,Outras,1,643,4,Masculino,94,2,1,Técnico de Laboratório,2,Casado,2127,9100,1,Sim,Não,21,4,4,80,1,1,2,3,1,0,0,0
+265,25,Não,Viaja raramente,622,Vendas,13,1,Ciências Médicas,1,645,2,Masculino,40,3,1,Representante de vendas,3,Casado,2096,26376,1,Sim,Não,11,3,3,80,0,7,1,3,7,4,0,6
+266,24,Sim,Viaja frequentemente,1287,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,647,1,Feminino,55,3,1,Técnico de Laboratório,3,Casado,2886,14168,1,Sim,Sim,16,3,4,80,1,6,4,3,6,3,1,2
+267,30,Sim,Viaja frequentemente,448,Vendas,12,4,Ciências Humanas,1,648,2,Masculino,74,2,1,Representante de vendas,1,Casado,2033,14470,1,Sim,Não,18,3,3,80,1,1,2,4,1,0,0,0
+268,31,Sim,Viaja raramente,1365,Vendas,13,4,Ciências Médicas,1,650,2,Masculino,46,3,2,Executivo de vendas,1,Divorciado,4233,11512,2,Sim,Não,17,3,3,80,0,9,2,1,3,1,1,2
+269,35,Não,Viaja raramente,538,Pesquisa e Desenvolvimento,25,2,Outras,1,652,1,Masculino,54,2,2,Técnico de Laboratório,4,Solteiro,3681,14004,4,Sim,Não,14,3,4,80,0,9,3,3,3,2,0,2
+270,31,Não,Viaja raramente,525,Vendas,6,4,Ciências Médicas,1,653,1,Masculino,66,4,2,Executivo de vendas,4,Divorciado,5460,6219,4,Sim,Não,22,4,4,80,2,13,4,4,7,7,5,7
+271,27,Não,Viaja raramente,798,Pesquisa e Desenvolvimento,6,4,Ciências Médicas,1,655,1,Feminino,66,2,1,Pesquisador cientista,3,Divorciado,2187,5013,0,Sim,Não,12,3,3,80,2,6,5,2,5,3,0,3
+272,43,Não,Viaja raramente,782,Pesquisa e Desenvolvimento,6,4,Outras,1,661,2,Masculino,50,2,4,Diretor de pesquisa,4,Divorciado,16627,2671,4,Sim,Sim,14,3,3,80,1,21,3,2,1,0,0,0
+273,43,Não,Viaja frequentemente,1001,Pesquisa e Desenvolvimento,9,5,Ciências Médicas,1,663,4,Masculino,72,3,2,Técnico de Laboratório,3,Divorciado,5679,19627,3,Sim,Sim,13,3,2,80,1,10,3,3,8,7,4,7
+274,34,Não,Viaja raramente,204,Vendas,14,3,EnsiNão técnico,1,666,3,Feminino,31,3,1,Representante de vendas,3,Divorciado,2579,2912,1,Sim,Sim,18,3,4,80,2,8,3,3,8,2,0,6
+275,21,Não,Viaja raramente,1343,Vendas,22,1,EnsiNão técnico,1,669,3,Masculino,49,3,1,Representante de vendas,3,Solteiro,3447,24444,1,Sim,Não,11,3,3,80,0,3,2,3,3,2,1,2
+276,22,Não,Viaja raramente,604,Pesquisa e Desenvolvimento,6,1,Ciências Médicas,1,675,1,Masculino,69,3,1,Pesquisador cientista,3,Casado,2773,12145,0,Sim,Não,20,4,4,80,0,3,3,3,2,2,2,2
+277,33,Não,Viaja raramente,1216,Vendas,8,4,Marketing,1,677,3,Masculino,39,3,2,Executivo de vendas,3,Divorciado,7104,20431,0,Sim,Não,12,3,4,80,0,6,3,3,5,0,1,2
+278,32,Não,Viaja raramente,646,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,679,1,Feminino,92,3,2,Pesquisador cientista,4,Casado,6322,18089,1,Sim,Sim,12,3,4,80,1,6,2,2,6,4,0,5
+279,45,Sim,Viaja frequentemente,306,Vendas,26,4,Ciências Humanas,1,684,1,Feminino,100,3,2,Executivo de vendas,1,Casado,4286,5630,2,Sim,Não,14,3,4,80,2,5,4,3,1,1,0,0
+280,26,Não,Viaja raramente,991,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,686,3,Feminino,71,3,1,Técnico de Laboratório,4,Casado,2659,17759,1,Sim,Sim,13,3,3,80,1,3,2,3,3,2,0,2
+281,35,Não,Viaja raramente,1017,Pesquisa e Desenvolvimento,6,4,Ciências Humanas,1,691,2,Masculino,82,1,2,Pesquisador cientista,4,Solteiro,6646,19368,1,Sim,Não,13,3,2,80,0,17,3,3,17,11,11,8
+282,33,Não,Viaja frequentemente,1296,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,692,3,Masculino,30,3,2,Reprentante de saúde,4,Divorciado,7725,5335,3,Sim,Não,23,4,3,80,1,15,2,1,13,11,4,7
+283,54,Não,Viaja raramente,397,Recursos HumaNãos,19,4,Ciências Médicas,1,698,3,Masculino,88,3,3,Recursos HumaNãos,2,Casado,10725,6729,2,Sim,Não,15,3,3,80,1,16,1,4,9,7,7,1
+284,36,Não,Viaja raramente,913,Pesquisa e Desenvolvimento,9,2,Ciências Médicas,1,699,2,Masculino,48,2,2,Diretor de manufatura,2,Divorciado,8847,13934,2,Sim,Sim,11,3,3,80,1,13,2,3,3,2,0,2
+285,20,Sim,Viaja raramente,1362,Pesquisa e Desenvolvimento,10,1,Ciências Médicas,1,701,4,Masculino,32,3,1,Pesquisador cientista,3,Solteiro,1009,26999,1,Sim,Sim,11,3,4,80,0,1,5,3,1,0,1,1
+286,25,Não,Viaja raramente,810,Vendas,8,3,Ciências Humanas,1,707,4,Masculino,57,4,2,Executivo de vendas,2,Casado,4851,15678,0,Sim,Não,22,4,3,80,1,4,4,3,3,2,1,2
+287,38,Não,Viaja raramente,243,Vendas,7,4,Marketing,1,709,4,Feminino,46,2,2,Executivo de vendas,4,Solteiro,4028,7791,0,Sim,Não,20,4,1,80,0,8,2,3,7,7,0,5
+288,37,Não,Viaja raramente,1225,Pesquisa e Desenvolvimento,10,2,Ciências Humanas,1,715,4,Masculino,80,4,1,Pesquisador cientista,4,Solteiro,4680,15232,3,Sim,Não,17,3,1,80,0,4,2,3,1,0,0,0
+289,50,Não,Viaja raramente,1207,Pesquisa e Desenvolvimento,28,1,Ciências Médicas,1,716,4,Masculino,74,4,1,Técnico de Laboratório,3,Casado,3221,3297,1,Sim,Sim,11,3,3,80,3,20,3,3,20,8,3,8
+290,34,Não,Viaja raramente,1442,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,717,4,Feminino,46,2,3,Reprentante de saúde,2,Solteiro,8621,17654,1,Sim,Não,14,3,2,80,0,9,3,4,8,7,7,7
+291,32,Não,Viaja raramente,929,Vendas,10,3,Marketing,1,722,4,Masculino,55,3,2,Executivo de vendas,4,Solteiro,5396,21703,1,Sim,Não,12,3,4,80,0,10,2,2,10,7,0,8
+292,50,Sim,Viaja frequentemente,562,Vendas,8,2,EnsiNão técnico,1,723,2,Masculino,50,3,2,Executivo de vendas,3,Casado,6796,23452,3,Sim,Sim,14,3,1,80,1,18,4,3,4,3,1,3
+293,47,Não,Viaja raramente,703,Vendas,14,4,Marketing,1,728,4,Masculino,42,3,2,Executivo de vendas,1,Solteiro,4960,11825,2,Sim,Não,12,3,4,80,0,20,2,3,7,7,1,7
+294,53,Não,Viaja raramente,970,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,730,3,Masculino,59,4,4,Diretor de pesquisa,3,Casado,14814,13514,3,Sim,Não,19,3,3,80,0,32,3,3,5,1,1,3
+295,41,Não,Viaja raramente,427,Recursos HumaNãos,10,4,Recursos HumaNãos,1,731,2,Masculino,73,2,5,Gerente,4,Divorciado,19141,8861,3,Sim,Não,15,3,2,80,3,23,2,2,21,6,12,6
+296,60,Não,Viaja raramente,1179,Vendas,16,4,Marketing,1,732,1,Masculino,84,3,2,Executivo de vendas,1,Solteiro,5405,11924,8,Sim,Não,14,3,4,80,0,10,1,3,2,2,2,2
+297,27,Não,Viaja frequentemente,294,Pesquisa e Desenvolvimento,10,2,Ciências Humanas,1,733,4,Masculino,32,3,3,Diretor de manufatura,1,Divorciado,8793,4809,1,Sim,Não,21,4,3,80,2,9,4,2,9,7,1,7
+298,50,Não,Viaja raramente,316,Vendas,8,4,Marketing,1,738,4,Masculino,54,3,1,Representante de vendas,2,Casado,3875,9983,7,Sim,Não,15,3,4,80,1,4,2,3,2,2,2,2
+299,36,Não,Não Viaja,427,Pesquisa e Desenvolvimento,8,3,Ciências Humanas,1,742,1,Feminino,63,4,3,Diretor de pesquisa,1,Casado,11713,20335,9,Sim,Não,14,3,1,80,1,10,2,3,8,7,0,5
+300,44,Não,Não Viaja,381,Pesquisa e Desenvolvimento,24,3,Ciências Médicas,1,744,1,Masculino,49,1,1,Técnico de Laboratório,3,Solteiro,3708,2104,2,Sim,Não,14,3,3,80,0,9,5,3,5,2,1,4
+301,30,Não,Viaja raramente,501,Vendas,27,5,Marketing,1,747,3,Masculino,99,3,2,Executivo de vendas,4,Divorciado,5304,25275,7,Sim,Não,23,4,4,80,1,10,2,2,8,7,7,7
+302,29,Não,Viaja raramente,1396,Vendas,10,3,Ciências Humanas,1,749,3,Masculino,99,3,1,Representante de vendas,3,Solteiro,2642,2755,1,Sim,Não,11,3,3,80,0,1,6,3,1,0,0,0
+303,42,Sim,Viaja frequentemente,933,Pesquisa e Desenvolvimento,19,3,Ciências Médicas,1,752,3,Masculino,57,4,1,Pesquisador cientista,3,Divorciado,2759,20366,6,Sim,Sim,12,3,4,80,0,7,2,3,2,2,2,2
+304,43,Não,Viaja frequentemente,775,Vendas,15,3,Ciências Humanas,1,754,4,Masculino,47,2,2,Executivo de vendas,4,Casado,6804,23683,3,Sim,Não,18,3,3,80,1,7,5,3,2,2,2,2
+305,34,Não,Viaja raramente,970,Pesquisa e Desenvolvimento,8,2,Ciências Médicas,1,757,2,Feminino,96,3,2,Reprentante de saúde,3,Solteiro,6142,7360,3,Sim,Não,11,3,4,80,0,10,2,3,5,1,4,3
+306,23,Não,Viaja raramente,650,Pesquisa e Desenvolvimento,9,1,Ciências Médicas,1,758,2,Masculino,37,3,1,Técnico de Laboratório,1,Casado,2500,4344,1,Sim,Não,14,3,4,80,1,5,2,4,4,3,0,2
+307,56,Não,Viaja raramente,832,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,762,3,Masculino,81,3,4,Reprentante de saúde,4,Casado,11103,20420,7,Sim,Não,11,3,3,80,0,30,1,2,10,7,1,1
+308,27,Não,Viaja raramente,975,Pesquisa e Desenvolvimento,7,3,Ciências Médicas,1,764,4,Feminino,55,2,2,Reprentante de saúde,1,Solteiro,6811,23398,8,Sim,Não,19,3,1,80,0,9,2,1,7,6,0,7
+309,29,Não,Viaja raramente,1090,Vendas,10,3,Marketing,1,766,4,Masculino,83,3,1,Representante de vendas,2,Divorciado,2297,17967,1,Sim,Não,14,3,4,80,2,2,2,3,2,2,2,2
+310,53,Não,Viaja raramente,346,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,769,4,Masculino,86,3,2,Técnico de Laboratório,4,Solteiro,2450,10919,2,Sim,Não,17,3,4,80,0,19,4,3,2,2,2,2
+311,32,Não,Viaja frequentemente,430,Pesquisa e Desenvolvimento,24,4,Ciências Humanas,1,772,1,Masculino,80,3,2,Técnico de Laboratório,4,Casado,5309,21146,1,Sim,Não,15,3,4,80,2,10,2,3,10,8,4,7
+312,34,Não,Viaja raramente,167,Pesquisa e Desenvolvimento,8,5,Ciências Humanas,1,775,2,Feminino,32,3,2,Diretor de manufatura,1,Divorciado,5121,4187,3,Sim,Não,14,3,3,80,1,7,3,3,0,0,0,0
+313,25,Não,Viaja raramente,883,Vendas,26,1,Ciências Médicas,1,781,3,Feminino,32,3,2,Executivo de vendas,4,Solteiro,6180,22807,1,Sim,Não,23,4,2,80,0,6,5,2,6,5,1,4
+314,23,Não,Viaja raramente,310,Pesquisa e Desenvolvimento,10,1,Ciências Médicas,1,784,1,Masculino,79,4,1,Pesquisador cientista,3,Solteiro,3505,19630,1,Sim,Não,18,3,4,80,0,2,3,3,2,2,0,2
+315,47,Sim,Viaja frequentemente,719,Vendas,27,2,Ciências Humanas,1,785,2,Feminino,77,4,2,Executivo de vendas,3,Solteiro,6397,10339,4,Sim,Sim,12,3,4,80,0,8,2,3,5,4,1,3
+316,36,Não,Não Viaja,1434,Vendas,8,4,Ciências Humanas,1,789,1,Masculino,76,2,3,Executivo de vendas,1,Solteiro,7587,14229,1,Sim,Não,15,3,2,80,0,10,1,3,10,7,0,9
+317,52,Não,Não Viaja,715,Pesquisa e Desenvolvimento,19,4,Ciências Médicas,1,791,4,Masculino,41,3,1,Pesquisador cientista,4,Casado,4258,26589,0,Sim,Não,18,3,1,80,1,5,3,3,4,3,1,2
+318,29,Não,Viaja raramente,657,Pesquisa e Desenvolvimento,27,3,Ciências Médicas,1,793,2,Feminino,66,3,2,Reprentante de saúde,3,Casado,4335,25549,4,Sim,Não,12,3,1,80,1,11,3,2,8,7,1,1
+319,26,Sim,Viaja raramente,1146,Vendas,8,3,EnsiNão técnico,1,796,4,Masculino,38,2,2,Executivo de vendas,1,Solteiro,5326,3064,6,Sim,Não,17,3,3,80,0,6,2,2,4,3,1,2
+320,54,Não,Viaja raramente,376,Pesquisa e Desenvolvimento,19,4,Ciências Médicas,1,799,4,Feminino,95,3,2,Diretor de manufatura,1,Divorciado,5485,22670,9,Sim,Sim,11,3,2,80,2,9,4,3,5,3,1,4
+321,27,Não,Viaja frequentemente,829,Vendas,8,1,Marketing,1,800,3,Masculino,84,3,2,Executivo de vendas,4,Casado,4342,24008,0,Sim,Não,19,3,2,80,1,5,3,3,4,2,1,1
+322,37,Não,Viaja raramente,571,Pesquisa e Desenvolvimento,10,1,Ciências Humanas,1,802,4,Feminino,82,3,1,Pesquisador cientista,1,Divorciado,2782,19905,0,Sim,Sim,13,3,2,80,2,6,3,2,5,3,4,3
+323,35,Não,Viaja raramente,384,Vendas,8,4,Ciências Humanas,1,805,1,Feminino,72,3,1,Representante de vendas,4,Casado,2572,20317,1,Sim,Não,16,3,2,80,1,3,1,2,3,2,0,2
+324,34,Não,Viaja raramente,1111,Vendas,8,2,Ciências Humanas,1,808,3,Feminino,93,3,2,Executivo de vendas,1,Casado,6500,13305,5,Sim,Não,17,3,2,80,1,6,1,3,3,2,1,2
+325,42,Não,Viaja frequentemente,570,Pesquisa e Desenvolvimento,8,3,Ciências Humanas,1,809,2,Masculino,66,3,5,Gerente,4,Divorciado,18430,16225,1,Sim,Não,13,3,2,80,1,24,4,2,24,7,14,9
+326,23,Sim,Viaja raramente,1243,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,811,3,Masculino,63,4,1,Técnico de Laboratório,1,Casado,1601,3445,1,Sim,Sim,21,4,3,80,2,1,2,3,0,0,0,0
+327,24,Não,Não Viaja,1092,Pesquisa e Desenvolvimento,9,3,Ciências Humanas,1,812,3,Masculino,60,2,1,Técnico de Laboratório,2,Divorciado,2694,26551,1,Sim,Não,11,3,3,80,3,1,4,3,1,0,0,0
+328,52,Não,Viaja raramente,1325,Pesquisa e Desenvolvimento,11,4,Ciências Humanas,1,813,4,Feminino,82,3,2,Técnico de Laboratório,3,Casado,3149,21821,8,Sim,Não,20,4,2,80,1,9,3,3,5,2,1,4
+329,33,Não,Viaja raramente,213,Pesquisa e Desenvolvimento,7,3,Ciências Médicas,1,817,3,Masculino,49,3,3,Diretor de pesquisa,3,Casado,11691,25995,0,Sim,Não,11,3,4,80,0,14,3,4,13,9,3,7
+330,33,Sim,Viaja raramente,118,Vendas,16,3,Marketing,1,819,1,Feminino,69,3,2,Executivo de vendas,1,Solteiro,5324,26507,5,Sim,Não,15,3,3,80,0,6,3,3,3,2,0,2
+331,29,Não,Viaja raramente,1252,Pesquisa e Desenvolvimento,23,2,Ciências Humanas,1,824,3,Masculino,81,4,1,Pesquisador cientista,3,Casado,2700,23779,1,Sim,Não,24,4,3,80,1,10,3,3,10,7,0,7
+332,36,Não,Viaja raramente,1041,Recursos HumaNãos,13,3,Recursos HumaNãos,1,829,3,Masculino,36,3,1,Recursos HumaNãos,2,Casado,2143,25527,4,Sim,Não,13,3,2,80,1,8,2,3,5,2,0,4
+333,40,Não,Viaja frequentemente,720,Pesquisa e Desenvolvimento,16,4,Ciências Médicas,1,832,1,Masculino,51,2,2,Técnico de Laboratório,3,Solteiro,5094,11983,6,Sim,Não,14,3,4,80,0,10,6,3,1,0,0,0
+334,42,Não,Viaja raramente,933,Pesquisa e Desenvolvimento,29,3,Ciências Humanas,1,836,2,Masculino,98,3,2,Diretor de manufatura,2,Casado,4434,11806,1,Sim,Não,13,3,4,80,1,10,3,2,9,8,7,8
+335,38,Não,Viaja frequentemente,471,Pesquisa e Desenvolvimento,12,3,Ciências Humanas,1,837,1,Masculino,45,2,2,Reprentante de saúde,1,Divorciado,6288,4284,2,Sim,Não,15,3,3,80,1,13,3,2,4,3,1,2
+336,34,Não,Viaja frequentemente,702,Pesquisa e Desenvolvimento,16,4,Ciências Humanas,1,838,3,Feminino,100,2,1,Pesquisador cientista,4,Solteiro,2553,8306,1,Sim,Não,16,3,3,80,0,6,3,3,5,2,1,3
+337,49,Sim,Viaja raramente,1184,Vendas,11,3,Marketing,1,840,3,Feminino,43,3,3,Executivo de vendas,4,Casado,7654,5860,1,Sim,Não,18,3,1,80,2,9,3,4,9,8,7,7
+338,43,Não,Viaja raramente,589,Pesquisa e Desenvolvimento,14,2,Ciências Humanas,1,843,2,Masculino,94,3,4,Diretor de pesquisa,1,Casado,17159,5200,6,Sim,Não,24,4,3,80,1,22,3,3,4,1,1,0
+339,35,Não,Viaja raramente,950,Pesquisa e Desenvolvimento,7,3,Outras,1,845,3,Masculino,59,3,3,Diretor de manufatura,3,Solteiro,10221,18869,3,Sim,Não,21,4,2,80,0,17,3,4,8,5,1,6
+340,51,Não,Viaja raramente,1318,Vendas,26,4,Marketing,1,851,1,Feminino,66,3,4,Gerente,3,Casado,16307,5594,2,Sim,Não,14,3,3,80,1,29,2,2,20,6,4,17
+341,35,Não,Viaja raramente,1343,Pesquisa e Desenvolvimento,27,1,Ciências Médicas,1,856,3,Feminino,53,2,1,Pesquisador cientista,1,Solteiro,2559,17852,1,Sim,Não,11,3,4,80,0,6,3,2,6,5,1,1
+342,32,Não,Viaja raramente,117,Vendas,13,4,Ciências Humanas,1,859,2,Masculino,73,3,2,Executivo de vendas,4,Divorciado,4403,9250,2,Sim,Não,11,3,3,80,1,8,3,2,5,2,0,3
+343,53,Não,Viaja raramente,661,Vendas,7,2,Marketing,1,862,1,Feminino,78,2,3,Executivo de vendas,4,Casado,10934,20715,7,Sim,Sim,18,3,4,80,1,35,3,3,5,2,0,4
+344,45,Não,Viaja raramente,930,Vendas,9,3,Marketing,1,864,4,Masculino,74,3,3,Executivo de vendas,1,Divorciado,10761,19239,4,Sim,Sim,12,3,3,80,1,18,2,3,5,4,0,2
+345,32,Não,Viaja raramente,638,Pesquisa e Desenvolvimento,8,2,Ciências Médicas,1,865,3,Feminino,91,4,2,Pesquisador cientista,3,Casado,5175,22162,5,Sim,Não,12,3,3,80,1,9,3,2,5,3,1,3
+346,52,Não,Viaja frequentemente,890,Pesquisa e Desenvolvimento,25,4,Ciências Médicas,1,867,3,Feminino,81,2,4,Diretor de manufatura,4,Casado,13826,19028,3,Sim,Não,22,4,3,80,0,31,3,3,9,8,0,0
+347,37,Não,Viaja raramente,342,Vendas,16,4,Marketing,1,868,4,Masculino,66,2,2,Executivo de vendas,3,Divorciado,6334,24558,4,Sim,Não,19,3,4,80,2,9,2,3,1,0,0,0
+348,28,Não,Viaja raramente,1169,Recursos HumaNãos,8,2,Ciências Médicas,1,869,2,Masculino,63,2,1,Recursos HumaNãos,4,Divorciado,4936,23965,1,Sim,Não,13,3,4,80,1,6,6,3,5,1,0,4
+349,44,Não,Viaja raramente,986,Pesquisa e Desenvolvimento,8,4,Ciências Humanas,1,874,1,Masculino,62,4,1,Técnico de Laboratório,4,Casado,2818,5044,2,Sim,Sim,24,4,3,80,1,10,2,2,3,2,0,2
+350,36,Não,Viaja raramente,1278,Recursos HumaNãos,8,3,Ciências Humanas,1,878,1,Masculino,77,2,1,Recursos HumaNãos,1,Casado,2342,8635,0,Sim,Não,21,4,3,80,0,6,3,3,5,4,0,3
+351,35,Não,Viaja raramente,607,Pesquisa e Desenvolvimento,9,3,Ciências Humanas,1,880,4,Feminino,66,2,3,Diretor de manufatura,3,Casado,10685,23457,1,Sim,Sim,20,4,2,80,1,17,2,3,17,14,5,15
+352,35,Sim,Viaja frequentemente,130,Pesquisa e Desenvolvimento,25,4,Ciências Humanas,1,881,4,Feminino,96,3,1,Pesquisador cientista,2,Divorciado,2022,16612,1,Sim,Sim,19,3,1,80,1,10,3,2,10,2,7,8
+353,38,Não,Viaja raramente,395,Vendas,9,3,Marketing,1,893,2,Masculino,98,2,1,Representante de vendas,2,Casado,2899,12102,0,Sim,Não,19,3,4,80,1,3,3,3,2,2,1,2
+354,31,Não,Viaja raramente,1222,Pesquisa e Desenvolvimento,11,4,Ciências Humanas,1,895,4,Masculino,48,3,1,Pesquisador cientista,4,Casado,2356,14871,3,Sim,Sim,19,3,2,80,1,8,2,3,6,4,0,2
+355,53,Não,Viaja raramente,868,Vendas,8,3,Marketing,1,897,1,Masculino,73,3,4,Executivo de vendas,4,Casado,11836,22789,5,Sim,Não,14,3,3,80,1,28,3,3,2,0,2,2
+356,35,Não,Viaja raramente,672,Pesquisa e Desenvolvimento,25,3,EnsiNão técnico,1,899,4,Masculino,78,2,3,Diretor de manufatura,2,Casado,10903,9129,3,Sim,Não,16,3,1,80,0,16,2,3,13,10,4,8
+357,37,Não,Viaja frequentemente,1231,Vendas,21,2,Ciências Médicas,1,900,3,Feminino,54,3,1,Representante de vendas,4,Casado,2973,21222,5,Sim,Não,15,3,2,80,1,10,3,3,5,4,0,0
+358,53,Não,Viaja raramente,102,Pesquisa e Desenvolvimento,23,4,Ciências Humanas,1,901,4,Feminino,72,3,4,Diretor de pesquisa,4,Solteiro,14275,20206,6,Sim,Não,18,3,3,80,0,33,0,3,12,9,3,8
+359,37,Não,Não Viaja,1252,Vendas,19,2,Ciências Médicas,1,904,1,Masculino,32,3,3,Executivo de vendas,2,Solteiro,7642,4814,1,Sim,Sim,13,3,4,80,0,10,2,3,10,0,0,9
+360,32,Sim,Viaja raramente,374,Pesquisa e Desenvolvimento,25,4,Ciências Humanas,1,911,1,Masculino,87,3,1,Técnico de Laboratório,4,Solteiro,2795,18016,1,Sim,Sim,24,4,3,80,0,1,2,1,1,0,0,1
+361,29,Não,Viaja raramente,1086,Pesquisa e Desenvolvimento,7,1,Ciências Médicas,1,912,1,Feminino,62,2,1,Técnico de Laboratório,4,Divorciado,2532,6054,6,Sim,Não,14,3,3,80,3,8,5,3,4,3,0,3
+362,44,Não,Viaja raramente,661,Pesquisa e Desenvolvimento,9,2,Ciências Humanas,1,913,2,Masculino,61,3,1,Pesquisador cientista,1,Casado,2559,7508,1,Sim,Sim,13,3,4,80,0,8,0,3,8,7,7,1
+363,43,Não,Viaja raramente,177,Pesquisa e Desenvolvimento,8,3,Ciências Humanas,1,920,1,Feminino,55,3,2,Diretor de manufatura,2,Divorciado,4765,23814,4,Sim,Não,21,4,3,80,1,4,2,4,1,0,0,0
+364,21,Sim,Viaja raramente,1427,Pesquisa e Desenvolvimento,18,1,Outras,1,923,4,Feminino,65,3,1,Pesquisador cientista,4,Solteiro,2693,8870,1,Sim,Não,19,3,1,80,0,1,3,2,1,0,0,0
+365,36,Não,Viaja raramente,1425,Pesquisa e Desenvolvimento,14,1,Ciências Humanas,1,924,3,Masculino,68,3,2,Reprentante de saúde,4,Casado,6586,4821,0,Sim,Sim,17,3,1,80,1,17,2,2,16,8,4,11
+366,28,Não,Viaja raramente,995,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,930,3,Feminino,77,3,1,Pesquisador cientista,3,Divorciado,2377,9834,5,Sim,Não,18,3,2,80,1,6,2,3,2,2,2,2
+367,39,Sim,Viaja raramente,1122,Pesquisa e Desenvolvimento,6,3,Ciências Médicas,1,932,4,Masculino,70,3,1,Técnico de Laboratório,1,Casado,2404,4303,7,Sim,Sim,21,4,4,80,0,8,2,1,2,2,2,2
+368,34,Não,Viaja raramente,546,Pesquisa e Desenvolvimento,10,3,Ciências Humanas,1,934,2,Masculino,83,3,1,Técnico de Laboratório,2,Divorciado,2008,6896,1,Sim,Não,14,3,2,80,2,1,3,3,1,0,1,0
+369,42,Não,Viaja raramente,462,Vendas,14,2,Ciências Médicas,1,936,3,Feminino,68,2,2,Executivo de vendas,3,Solteiro,6244,7824,7,Sim,Não,17,3,1,80,0,10,6,3,5,4,0,3
+370,31,Não,Viaja raramente,154,Vendas,7,4,Ciências Humanas,1,941,2,Masculino,41,2,1,Representante de vendas,3,Casado,2329,11737,3,Sim,Não,15,3,2,80,0,13,2,4,7,7,5,2
+371,35,Não,Viaja raramente,1137,Pesquisa e Desenvolvimento,21,1,Ciências Humanas,1,942,4,Feminino,51,3,2,Reprentante de saúde,4,Casado,4014,19170,1,Sim,Sim,25,4,4,80,1,10,2,1,10,6,0,7
+372,49,Não,Viaja raramente,527,Pesquisa e Desenvolvimento,8,2,Outras,1,944,1,Feminino,51,3,3,Técnico de Laboratório,2,Casado,7403,22477,4,Sim,Não,11,3,3,80,1,29,3,2,26,9,1,7
+373,48,Não,Viaja raramente,1469,Pesquisa e Desenvolvimento,20,4,Ciências Médicas,1,945,4,Masculino,51,3,1,Pesquisador cientista,3,Casado,2259,5543,4,Sim,Não,17,3,1,80,2,13,2,2,0,0,0,0
+374,31,Não,Não Viaja,1188,Vendas,20,2,Marketing,1,947,4,Feminino,45,3,2,Executivo de vendas,3,Casado,6932,24406,1,Sim,Não,13,3,4,80,1,9,2,2,9,8,0,0
+375,36,Não,Viaja raramente,188,Pesquisa e Desenvolvimento,7,4,Outras,1,949,2,Masculino,65,3,1,Pesquisador cientista,4,Solteiro,4678,23293,2,Sim,Não,18,3,3,80,0,8,6,3,6,2,0,1
+376,25,Sim,Viaja raramente,867,Vendas,19,2,Marketing,1,952,3,Masculino,36,2,1,Representante de vendas,2,Casado,2413,18798,1,Sim,Sim,18,3,3,80,3,1,2,3,1,0,0,0
+377,40,Não,Viaja raramente,658,Vendas,10,4,Marketing,1,954,1,Masculino,67,2,3,Executivo de vendas,2,Divorciado,9705,20652,2,Sim,Não,12,3,2,80,1,11,2,2,1,0,0,0
+378,41,Não,Viaja raramente,263,Pesquisa e Desenvolvimento,6,3,Ciências Médicas,1,957,4,Masculino,59,3,1,Técnico de Laboratório,1,Solteiro,4721,3119,2,Sim,Sim,13,3,3,80,0,20,3,3,18,13,2,17
+379,19,Sim,Viaja raramente,419,Vendas,21,3,Outras,1,959,4,Masculino,37,2,1,Representante de vendas,2,Solteiro,2121,9947,1,Sim,Sim,13,3,2,80,0,1,3,4,1,0,0,0
+380,31,Não,Viaja raramente,616,Pesquisa e Desenvolvimento,12,3,Ciências Médicas,1,961,4,Feminino,41,3,2,Reprentante de saúde,4,Casado,5855,17369,0,Sim,Sim,11,3,3,80,2,10,2,1,9,7,8,5
+381,40,Não,Viaja frequentemente,1469,Pesquisa e Desenvolvimento,9,4,Ciências Médicas,1,964,4,Masculino,35,3,1,Pesquisador cientista,2,Divorciado,3617,25063,8,Sim,Sim,14,3,4,80,1,3,2,3,1,1,0,0
+382,29,Não,Viaja frequentemente,1404,Vendas,20,3,EnsiNão técnico,1,974,3,Feminino,84,3,1,Representante de vendas,4,Casado,2157,18203,1,Sim,Não,15,3,2,80,1,3,5,3,3,1,0,2
+383,35,Não,Viaja raramente,1219,Vendas,18,3,Ciências Médicas,1,975,3,Feminino,86,3,2,Executivo de vendas,3,Casado,4601,6179,1,Sim,Não,16,3,2,80,0,5,3,3,5,2,1,0
+384,30,Não,Viaja raramente,231,Vendas,8,2,Outras,1,982,3,Masculino,62,3,3,Executivo de vendas,3,Divorciado,7264,9977,5,Sim,Não,11,3,1,80,1,10,2,4,8,4,7,7
+385,38,Não,Não Viaja,152,Vendas,10,3,EnsiNão técnico,1,983,3,Feminino,85,3,2,Executivo de vendas,4,Solteiro,5666,19899,1,Sim,Sim,13,3,2,80,0,6,1,3,5,3,1,3
+386,40,Sim,Não Viaja,1479,Vendas,24,3,Ciências Humanas,1,986,2,Feminino,100,4,4,Executivo de vendas,2,Solteiro,13194,17071,4,Sim,Sim,16,3,4,80,0,22,2,2,1,0,0,0
+387,47,Não,Viaja frequentemente,1379,Pesquisa e Desenvolvimento,16,4,Ciências Médicas,1,987,3,Masculino,64,4,2,Diretor de manufatura,3,Divorciado,5067,6759,1,Sim,Sim,19,3,3,80,0,20,3,4,19,10,2,7
+388,36,Não,Não Viaja,1229,Vendas,8,4,EnsiNão técnico,1,990,1,Masculino,84,3,2,Executivo de vendas,4,Divorciado,5079,25952,4,Sim,Não,13,3,4,80,2,12,3,3,7,7,0,7
+389,31,Sim,Não Viaja,335,Pesquisa e Desenvolvimento,9,2,Ciências Médicas,1,991,3,Masculino,46,2,1,Pesquisador cientista,1,Solteiro,2321,10322,0,Sim,Sim,22,4,1,80,0,4,0,3,3,2,1,2
+390,33,Não,Não Viaja,722,Vendas,17,3,Ciências Humanas,1,992,4,Masculino,38,3,4,Gerente,3,Solteiro,17444,20489,1,Sim,Não,11,3,4,80,0,10,2,3,10,8,6,0
+391,29,Sim,Viaja raramente,906,Pesquisa e Desenvolvimento,10,3,Ciências Humanas,1,994,4,Feminino,92,2,1,Pesquisador cientista,1,Solteiro,2404,11479,6,Sim,Sim,20,4,3,80,0,3,5,3,0,0,0,0
+392,33,Não,Viaja raramente,461,Pesquisa e Desenvolvimento,13,1,Ciências Humanas,1,995,2,Feminino,53,3,1,Pesquisador cientista,4,Solteiro,3452,17241,3,Sim,Não,18,3,1,80,0,5,4,3,3,2,0,2
+393,41,Não,Viaja frequentemente,840,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,999,1,Masculino,64,3,5,Diretor de pesquisa,3,Divorciado,19419,3735,2,Sim,Não,17,3,2,80,1,21,2,4,18,16,0,11
+394,27,Não,Viaja raramente,1134,Pesquisa e Desenvolvimento,16,4,EnsiNão técnico,1,1001,3,Feminino,37,3,1,Técnico de Laboratório,2,Casado,2811,12086,9,Sim,Não,14,3,2,80,1,4,2,3,2,2,2,2
+395,45,Não,Não Viaja,248,Pesquisa e Desenvolvimento,23,2,Ciências Humanas,1,1002,4,Masculino,42,3,2,Técnico de Laboratório,1,Casado,3633,14039,1,Sim,Sim,15,3,3,80,1,9,2,3,9,8,0,8
+396,30,Sim,Viaja raramente,138,Pesquisa e Desenvolvimento,22,3,Ciências Humanas,1,1004,1,Feminino,48,3,1,Pesquisador cientista,3,Casado,2132,11539,4,Sim,Sim,11,3,2,80,0,7,2,3,5,2,0,1
+397,50,Não,Viaja raramente,939,Pesquisa e Desenvolvimento,24,3,Ciências Humanas,1,1005,4,Masculino,95,3,4,Diretor de manufatura,3,Casado,13973,4161,3,Sim,Sim,18,3,4,80,1,22,2,3,12,11,1,5
+398,38,Não,Viaja frequentemente,1391,Pesquisa e Desenvolvimento,10,1,Ciências Médicas,1,1006,3,Masculino,66,3,1,Pesquisador cientista,3,Casado,2684,12127,0,Sim,Não,17,3,2,80,1,3,0,2,2,1,0,2
+399,46,Não,Viaja raramente,566,Pesquisa e Desenvolvimento,7,2,Ciências Médicas,1,1007,4,Masculino,75,3,3,Diretor de manufatura,3,Divorciado,10845,24208,6,Sim,Não,13,3,2,80,1,13,3,3,8,7,0,7
+400,24,Não,Viaja raramente,1206,Pesquisa e Desenvolvimento,17,1,Ciências Médicas,1,1009,4,Feminino,41,2,2,Diretor de manufatura,3,Divorciado,4377,24117,1,Sim,Não,15,3,2,80,2,5,6,3,4,2,3,2
+401,35,Sim,Viaja raramente,622,Pesquisa e Desenvolvimento,14,4,Outras,1,1010,3,Masculino,39,2,1,Técnico de Laboratório,2,Divorciado,3743,10074,1,Sim,Sim,24,4,4,80,1,5,2,1,4,2,0,2
+402,54,Não,Viaja raramente,1441,Pesquisa e Desenvolvimento,17,3,EnsiNão técnico,1,1013,3,Feminino,56,3,3,Diretor de manufatura,3,Casado,10739,13943,8,Sim,Não,11,3,3,80,1,22,2,3,10,7,0,8
+403,35,Não,Viaja raramente,583,Pesquisa e Desenvolvimento,25,4,Ciências Médicas,1,1014,3,Feminino,57,3,3,Reprentante de saúde,3,Divorciado,10388,6975,1,Sim,Sim,11,3,3,80,1,16,3,2,16,10,10,1
+404,30,Não,Viaja raramente,153,Pesquisa e Desenvolvimento,8,2,Ciências Humanas,1,1015,2,Feminino,73,4,3,Diretor de pesquisa,1,Casado,11416,17802,0,Sim,Sim,12,3,3,80,3,9,4,2,8,7,1,7
+405,20,Sim,Viaja raramente,1097,Pesquisa e Desenvolvimento,11,3,Ciências Médicas,1,1016,4,Feminino,98,2,1,Pesquisador cientista,1,Solteiro,2600,18275,1,Sim,Sim,15,3,1,80,0,1,2,3,1,0,0,0
+406,22,Não,Viaja raramente,217,Pesquisa e Desenvolvimento,8,1,Ciências Humanas,1,1019,2,Masculino,94,1,1,Técnico de Laboratório,1,Casado,2451,6881,1,Sim,Não,15,3,1,80,1,4,3,2,4,3,1,1
+407,48,Não,Viaja raramente,277,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,1022,1,Masculino,97,2,2,Reprentante de saúde,3,Solteiro,4240,13119,2,Sim,Não,13,3,4,80,0,19,0,3,2,2,2,2
+408,41,Não,Viaja raramente,549,Pesquisa e Desenvolvimento,7,2,Ciências Médicas,1,1025,4,Feminino,42,3,2,Diretor de manufatura,3,Solteiro,5003,23371,6,Sim,Não,14,3,2,80,0,8,6,3,2,2,2,1
+409,35,Não,Viaja raramente,802,Pesquisa e Desenvolvimento,10,3,Outras,1,1028,2,Masculino,45,3,1,Técnico de Laboratório,4,Divorciado,3917,9541,1,Sim,Não,20,4,1,80,1,3,4,2,3,2,1,2
+410,50,Não,Viaja raramente,804,Pesquisa e Desenvolvimento,9,3,Ciências Humanas,1,1030,1,Masculino,64,3,1,Técnico de Laboratório,4,Casado,2380,20165,4,Sim,Não,18,3,2,80,0,8,5,3,1,0,0,0
+411,37,Sim,Viaja raramente,1141,Pesquisa e Desenvolvimento,11,2,Ciências Médicas,1,1033,1,Feminino,61,1,2,Reprentante de saúde,2,Casado,4777,14382,5,Sim,Não,15,3,1,80,0,15,2,1,1,0,0,0
+412,55,Não,Viaja frequentemente,135,Pesquisa e Desenvolvimento,18,4,Ciências Médicas,1,1034,3,Masculino,62,3,2,Reprentante de saúde,2,Casado,6385,12992,3,Sim,Sim,14,3,4,80,2,17,3,3,8,7,6,7
+413,41,Não,Não Viaja,247,Pesquisa e Desenvolvimento,7,1,Ciências Humanas,1,1035,2,Feminino,55,1,5,Diretor de pesquisa,3,Divorciado,19973,20284,1,Sim,Não,22,4,2,80,2,21,3,3,21,16,5,10
+414,26,Sim,Não Viaja,265,Vendas,29,2,Ciências Médicas,1,1037,2,Masculino,79,1,2,Executivo de vendas,1,Solteiro,4969,21813,8,Sim,Não,18,3,4,80,0,7,6,3,2,2,2,2
+415,44,Não,Viaja raramente,1448,Vendas,28,3,Ciências Médicas,1,1039,4,Feminino,53,4,4,Executivo de vendas,4,Casado,13320,11737,3,Sim,Sim,18,3,3,80,1,23,2,3,12,11,11,11
+416,36,Sim,Viaja raramente,885,Pesquisa e Desenvolvimento,16,4,Ciências Humanas,1,1042,3,Feminino,43,4,1,Técnico de Laboratório,1,Solteiro,2743,8269,1,Sim,Não,16,3,3,80,0,18,1,3,17,13,15,14
+417,39,Não,Viaja frequentemente,945,Pesquisa e Desenvolvimento,22,3,Ciências Médicas,1,1043,4,Feminino,82,3,3,Diretor de manufatura,1,Solteiro,10880,5083,1,Sim,Sim,13,3,3,80,0,21,2,3,21,6,2,8
+418,33,Não,Não Viaja,1038,Vendas,8,1,Ciências Humanas,1,1044,2,Feminino,88,2,1,Representante de vendas,4,Solteiro,2342,21437,0,Sim,Não,19,3,4,80,0,3,2,2,2,2,2,2
+419,45,Não,Viaja raramente,1234,Vendas,11,2,Ciências Humanas,1,1045,4,Feminino,90,3,4,Gerente,4,Casado,17650,5404,3,Sim,Não,13,3,2,80,1,26,4,4,9,3,1,1
+420,32,Não,Não Viaja,1109,Pesquisa e Desenvolvimento,29,4,Ciências Médicas,1,1046,4,Feminino,69,3,1,Técnico de Laboratório,3,Solteiro,4025,11135,9,Sim,Não,12,3,2,80,0,10,2,3,8,7,7,7
+421,45,Não,Viaja raramente,788,Recursos HumaNãos,24,4,Ciências Médicas,1,1049,2,Masculino,36,3,1,Recursos HumaNãos,2,Solteiro,2177,8318,1,Sim,Não,16,3,1,80,0,6,3,3,6,3,0,4
+422,36,Sim,Viaja raramente,660,Pesquisa e Desenvolvimento,15,3,Outras,1,1052,1,Masculino,81,3,2,Técnico de Laboratório,3,Divorciado,4834,7858,7,Sim,Não,14,3,2,80,1,9,3,2,1,0,0,0
+423,34,Não,Viaja raramente,1333,Vendas,10,4,Ciências Humanas,1,1055,3,Feminino,87,3,1,Representante de vendas,3,Casado,2220,18410,1,Sim,Sim,19,3,4,80,1,1,2,3,1,1,0,0
+424,28,Não,Viaja raramente,1144,Vendas,10,1,Ciências Médicas,1,1056,4,Masculino,74,3,1,Representante de vendas,2,Casado,1052,23384,1,Sim,Não,22,4,2,80,0,1,5,3,1,0,0,0
+425,40,Não,Viaja raramente,300,Vendas,26,3,Marketing,1,1066,3,Masculino,74,3,2,Executivo de vendas,1,Casado,8396,22217,1,Sim,Não,14,3,2,80,1,8,3,2,7,7,7,5
+426,56,Não,Viaja frequentemente,1240,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,1071,1,Feminino,63,3,1,Pesquisador cientista,3,Casado,2942,12154,2,Sim,Não,19,3,2,80,1,18,4,3,5,4,0,3
+427,36,Não,Viaja raramente,796,Pesquisa e Desenvolvimento,12,5,Ciências Médicas,1,1073,4,Feminino,51,2,3,Diretor de manufatura,4,Solteiro,8858,15669,0,Sim,Não,11,3,2,80,0,15,2,2,14,8,7,8
+428,43,Não,Viaja raramente,415,Vendas,25,3,Ciências Médicas,1,1076,3,Masculino,79,2,3,Executivo de vendas,4,Divorciado,10798,5268,5,Sim,Não,13,3,3,80,1,18,5,3,1,0,0,0
+429,20,Sim,Viaja frequentemente,769,Vendas,9,3,Marketing,1,1077,4,Feminino,54,3,1,Representante de vendas,4,Solteiro,2323,17205,1,Sim,Sim,14,3,2,80,0,2,3,3,2,2,0,2
+430,21,Sim,Viaja raramente,1334,Pesquisa e Desenvolvimento,10,3,Ciências Humanas,1,1079,3,Feminino,36,2,1,Técnico de Laboratório,1,Solteiro,1416,17258,1,Sim,Não,13,3,1,80,0,1,6,2,1,0,1,0
+431,46,Não,Viaja raramente,1003,Pesquisa e Desenvolvimento,8,4,Ciências Humanas,1,1080,4,Feminino,74,2,2,Pesquisador cientista,1,Divorciado,4615,21029,8,Sim,Sim,23,4,1,80,3,19,2,3,16,13,1,7
+432,28,Sim,Não Viaja,1366,Pesquisa e Desenvolvimento,24,2,EnsiNão técnico,1,1082,2,Masculino,72,2,3,Reprentante de saúde,1,Solteiro,8722,12355,1,Sim,Não,12,3,1,80,0,10,2,2,10,7,1,9
+433,30,Não,Viaja raramente,1176,Pesquisa e Desenvolvimento,20,3,Outras,1,1084,3,Masculino,85,3,2,Diretor de manufatura,1,Casado,9957,9096,0,Sim,Não,15,3,3,80,1,7,1,2,6,2,0,2
+434,41,Não,Viaja raramente,509,Pesquisa e Desenvolvimento,7,2,EnsiNão técnico,1,1085,2,Feminino,43,4,1,Pesquisador cientista,3,Casado,3376,18863,1,Sim,Não,13,3,3,80,0,10,3,3,10,6,0,8
+435,38,Não,Viaja raramente,330,Pesquisa e Desenvolvimento,17,1,Ciências Humanas,1,1088,3,Feminino,65,2,3,Reprentante de saúde,3,Casado,8823,24608,0,Sim,Não,18,3,1,80,1,20,4,2,19,9,1,9
+436,40,Não,Viaja raramente,1492,Pesquisa e Desenvolvimento,20,4,EnsiNão técnico,1,1092,1,Masculino,61,3,3,Reprentante de saúde,4,Casado,10322,26542,4,Sim,Não,20,4,4,80,1,14,6,3,11,10,11,1
+437,27,Não,Não Viaja,1277,Pesquisa e Desenvolvimento,8,5,Ciências Humanas,1,1094,1,Masculino,87,1,1,Técnico de Laboratório,3,Casado,4621,5869,1,Sim,Não,19,3,4,80,3,3,4,3,3,2,1,2
+438,28,Não,Viaja raramente,857,Pesquisa e Desenvolvimento,10,3,Outras,1,1097,3,Feminino,59,3,2,Pesquisador cientista,3,Solteiro,3660,7909,3,Sim,Não,13,3,4,80,0,10,4,4,8,7,1,7
+439,33,Sim,Viaja frequentemente,827,Pesquisa e Desenvolvimento,29,4,Ciências Médicas,1,1101,1,Feminino,54,2,2,Pesquisador cientista,3,Solteiro,4508,3129,1,Sim,Não,22,4,2,80,0,14,4,3,13,7,3,8
+440,28,Não,Viaja raramente,895,Pesquisa e Desenvolvimento,15,2,Ciências Humanas,1,1102,1,Masculino,50,3,1,Técnico de Laboratório,3,Divorciado,2207,22482,1,Sim,Não,16,3,4,80,1,4,5,2,4,2,2,2
+441,37,Não,Viaja raramente,309,Vendas,10,4,Ciências Humanas,1,1105,4,Feminino,88,2,2,Executivo de vendas,4,Divorciado,6694,24223,2,Sim,Sim,14,3,3,80,3,8,5,3,1,0,0,0
+442,26,Sim,Viaja raramente,1330,Pesquisa e Desenvolvimento,21,3,Ciências Médicas,1,1107,1,Masculino,37,3,1,Técnico de Laboratório,3,Divorciado,2377,19373,1,Sim,Não,20,4,3,80,1,1,0,2,1,1,0,0
+443,33,Sim,Viaja raramente,1017,Pesquisa e Desenvolvimento,25,3,Ciências Médicas,1,1108,1,Masculino,55,2,1,Pesquisador cientista,2,Solteiro,2313,2993,4,Sim,Sim,20,4,2,80,0,5,0,3,2,2,2,2
+444,33,Não,Viaja frequentemente,970,Vendas,7,3,Ciências Humanas,1,1114,4,Feminino,30,3,2,Executivo de vendas,2,Casado,4302,13401,0,Sim,Não,17,3,3,80,1,4,3,3,3,2,0,2
+445,45,Não,Não Viaja,1050,Vendas,9,4,Ciências Humanas,1,1117,2,Feminino,65,2,2,Executivo de vendas,3,Casado,5593,17970,1,Sim,Não,13,3,4,80,1,15,2,3,15,10,4,12
+446,52,Não,Viaja raramente,994,Pesquisa e Desenvolvimento,7,4,Ciências Humanas,1,1118,2,Masculino,87,3,3,Reprentante de saúde,2,Solteiro,10445,15322,7,Sim,Não,19,3,4,80,0,18,4,3,8,6,4,0
+447,38,Não,Viaja raramente,770,Vendas,10,4,Marketing,1,1119,3,Masculino,73,2,3,Executivo de vendas,3,Divorciado,8740,5569,0,Sim,Sim,14,3,2,80,2,9,2,3,8,7,2,7
+448,29,Não,Viaja raramente,1107,Pesquisa e Desenvolvimento,28,4,Ciências Humanas,1,1120,3,Feminino,93,3,1,Pesquisador cientista,4,Divorciado,2514,26968,4,Sim,Não,22,4,1,80,1,11,1,3,7,5,1,7
+449,43,Não,Viaja frequentemente,1082,Pesquisa e Desenvolvimento,27,3,Ciências Humanas,1,1126,3,Feminino,83,3,3,Diretor de manufatura,1,Casado,10820,11535,8,Sim,Não,11,3,3,80,1,18,1,3,8,7,0,1
+450,40,Não,Viaja raramente,1308,Pesquisa e Desenvolvimento,14,3,Ciências Médicas,1,1128,3,Masculino,44,2,5,Diretor de pesquisa,3,Solteiro,19626,17544,1,Sim,Não,14,3,1,80,0,21,2,4,20,7,4,9
+451,39,Não,Não Viaja,439,Pesquisa e Desenvolvimento,9,3,Ciências Humanas,1,1132,3,Masculino,70,3,2,Técnico de Laboratório,2,Solteiro,6782,8770,9,Sim,Não,15,3,3,80,0,9,2,2,5,4,0,3
+452,36,Não,Não Viaja,217,Pesquisa e Desenvolvimento,18,4,Ciências Humanas,1,1133,1,Masculino,78,3,2,Diretor de manufatura,4,Solteiro,7779,23238,2,Sim,Não,20,4,1,80,0,18,0,3,11,9,0,9
+453,31,Não,Viaja frequentemente,793,Vendas,20,3,Ciências Humanas,1,1135,3,Masculino,67,4,1,Representante de vendas,4,Casado,2791,21981,0,Sim,Não,12,3,1,80,1,3,4,3,2,2,2,2
+454,35,Não,Viaja frequentemente,1182,Vendas,11,2,Marketing,1,1137,4,Masculino,54,3,2,Executivo de vendas,4,Divorciado,4968,18500,1,Sim,Não,11,3,4,80,1,5,3,3,5,2,0,2
+455,49,Não,Viaja raramente,174,Vendas,8,4,EnsiNão técnico,1,1138,4,Masculino,56,2,4,Executivo de vendas,2,Casado,13120,11879,6,Sim,Não,17,3,2,80,1,22,3,3,9,8,2,3
+456,29,Não,Viaja frequentemente,490,Pesquisa e Desenvolvimento,10,3,Ciências Humanas,1,1143,4,Feminino,61,3,1,Pesquisador cientista,2,Divorciado,3291,17940,0,Sim,Não,14,3,4,80,2,8,2,2,7,5,1,1
+457,42,Não,Viaja raramente,188,Pesquisa e Desenvolvimento,29,3,Ciências Médicas,1,1148,2,Masculino,56,1,2,Técnico de Laboratório,4,Solteiro,4272,9558,4,Sim,Não,19,3,1,80,0,16,3,3,1,0,0,0
+458,29,Não,Viaja raramente,718,Pesquisa e Desenvolvimento,8,1,Ciências Médicas,1,1150,2,Masculino,79,2,2,Diretor de manufatura,4,Casado,5056,17689,1,Sim,Sim,15,3,3,80,1,10,2,2,10,7,1,2
+459,28,Não,Viaja frequentemente,773,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,1154,3,Masculino,39,2,1,Pesquisador cientista,3,Divorciado,2703,22088,1,Sim,Sim,14,3,4,80,1,3,2,3,3,1,0,2
+460,18,Sim,Não Viaja,247,Pesquisa e Desenvolvimento,8,1,Ciências Médicas,1,1156,3,Masculino,80,3,1,Técnico de Laboratório,3,Solteiro,1904,13556,1,Sim,Não,12,3,4,80,0,0,0,3,0,0,0,0
+461,33,Sim,Viaja raramente,603,Vendas,9,4,Marketing,1,1157,1,Feminino,77,3,2,Executivo de vendas,1,Solteiro,8224,18385,0,Sim,Sim,17,3,1,80,0,6,3,3,5,2,0,3
+462,41,Não,Viaja raramente,167,Pesquisa e Desenvolvimento,12,4,Ciências Humanas,1,1158,2,Masculino,46,3,1,Técnico de Laboratório,4,Casado,4766,9051,3,Sim,Sim,11,3,1,80,1,6,4,3,1,0,0,0
+463,31,Sim,Viaja frequentemente,874,Pesquisa e Desenvolvimento,15,3,Ciências Médicas,1,1160,3,Masculino,72,3,1,Técnico de Laboratório,3,Casado,2610,6233,1,Sim,Não,12,3,3,80,1,2,5,2,2,2,2,2
+464,37,Não,Viaja raramente,367,Pesquisa e Desenvolvimento,25,2,Ciências Médicas,1,1161,3,Feminino,52,2,2,Reprentante de saúde,4,Divorciado,5731,17171,7,Sim,Não,13,3,3,80,2,9,2,3,6,2,1,3
+465,27,Não,Viaja raramente,199,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,1162,4,Masculino,55,2,1,Pesquisador cientista,3,Casado,2539,7950,1,Sim,Não,13,3,3,80,1,4,0,3,4,2,2,2
+466,34,Não,Viaja raramente,1400,Vendas,9,1,Ciências Humanas,1,1163,2,Feminino,70,3,2,Executivo de vendas,3,Casado,5714,5829,1,Sim,Não,20,4,1,80,0,6,3,2,6,5,1,3
+467,35,Não,Viaja raramente,528,Recursos HumaNãos,8,4,EnsiNão técnico,1,1164,3,Masculino,100,3,1,Recursos HumaNãos,3,Solteiro,4323,7108,1,Sim,Não,17,3,2,80,0,6,2,1,5,4,1,4
+468,29,Sim,Viaja raramente,408,Vendas,23,1,Ciências Humanas,1,1165,4,Feminino,45,2,3,Executivo de vendas,1,Casado,7336,11162,1,Sim,Não,13,3,1,80,1,11,3,1,11,8,3,10
+469,40,Não,Viaja frequentemente,593,Pesquisa e Desenvolvimento,9,4,Ciências Médicas,1,1166,2,Feminino,88,3,3,Diretor de pesquisa,3,Solteiro,13499,13782,9,Sim,Não,17,3,3,80,0,20,3,2,18,7,2,13
+470,42,Sim,Viaja frequentemente,481,Vendas,12,3,Ciências Humanas,1,1167,3,Masculino,44,3,4,Executivo de vendas,1,Solteiro,13758,2447,0,Sim,Sim,12,3,2,80,0,22,2,2,21,9,13,14
+471,24,Não,Viaja raramente,477,Pesquisa e Desenvolvimento,24,3,Ciências Médicas,1,1173,4,Masculino,49,3,1,Técnico de Laboratório,2,Solteiro,3597,6409,8,Sim,Não,22,4,4,80,0,6,2,3,4,3,1,2
+472,28,Sim,Viaja raramente,1485,Pesquisa e Desenvolvimento,12,1,Ciências Humanas,1,1175,3,Feminino,79,3,1,Técnico de Laboratório,4,Casado,2515,22955,1,Sim,Sim,11,3,4,80,0,1,4,2,1,1,0,0
+473,30,Não,Viaja raramente,852,Vendas,10,3,Marketing,1,1179,3,Masculino,72,2,2,Executivo de vendas,3,Casado,6578,2706,1,Sim,Não,18,3,1,80,1,10,3,3,10,3,1,4
+474,40,Não,Viaja frequentemente,902,Pesquisa e Desenvolvimento,26,2,Ciências Médicas,1,1180,3,Feminino,92,2,2,Pesquisador cientista,4,Casado,4422,21203,3,Sim,Sim,13,3,4,80,1,16,3,1,1,1,0,0
+475,43,Sim,Viaja raramente,1372,Vendas,9,3,Marketing,1,1188,1,Feminino,85,1,2,Executivo de vendas,3,Solteiro,5346,9489,8,Sim,Não,13,3,2,80,0,7,2,2,4,3,1,3
+476,29,Não,Viaja raramente,1401,Pesquisa e Desenvolvimento,6,1,Ciências Médicas,1,1192,2,Feminino,54,3,1,Técnico de Laboratório,4,Casado,3131,26342,1,Sim,Não,13,3,1,80,1,10,5,3,10,8,0,8
+477,19,Não,Viaja raramente,645,Pesquisa e Desenvolvimento,9,2,Ciências Humanas,1,1193,3,Masculino,54,3,1,Pesquisador cientista,1,Solteiro,2552,7172,1,Sim,Não,25,4,3,80,0,1,4,3,1,1,0,0
+478,45,Não,Viaja raramente,1457,Pesquisa e Desenvolvimento,7,3,Ciências Médicas,1,1195,1,Feminino,83,3,1,Pesquisador cientista,3,Casado,4477,20100,4,Sim,Sim,19,3,3,80,1,7,2,2,3,2,0,2
+479,44,Sim,Viaja raramente,1097,Pesquisa e Desenvolvimento,10,4,Ciências Humanas,1,1200,3,Masculino,96,3,1,Pesquisador cientista,3,Solteiro,2936,10826,1,Sim,Sim,11,3,3,80,0,6,4,3,6,4,0,2
+480,53,Não,Viaja raramente,1223,Pesquisa e Desenvolvimento,7,2,Ciências Médicas,1,1201,4,Feminino,50,3,5,Gerente,3,Divorciado,18606,18640,3,Sim,Não,18,3,2,80,1,26,6,3,7,7,4,7
+481,29,Não,Viaja raramente,942,Pesquisa e Desenvolvimento,15,1,Ciências Humanas,1,1202,2,Feminino,69,1,1,Pesquisador cientista,4,Casado,2168,26933,0,Sim,Sim,18,3,1,80,1,6,2,2,5,4,1,3
+482,44,Não,Não Viaja,111,Pesquisa e Desenvolvimento,17,3,Ciências Humanas,1,1206,4,Masculino,74,1,1,Pesquisador cientista,3,Solteiro,2290,4279,2,Sim,Não,13,3,4,80,0,6,3,3,0,0,0,0
+483,30,Não,Viaja raramente,1329,Vendas,29,4,Ciências Humanas,1,1211,3,Masculino,61,3,2,Executivo de vendas,1,Divorciado,4115,13192,8,Sim,Não,19,3,3,80,3,8,3,3,4,3,0,3
+484,28,Não,Viaja raramente,1179,Pesquisa e Desenvolvimento,19,4,Ciências Médicas,1,1216,4,Masculino,78,2,1,Técnico de Laboratório,1,Casado,3196,12449,1,Sim,Não,12,3,3,80,3,6,2,3,6,5,3,3
+485,46,Não,Viaja raramente,1450,Pesquisa e Desenvolvimento,15,2,Ciências Humanas,1,1217,4,Masculino,52,3,5,Diretor de pesquisa,2,Casado,19081,10849,5,Sim,Não,11,3,1,80,1,25,2,3,4,2,0,3
+486,35,Não,Viaja raramente,1361,Vendas,17,4,Ciências Humanas,1,1218,3,Masculino,94,3,2,Executivo de vendas,1,Casado,8966,21026,3,Sim,Sim,15,3,4,80,3,15,2,3,7,7,1,7
+487,24,Sim,Viaja raramente,984,Pesquisa e Desenvolvimento,17,2,Ciências Humanas,1,1219,4,Feminino,97,3,1,Técnico de Laboratório,2,Casado,2210,3372,1,Sim,Não,13,3,1,80,1,1,3,1,1,0,0,0
+488,33,Não,Viaja frequentemente,1146,Vendas,25,3,Ciências Médicas,1,1220,2,Feminino,82,3,2,Executivo de vendas,3,Casado,4539,4905,1,Sim,Não,12,3,1,80,1,10,3,2,10,7,0,1
+489,36,Não,Viaja raramente,917,Pesquisa e Desenvolvimento,6,4,Ciências Humanas,1,1221,3,Masculino,60,1,1,Técnico de Laboratório,3,Divorciado,2741,6865,1,Sim,Não,14,3,3,80,1,7,4,3,7,7,1,7
+490,30,Não,Viaja raramente,853,Pesquisa e Desenvolvimento,7,4,Ciências Humanas,1,1224,3,Masculino,49,3,2,Técnico de Laboratório,3,Divorciado,3491,11309,1,Sim,Não,13,3,1,80,3,10,4,2,10,7,8,9
+491,44,Não,Viaja raramente,200,Pesquisa e Desenvolvimento,29,4,Outras,1,1225,4,Masculino,32,3,2,Pesquisador cientista,4,Solteiro,4541,7744,1,Sim,Não,25,4,2,80,0,20,3,3,20,11,13,17
+492,20,Não,Viaja raramente,654,Vendas,21,3,Marketing,1,1226,3,Masculino,43,4,1,Representante de vendas,4,Solteiro,2678,5050,1,Sim,Não,17,3,4,80,0,2,2,3,2,1,2,2
+493,60,Não,Viaja raramente,696,Vendas,7,4,Marketing,1,1233,2,Masculino,52,4,2,Executivo de vendas,4,Divorciado,5220,10893,0,Sim,Sim,18,3,2,80,1,12,3,3,11,7,1,9
+494,32,Não,Viaja frequentemente,116,Pesquisa e Desenvolvimento,13,3,Outras,1,1234,3,Feminino,77,2,1,Técnico de Laboratório,2,Casado,2743,7331,1,Sim,Não,20,4,3,80,1,2,2,3,2,2,2,2
+495,33,Não,Viaja raramente,117,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,1238,1,Masculino,60,3,1,Pesquisador cientista,4,Casado,2781,6311,0,Sim,Não,13,3,2,80,1,15,5,3,14,10,4,10
+496,40,Não,Viaja raramente,107,Vendas,10,3,EnsiNão técnico,1,1239,2,Feminino,84,2,2,Executivo de vendas,2,Divorciado,6852,11591,7,Sim,Não,12,3,2,80,1,7,2,4,5,1,1,3
+497,25,Não,Viaja raramente,1356,Vendas,10,4,Ciências Humanas,1,1240,3,Masculino,57,3,2,Executivo de vendas,4,Solteiro,4950,20623,0,Sim,Não,14,3,2,80,0,5,4,3,4,3,1,1
+498,42,Não,Viaja frequentemente,458,Pesquisa e Desenvolvimento,26,5,Ciências Médicas,1,1242,1,Feminino,60,3,3,Diretor de pesquisa,1,Casado,13191,23281,3,Sim,Sim,17,3,3,80,0,20,6,3,1,0,0,0
+499,35,Não,Não Viaja,1212,Vendas,8,2,Marketing,1,1243,3,Feminino,78,2,3,Executivo de vendas,4,Casado,10377,13755,4,Sim,Sim,11,3,2,80,1,16,6,2,13,2,4,12
+500,27,Não,Viaja raramente,1103,Pesquisa e Desenvolvimento,14,3,Ciências Humanas,1,1244,1,Masculino,42,3,1,Pesquisador cientista,1,Casado,2235,14377,1,Sim,Sim,14,3,4,80,2,9,3,2,9,7,6,8
+501,19,Sim,Não Viaja,504,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,1248,1,Feminino,96,2,1,Pesquisador cientista,2,Solteiro,1859,6148,1,Sim,Sim,25,4,2,80,0,1,2,4,1,1,0,0
+502,31,Não,Viaja raramente,1332,Pesquisa e Desenvolvimento,11,2,Ciências Médicas,1,1251,3,Masculino,80,3,2,Reprentante de saúde,1,Casado,6833,17089,1,Sim,Sim,12,3,4,80,0,6,2,2,6,5,0,1
+503,31,Não,Viaja raramente,1062,Pesquisa e Desenvolvimento,24,3,Ciências Médicas,1,1252,3,Feminino,96,2,2,Reprentante de saúde,1,Solteiro,6812,17198,1,Sim,Não,19,3,2,80,0,10,2,3,10,9,1,8
+504,29,Não,Viaja raramente,1329,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,1260,3,Masculino,82,3,2,Reprentante de saúde,4,Divorciado,6623,4204,1,Sim,Sim,11,3,2,80,2,6,2,3,6,0,1,0
+505,34,Não,Viaja raramente,1320,Pesquisa e Desenvolvimento,20,3,EnsiNão técnico,1,1265,3,Feminino,89,4,1,Pesquisador cientista,3,Casado,2585,21643,0,Sim,Não,17,3,4,80,0,2,5,2,1,0,0,0
+506,33,Não,Viaja raramente,536,Vendas,10,5,Marketing,1,1268,4,Masculino,82,4,3,Executivo de vendas,3,Divorciado,8380,21708,0,Sim,Sim,14,3,4,80,2,10,3,3,9,8,0,8
+507,19,Não,Viaja raramente,265,Pesquisa e Desenvolvimento,25,3,Ciências Humanas,1,1269,2,Feminino,57,4,1,Pesquisador cientista,4,Solteiro,2994,21221,1,Sim,Sim,12,3,4,80,0,1,2,3,1,0,0,1
+508,25,Sim,Viaja frequentemente,599,Vendas,24,1,Ciências Humanas,1,1273,3,Masculino,73,1,1,Representante de vendas,4,Solteiro,1118,8040,1,Sim,Sim,14,3,4,80,0,1,4,3,1,0,1,0
+509,55,Não,Não Viaja,177,Pesquisa e Desenvolvimento,8,1,Ciências Médicas,1,1278,4,Masculino,37,2,4,Reprentante de saúde,2,Divorciado,13577,25592,1,Sim,Sim,15,3,4,80,1,34,3,3,33,9,15,0
+510,21,Sim,Viaja frequentemente,251,Pesquisa e Desenvolvimento,10,2,Ciências Humanas,1,1279,1,Feminino,45,2,1,Técnico de Laboratório,3,Solteiro,2625,25308,1,Sim,Não,20,4,3,80,0,2,2,1,2,2,2,2
+511,51,Não,Viaja frequentemente,237,Vendas,9,3,Ciências Humanas,1,1282,4,Masculino,83,3,5,Gerente,2,Divorciado,19847,19196,4,Sim,Sim,24,4,1,80,1,31,5,2,29,10,11,10
+512,59,Não,Viaja raramente,1429,Pesquisa e Desenvolvimento,18,4,Ciências Médicas,1,1283,4,Masculino,67,3,3,Diretor de manufatura,4,Solteiro,10512,20002,6,Sim,Não,12,3,4,80,0,25,6,2,9,7,5,4
+513,34,Não,Viaja frequentemente,135,Pesquisa e Desenvolvimento,19,3,Ciências Médicas,1,1285,3,Feminino,46,3,2,Técnico de Laboratório,2,Divorciado,4444,22534,4,Sim,Não,13,3,3,80,2,15,2,4,11,8,5,10
+514,34,Não,Viaja frequentemente,648,Recursos HumaNãos,11,3,Ciências Humanas,1,1289,3,Masculino,56,2,2,Recursos HumaNãos,2,Casado,4490,21833,4,Sim,Não,11,3,4,80,2,14,5,4,10,9,1,8
+515,35,Não,Viaja raramente,735,Pesquisa e Desenvolvimento,6,1,Ciências Humanas,1,1291,3,Masculino,66,3,1,Pesquisador cientista,3,Casado,3506,6020,0,Sim,Sim,14,3,4,80,0,4,3,3,3,2,2,2
+516,42,Não,Viaja raramente,603,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,1292,2,Feminino,78,4,2,Pesquisador cientista,2,Casado,2372,5628,6,Sim,Sim,16,3,4,80,0,18,2,3,1,0,0,0
+517,44,Sim,Viaja raramente,621,Pesquisa e Desenvolvimento,15,3,Ciências Médicas,1,1295,1,Feminino,73,3,3,Reprentante de saúde,4,Casado,7978,14075,1,Sim,Não,11,3,4,80,1,10,2,3,10,7,0,5
+518,51,Não,Viaja frequentemente,968,Pesquisa e Desenvolvimento,6,2,Ciências Médicas,1,1297,2,Feminino,40,2,1,Técnico de Laboratório,3,Solteiro,2838,4257,0,Sim,Não,14,3,2,80,0,8,6,2,7,0,7,7
+519,30,Não,Não Viaja,879,Pesquisa e Desenvolvimento,9,2,Ciências Médicas,1,1298,3,Feminino,72,3,2,Diretor de manufatura,3,Solteiro,4695,12858,7,Sim,Sim,18,3,3,80,0,10,3,3,8,4,1,7
+520,29,Sim,Viaja raramente,806,Pesquisa e Desenvolvimento,7,3,EnsiNão técnico,1,1299,2,Feminino,39,3,1,Técnico de Laboratório,3,Divorciado,3339,17285,3,Sim,Sim,13,3,1,80,2,10,2,3,7,7,7,7
+521,32,Não,Viaja raramente,604,Vendas,8,3,Ciências Médicas,1,1304,3,Masculino,56,4,2,Executivo de vendas,4,Casado,6209,11693,1,Sim,Não,15,3,3,80,2,10,4,4,10,7,0,8
+522,45,Não,Viaja frequentemente,364,Pesquisa e Desenvolvimento,25,3,Ciências Médicas,1,1306,2,Feminino,83,3,5,Gerente,2,Solteiro,18061,13035,3,Sim,Não,22,4,3,80,0,22,4,3,0,0,0,0
+523,39,Não,Viaja raramente,412,Pesquisa e Desenvolvimento,13,4,Ciências Médicas,1,1307,3,Feminino,94,2,4,Gerente,2,Divorciado,17123,17334,6,Sim,Sim,13,3,4,80,2,21,4,3,19,9,15,2
+524,58,Não,Viaja raramente,848,Pesquisa e Desenvolvimento,23,4,Ciências Humanas,1,1308,1,Masculino,88,3,1,Pesquisador cientista,3,Divorciado,2372,26076,1,Sim,Não,12,3,4,80,2,2,3,3,2,2,2,2
+525,32,Sim,Viaja raramente,1089,Pesquisa e Desenvolvimento,7,2,Ciências Humanas,1,1309,4,Masculino,79,3,2,Técnico de Laboratório,3,Casado,4883,22845,1,Sim,Não,18,3,1,80,1,10,3,3,10,4,1,1
+526,39,Sim,Viaja raramente,360,Pesquisa e Desenvolvimento,23,3,Ciências Médicas,1,1310,3,Masculino,93,3,1,Pesquisador cientista,1,Solteiro,3904,22154,0,Sim,Não,13,3,1,80,0,6,2,3,5,2,0,3
+527,30,Não,Viaja raramente,1138,Pesquisa e Desenvolvimento,6,3,EnsiNão técnico,1,1311,1,Feminino,48,2,2,Técnico de Laboratório,4,Casado,4627,23631,0,Sim,Não,12,3,1,80,1,10,6,3,9,2,6,7
+528,36,Não,Viaja raramente,325,Pesquisa e Desenvolvimento,10,4,EnsiNão técnico,1,1312,4,Feminino,63,3,3,Reprentante de saúde,3,Casado,7094,5747,3,Sim,Não,12,3,1,80,0,10,0,3,7,7,1,7
+529,50,Não,Viaja raramente,1322,Pesquisa e Desenvolvimento,28,3,Ciências Humanas,1,1317,4,Feminino,43,3,4,Diretor de pesquisa,1,Casado,16880,22422,4,Sim,Sim,11,3,2,80,0,25,2,3,3,2,1,2
+530,40,Sim,Viaja raramente,299,Vendas,25,4,Marketing,1,1318,4,Masculino,57,2,3,Executivo de vendas,2,Solteiro,9094,17235,2,Sim,Sim,12,3,3,80,0,9,2,3,5,4,1,0
+531,30,Não,Viaja raramente,634,Pesquisa e Desenvolvimento,17,4,Ciências Médicas,1,1321,2,Feminino,95,3,3,Gerente,1,Casado,11916,25927,1,Sim,Sim,23,4,4,80,2,9,2,3,9,1,0,8
+532,39,Não,Viaja raramente,524,Pesquisa e Desenvolvimento,18,2,Ciências Humanas,1,1322,1,Masculino,32,3,2,Diretor de manufatura,3,Solteiro,4534,13352,0,Sim,Não,11,3,1,80,0,9,6,3,8,7,1,7
+533,41,Não,Não Viaja,256,Vendas,10,2,Ciências Médicas,1,1329,3,Masculino,40,1,2,Executivo de vendas,2,Solteiro,6151,22074,1,Sim,Não,13,3,1,80,0,19,4,3,19,2,11,9
+534,56,Não,Viaja raramente,206,Recursos HumaNãos,8,4,Ciências Humanas,1,1338,4,Masculino,99,3,5,Gerente,2,Solteiro,19717,4022,6,Sim,Não,14,3,1,80,0,36,4,3,7,3,7,7
+535,40,Não,Não Viaja,458,Pesquisa e Desenvolvimento,16,2,Ciências Humanas,1,1340,3,Masculino,74,3,1,Pesquisador cientista,3,Divorciado,3544,8532,9,Sim,Não,16,3,2,80,1,6,0,3,4,2,0,0
+536,34,Não,Viaja raramente,943,Pesquisa e Desenvolvimento,9,3,Ciências Humanas,1,1344,4,Masculino,86,3,3,Reprentante de saúde,4,Divorciado,8500,5494,0,Sim,Não,11,3,4,80,1,10,0,2,9,7,1,6
+537,34,Não,Viaja raramente,507,Vendas,15,2,Ciências Médicas,1,1356,3,Feminino,66,3,2,Executivo de vendas,1,Solteiro,6125,23553,1,Sim,Não,12,3,4,80,0,10,6,4,10,8,9,6
+538,25,Não,Viaja raramente,882,Pesquisa e Desenvolvimento,19,1,Ciências Médicas,1,1358,4,Masculino,67,3,1,Técnico de Laboratório,4,Casado,3669,9075,3,Sim,Não,11,3,3,80,3,7,6,2,3,2,1,2
+539,58,Sim,Viaja raramente,601,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,1360,3,Feminino,53,2,3,Diretor de manufatura,1,Casado,10008,12023,7,Sim,Sim,14,3,4,80,0,31,0,2,10,9,5,9
+540,36,Não,Viaja frequentemente,607,Vendas,7,3,Marketing,1,1362,1,Feminino,83,4,2,Executivo de vendas,1,Casado,4639,2261,2,Sim,Não,16,3,4,80,1,17,2,2,15,7,6,13
+541,27,Não,Viaja raramente,1291,Vendas,11,3,Ciências Médicas,1,1364,3,Feminino,98,4,1,Representante de vendas,4,Casado,2534,6527,8,Sim,Não,14,3,2,80,1,5,4,3,1,0,0,0
+542,51,Não,Viaja raramente,1405,Pesquisa e Desenvolvimento,11,2,EnsiNão técnico,1,1367,4,Feminino,82,2,4,Diretor de manufatura,2,Solteiro,13142,24439,3,Sim,Não,16,3,2,80,0,29,1,2,5,2,0,3
+543,55,Sim,Viaja raramente,267,Vendas,13,4,Marketing,1,1372,1,Masculino,85,4,4,Executivo de vendas,3,Solteiro,13695,9277,6,Sim,Sim,17,3,3,80,0,24,2,2,19,7,3,8
+544,56,Não,Viaja raramente,1369,Pesquisa e Desenvolvimento,23,3,Ciências Humanas,1,1373,4,Masculino,68,3,4,Diretor de manufatura,2,Casado,13402,18235,4,Sim,Sim,12,3,1,80,1,33,0,3,19,16,15,9
+545,34,Não,Não Viaja,999,Pesquisa e Desenvolvimento,26,1,EnsiNão técnico,1,1374,1,Feminino,92,2,1,Pesquisador cientista,3,Divorciado,2029,15891,1,Sim,Não,20,4,3,80,3,5,2,3,5,4,0,0
+546,34,Não,Viaja raramente,285,Pesquisa e Desenvolvimento,29,3,Ciências Médicas,1,1377,2,Masculino,86,3,2,Técnico de Laboratório,3,Casado,5429,17491,4,Sim,Não,13,3,1,80,2,10,1,3,8,7,7,7
+547,35,Sim,Viaja frequentemente,662,Vendas,18,4,Marketing,1,1380,4,Feminino,67,3,2,Executivo de vendas,3,Casado,4614,23288,0,Sim,Sim,18,3,3,80,1,5,0,2,4,2,3,2
+548,38,Não,Viaja frequentemente,693,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,1382,4,Masculino,57,4,1,Pesquisador cientista,3,Divorciado,2610,15748,1,Sim,Não,11,3,4,80,3,4,2,3,4,2,0,3
+549,28,Não,Viaja raramente,736,Vendas,26,3,Ciências Humanas,1,1387,3,Masculino,48,2,2,Executivo de vendas,1,Casado,4724,24232,1,Sim,Não,11,3,3,80,1,5,0,3,5,3,0,4
+550,31,Sim,Viaja raramente,330,Pesquisa e Desenvolvimento,22,4,Ciências Médicas,1,1389,4,Masculino,98,3,2,Diretor de manufatura,3,Casado,6179,21057,1,Sim,Sim,15,3,4,80,2,10,3,2,10,2,6,7
+551,39,Não,Viaja raramente,1498,Vendas,21,4,Ciências Humanas,1,1390,1,Masculino,44,2,2,Executivo de vendas,4,Casado,6120,3567,3,Sim,Sim,12,3,4,80,2,8,2,4,5,4,1,4
+552,41,Não,Viaja frequentemente,1200,Pesquisa e Desenvolvimento,22,3,Ciências Humanas,1,1392,4,Feminino,75,3,2,Pesquisador cientista,4,Divorciado,5467,13953,3,Sim,Sim,14,3,1,80,2,12,4,2,6,2,3,3
+553,39,Não,Não Viaja,1485,Pesquisa e Desenvolvimento,25,2,Ciências Humanas,1,1397,3,Masculino,71,3,3,Reprentante de saúde,3,Casado,10920,3449,3,Sim,Não,21,4,2,80,1,13,2,3,6,4,0,5
+554,25,Não,Viaja raramente,1372,Vendas,18,1,Ciências Humanas,1,1399,1,Masculino,93,4,2,Executivo de vendas,3,Casado,6232,12477,2,Sim,Não,11,3,2,80,0,6,3,2,3,2,1,2
+555,52,Não,Viaja frequentemente,322,Pesquisa e Desenvolvimento,28,2,Ciências Médicas,1,1401,4,Feminino,59,4,4,Diretor de manufatura,3,Casado,13247,9731,2,Sim,Sim,11,3,2,80,1,24,3,2,5,3,0,2
+556,43,Não,Viaja raramente,930,Pesquisa e Desenvolvimento,6,3,Ciências Médicas,1,1402,1,Feminino,73,2,2,Pesquisador cientista,3,Solteiro,4081,20003,1,Sim,Sim,14,3,1,80,0,20,3,1,20,7,1,8
+557,27,Não,Viaja raramente,205,Vendas,10,3,Marketing,1,1403,4,Feminino,98,2,2,Executivo de vendas,4,Casado,5769,7100,1,Sim,Sim,11,3,4,80,0,6,3,3,6,2,4,4
+558,27,Sim,Viaja raramente,135,Pesquisa e Desenvolvimento,17,4,Ciências Humanas,1,1405,4,Feminino,51,3,1,Pesquisador cientista,3,Solteiro,2394,25681,1,Sim,Sim,13,3,4,80,0,8,2,3,8,2,7,7
+559,42,Não,Viaja raramente,1147,Recursos HumaNãos,10,3,Recursos HumaNãos,1,1408,3,Feminino,31,3,4,Gerente,1,Casado,16799,16616,0,Sim,Não,14,3,3,80,1,21,5,3,20,7,0,9
+560,52,Não,Viaja raramente,258,Pesquisa e Desenvolvimento,8,4,Outras,1,1409,3,Feminino,54,3,1,Técnico de Laboratório,1,Casado,2950,17363,9,Sim,Não,13,3,3,80,0,12,2,1,5,4,0,4
+561,37,Não,Viaja raramente,1462,Pesquisa e Desenvolvimento,11,3,Ciências Médicas,1,1411,1,Feminino,94,3,1,Técnico de Laboratório,3,Solteiro,3629,19106,4,Sim,Não,18,3,1,80,0,8,6,3,3,2,0,2
+562,35,Não,Viaja frequentemente,200,Pesquisa e Desenvolvimento,18,2,Ciências Humanas,1,1412,3,Masculino,60,3,3,Diretor de manufatura,4,Solteiro,9362,19944,2,Sim,Não,11,3,3,80,0,10,2,3,2,2,2,2
+563,26,Não,Viaja raramente,652,Pesquisa e Desenvolvimento,7,3,Outras,1,1417,3,Masculino,100,4,1,Técnico de Laboratório,1,Solteiro,3578,23577,0,Sim,Não,12,3,4,80,0,8,2,3,7,7,0,7
+564,29,Não,Viaja raramente,332,Recursos HumaNãos,17,3,Outras,1,1419,2,Masculino,51,2,3,Recursos HumaNãos,1,Solteiro,7988,9769,1,Sim,Não,13,3,1,80,0,10,3,2,10,9,0,9
+565,49,Sim,Viaja frequentemente,1475,Pesquisa e Desenvolvimento,28,2,Ciências Humanas,1,1420,1,Masculino,97,2,2,Técnico de Laboratório,1,Solteiro,4284,22710,3,Sim,Não,20,4,1,80,0,20,2,3,4,3,1,3
+566,29,Sim,Viaja frequentemente,337,Pesquisa e Desenvolvimento,14,1,Outras,1,1421,3,Feminino,84,3,3,Reprentante de saúde,4,Solteiro,7553,22930,0,Sim,Sim,12,3,1,80,0,9,1,3,8,7,7,7
+567,30,Não,Viaja raramente,855,Vendas,7,4,Marketing,1,1428,4,Feminino,73,3,2,Executivo de vendas,1,Divorciado,4779,12761,7,Sim,Não,14,3,2,80,2,8,3,3,3,2,0,2
+568,31,Não,Viaja raramente,182,Pesquisa e Desenvolvimento,8,5,Ciências Humanas,1,1430,1,Feminino,93,3,4,Diretor de pesquisa,2,Solteiro,16422,8847,3,Sim,Não,11,3,3,80,0,9,3,4,3,2,1,0
+569,31,Sim,Viaja raramente,202,Pesquisa e Desenvolvimento,8,3,Ciências Humanas,1,1433,1,Feminino,34,2,1,Pesquisador cientista,2,Solteiro,1261,22262,1,Sim,Não,12,3,3,80,0,1,3,4,1,0,0,0
+570,27,Não,Viaja raramente,1377,Pesquisa e Desenvolvimento,11,1,Ciências Humanas,1,1434,2,Masculino,91,3,1,Técnico de Laboratório,1,Casado,2099,7679,0,Sim,Não,14,3,2,80,0,6,3,4,5,0,1,4
+571,36,Não,Viaja raramente,329,Vendas,16,4,Marketing,1,1436,3,Feminino,98,2,2,Executivo de vendas,1,Casado,5647,13494,4,Sim,Não,13,3,1,80,2,11,3,2,3,2,0,2
+572,25,Sim,Viaja raramente,383,Vendas,9,2,Ciências Humanas,1,1439,1,Masculino,68,2,1,Representante de vendas,1,Casado,4400,15182,3,Sim,Não,12,3,1,80,0,6,2,3,3,2,2,2
+573,32,Não,Viaja raramente,601,Vendas,7,5,Marketing,1,1446,4,Masculino,97,3,2,Executivo de vendas,4,Casado,9204,23343,4,Sim,Não,12,3,3,80,1,7,3,2,4,3,0,3
+574,40,Não,Não Viaja,663,Pesquisa e Desenvolvimento,9,4,Outras,1,1449,3,Masculino,81,3,2,Técnico de Laboratório,3,Divorciado,3975,23099,3,Sim,Não,11,3,3,80,2,11,2,4,8,7,0,7
+575,31,Não,Viaja raramente,326,Vendas,8,2,Ciências Humanas,1,1453,1,Masculino,31,3,3,Executivo de vendas,4,Divorciado,10793,8386,1,Sim,Não,18,3,1,80,1,13,5,3,13,7,9,9
+576,46,Sim,Viaja raramente,377,Vendas,9,3,Marketing,1,1457,1,Masculino,52,3,3,Executivo de vendas,4,Divorciado,10096,15986,4,Sim,Não,11,3,1,80,1,28,1,4,7,7,4,3
+577,45,Não,Viaja raramente,1038,Pesquisa e Desenvolvimento,20,3,Ciências Médicas,1,1460,2,Masculino,95,1,3,Reprentante de saúde,1,Divorciado,10851,19863,2,Sim,Sim,18,3,2,80,1,24,2,3,7,7,0,7
+578,31,Não,Viaja raramente,1398,Recursos HumaNãos,8,2,Ciências Médicas,1,1461,4,Feminino,96,4,1,Recursos HumaNãos,2,Solteiro,2109,24609,9,Sim,Não,18,3,4,80,0,8,3,3,3,2,0,2
+579,45,Não,Viaja raramente,1448,Pesquisa e Desenvolvimento,29,3,EnsiNão técnico,1,1465,2,Masculino,55,3,3,Diretor de manufatura,4,Casado,9380,14720,4,Sim,Sim,18,3,4,80,2,10,4,4,3,1,1,2
+580,48,Não,Viaja raramente,1221,Vendas,7,3,Marketing,1,1466,3,Masculino,96,3,2,Executivo de vendas,1,Divorciado,5486,24795,4,Sim,Não,11,3,1,80,3,15,3,3,2,2,2,2
+581,34,Sim,Viaja raramente,1107,Recursos HumaNãos,9,4,EnsiNão técnico,1,1467,1,Feminino,52,3,1,Recursos HumaNãos,3,Casado,2742,3072,1,Sim,Não,15,3,4,80,0,2,0,3,2,2,2,2
+582,40,Não,Não Viaja,218,Pesquisa e Desenvolvimento,8,1,Ciências Médicas,1,1468,4,Masculino,55,2,3,Diretor de pesquisa,2,Divorciado,13757,25178,2,Sim,Não,11,3,3,80,1,16,5,3,9,8,4,8
+583,44,Não,Viaja raramente,1467,Pesquisa e Desenvolvimento,20,3,Ciências Humanas,1,1475,4,Masculino,49,3,1,Pesquisador cientista,2,Solteiro,3420,21158,1,Sim,Não,13,3,3,80,0,6,3,2,5,2,1,3
+584,33,Não,Viaja frequentemente,430,Vendas,7,3,Ciências Médicas,1,1477,4,Masculino,54,3,2,Executivo de vendas,1,Casado,4373,17456,0,Sim,Não,14,3,1,80,2,5,2,3,4,3,0,3
+585,30,Não,Viaja raramente,1358,Vendas,16,1,Ciências Humanas,1,1479,4,Masculino,96,3,2,Executivo de vendas,3,Casado,5301,2939,8,Sim,Não,15,3,3,80,2,4,2,2,2,1,2,2
+586,42,Não,Viaja frequentemente,748,Pesquisa e Desenvolvimento,9,2,Ciências Médicas,1,1480,1,Feminino,74,3,1,Técnico de Laboratório,4,Solteiro,3673,16458,1,Sim,Não,13,3,3,80,0,12,3,3,12,9,5,8
+587,30,Não,Não Viaja,990,Pesquisa e Desenvolvimento,7,3,EnsiNão técnico,1,1482,3,Masculino,64,3,1,Pesquisador cientista,3,Divorciado,1274,7152,1,Sim,Não,13,3,2,80,2,1,2,2,1,0,0,0
+588,49,Não,Viaja raramente,1490,Pesquisa e Desenvolvimento,7,4,Ciências Humanas,1,1484,3,Masculino,35,3,3,Reprentante de saúde,2,Divorciado,10466,20948,3,Sim,Não,14,3,2,80,2,29,3,3,8,7,0,7
+589,34,Não,Viaja frequentemente,829,Pesquisa e Desenvolvimento,15,3,Ciências Médicas,1,1485,2,Masculino,71,3,4,Diretor de pesquisa,1,Divorciado,17007,11929,7,Sim,Não,14,3,4,80,2,16,3,2,14,8,6,9
+590,29,Sim,Viaja frequentemente,115,Vendas,13,3,EnsiNão técnico,1,1487,1,Feminino,51,3,2,Executivo de vendas,2,Solteiro,5765,17485,5,Sim,Não,11,3,1,80,0,7,4,1,5,3,0,0
+591,34,Sim,Viaja raramente,790,Vendas,24,4,Ciências Médicas,1,1489,1,Feminino,40,2,2,Executivo de vendas,2,Solteiro,4599,7815,0,Sim,Sim,23,4,3,80,0,16,2,4,15,9,10,10
+592,35,Não,Viaja raramente,660,Vendas,7,1,Ciências Humanas,1,1492,4,Masculino,76,3,1,Representante de vendas,3,Casado,2404,16192,1,Sim,Não,13,3,1,80,1,1,3,3,1,0,0,0
+593,24,Sim,Viaja frequentemente,381,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,1494,2,Masculino,89,3,1,Técnico de Laboratório,1,Solteiro,3172,16998,2,Sim,Sim,11,3,3,80,0,4,2,2,0,0,0,0
+594,24,Não,Não Viaja,830,Vendas,13,2,Ciências Humanas,1,1495,4,Feminino,78,3,1,Representante de vendas,2,Casado,2033,7103,1,Sim,Não,13,3,3,80,1,1,2,3,1,0,0,0
+595,29,Não,Viaja raramente,1246,Vendas,19,3,Ciências Humanas,1,1497,3,Masculino,77,2,2,Executivo de vendas,3,Divorciado,8620,23757,1,Sim,Não,14,3,3,80,2,10,3,3,10,7,0,4
+596,47,Não,Viaja raramente,571,Vendas,14,3,Ciências Médicas,1,1503,3,Feminino,78,3,2,Executivo de vendas,3,Casado,4591,24200,3,Sim,Sim,17,3,3,80,1,11,4,2,5,4,1,2
+597,28,Não,Viaja frequentemente,467,Vendas,7,3,Ciências Humanas,1,1507,3,Masculino,55,3,2,Executivo de vendas,1,Solteiro,4898,11827,0,Sim,Não,14,3,4,80,0,5,5,3,4,2,1,3
+598,28,Não,Viaja raramente,1083,Pesquisa e Desenvolvimento,29,1,Ciências Humanas,1,1514,3,Masculino,96,1,2,Diretor de manufatura,2,Casado,6549,3173,1,Sim,Não,14,3,2,80,2,8,2,2,8,6,1,7
+599,33,Não,Viaja raramente,516,Pesquisa e Desenvolvimento,8,5,Ciências Humanas,1,1515,4,Masculino,69,3,2,Reprentante de saúde,3,Solteiro,6388,22049,2,Sim,Sim,17,3,1,80,0,14,6,3,0,0,0,0
+600,32,Não,Viaja raramente,495,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,1516,3,Masculino,64,3,3,Gerente,4,Solteiro,11244,21072,2,Sim,Não,25,4,2,80,0,10,5,4,5,2,0,0
+601,54,Não,Viaja frequentemente,1050,Pesquisa e Desenvolvimento,11,4,Ciências Médicas,1,1520,2,Feminino,87,3,4,Gerente,4,Divorciado,16032,24456,3,Sim,Não,20,4,1,80,1,26,2,3,14,9,1,12
+602,44,Não,Viaja raramente,136,Pesquisa e Desenvolvimento,28,3,Ciências Humanas,1,1523,4,Masculino,32,3,4,Diretor de pesquisa,1,Casado,16328,22074,3,Sim,Não,13,3,3,80,1,24,1,4,20,6,14,17
+603,39,Não,Viaja raramente,1089,Pesquisa e Desenvolvimento,6,3,Ciências Humanas,1,1525,2,Feminino,32,3,3,Diretor de manufatura,2,Solteiro,8376,9150,4,Sim,Não,18,3,4,80,0,9,3,3,2,0,2,2
+604,35,Não,Viaja raramente,1029,Pesquisa e Desenvolvimento,16,3,Ciências Humanas,1,1529,4,Feminino,91,2,3,Reprentante de saúde,2,Solteiro,8606,21195,1,Sim,Não,19,3,4,80,0,11,3,1,11,8,3,3
+605,23,Não,Viaja raramente,507,Pesquisa e Desenvolvimento,20,1,Ciências Humanas,1,1533,1,Masculino,97,3,2,Técnico de Laboratório,3,Solteiro,2272,24812,0,Sim,Não,14,3,2,80,0,5,2,3,4,3,1,2
+606,40,Sim,Viaja raramente,676,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,1534,4,Masculino,86,3,1,Técnico de Laboratório,1,Solteiro,2018,21831,3,Sim,Não,14,3,2,80,0,15,3,1,5,4,1,0
+607,50,Não,Viaja frequentemente,333,Pesquisa e Desenvolvimento,22,5,Ciências Médicas,1,1539,3,Masculino,88,1,4,Diretor de pesquisa,4,Solteiro,14411,24450,1,Sim,Sim,13,3,4,80,0,32,2,3,32,6,13,9
+608,34,Não,Viaja raramente,1440,Vendas,7,2,EnsiNão técnico,1,1541,2,Masculino,55,3,1,Representante de vendas,3,Casado,2308,4944,0,Sim,Sim,25,4,2,80,1,12,4,3,11,10,5,7
+609,37,Não,Viaja raramente,674,Pesquisa e Desenvolvimento,13,3,Ciências Médicas,1,1543,1,Masculino,47,3,2,Pesquisador cientista,4,Casado,4285,3031,1,Sim,Não,17,3,1,80,0,10,2,3,10,8,3,7
+610,29,Não,Viaja raramente,441,Pesquisa e Desenvolvimento,8,1,Outras,1,1544,3,Feminino,39,1,2,Reprentante de saúde,1,Casado,9715,7288,3,Sim,Não,13,3,3,80,1,9,3,3,7,7,0,7
+611,33,Não,Viaja raramente,575,Pesquisa e Desenvolvimento,25,3,Ciências Humanas,1,1545,4,Masculino,44,2,2,Diretor de manufatura,2,Solteiro,4320,24152,1,Sim,Não,13,3,4,80,0,5,2,3,5,3,0,2
+612,45,Não,Viaja raramente,950,Pesquisa e Desenvolvimento,28,3,EnsiNão técnico,1,1546,4,Masculino,97,3,1,Pesquisador cientista,4,Casado,2132,4585,4,Sim,Não,20,4,4,80,1,8,3,3,5,4,0,3
+613,40,Não,Viaja raramente,1342,Vendas,9,2,Ciências Médicas,1,1548,1,Masculino,47,3,2,Executivo de vendas,1,Casado,5473,19345,0,Sim,Não,12,3,4,80,0,9,5,4,8,4,7,1
+614,33,Não,Viaja raramente,589,Pesquisa e Desenvolvimento,28,4,Ciências Humanas,1,1549,2,Masculino,79,3,2,Técnico de Laboratório,3,Casado,5207,22949,1,Sim,Sim,12,3,2,80,1,15,3,3,15,14,5,7
+615,40,Não,Viaja raramente,898,Recursos HumaNãos,6,2,Ciências Médicas,1,1550,3,Masculino,38,3,4,Gerente,4,Solteiro,16437,17381,1,Sim,Sim,21,4,4,80,0,21,2,3,21,7,7,7
+616,24,Não,Viaja raramente,350,Pesquisa e Desenvolvimento,21,2,EnsiNão técnico,1,1551,3,Masculino,57,2,1,Técnico de Laboratório,1,Divorciado,2296,10036,0,Sim,Não,14,3,2,80,3,2,3,3,1,1,0,0
+617,40,Não,Não Viaja,1142,Pesquisa e Desenvolvimento,8,2,Ciências Humanas,1,1552,4,Masculino,72,3,2,Reprentante de saúde,4,Divorciado,4069,8841,3,Sim,Sim,18,3,3,80,0,8,2,3,2,2,2,2
+618,35,Não,Viaja raramente,1402,Vendas,28,4,Ciências Humanas,1,1554,2,Feminino,98,2,1,Representante de vendas,3,Casado,2430,26204,0,Sim,Não,23,4,1,80,2,6,5,3,5,3,4,2
+619,48,Não,Viaja raramente,492,Vendas,16,4,Ciências Humanas,1,1557,3,Feminino,96,3,2,Executivo de vendas,3,Divorciado,6439,13693,8,Sim,Não,14,3,3,80,1,18,2,3,8,7,7,7
+620,29,Não,Viaja raramente,598,Pesquisa e Desenvolvimento,9,3,Ciências Humanas,1,1558,3,Masculino,91,4,1,Pesquisador cientista,3,Casado,2451,22376,6,Sim,Não,18,3,1,80,2,5,2,2,1,0,0,0
+621,33,Não,Viaja raramente,1242,Vendas,8,4,Ciências Humanas,1,1560,1,Masculino,46,3,2,Executivo de vendas,1,Casado,6392,10589,2,Sim,Não,13,3,4,80,1,8,6,1,2,2,2,2
+622,38,Não,Viaja frequentemente,888,Recursos HumaNãos,10,4,Recursos HumaNãos,1,1563,3,Masculino,71,3,2,Recursos HumaNãos,3,Casado,6077,14814,3,Sim,Não,11,3,3,80,0,10,2,3,6,3,1,2
+623,30,Não,Viaja raramente,1288,Vendas,29,4,EnsiNão técnico,1,1568,3,Masculino,33,3,3,Executivo de vendas,2,Casado,9250,17799,3,Sim,Não,12,3,2,80,1,9,3,3,4,2,1,3
+624,48,Não,Viaja raramente,1108,Pesquisa e Desenvolvimento,15,4,Outras,1,1576,3,Feminino,65,3,1,Pesquisador cientista,1,Casado,2367,16530,8,Sim,Não,12,3,4,80,1,10,3,2,8,2,7,6
+625,34,Não,Viaja raramente,479,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,1577,1,Masculino,35,3,1,Pesquisador cientista,4,Solteiro,2972,22061,1,Sim,Não,13,3,3,80,0,1,4,1,1,0,0,0
+626,55,Não,Viaja raramente,685,Vendas,26,5,Marketing,1,1578,3,Masculino,60,2,5,Gerente,4,Casado,19586,23037,1,Sim,Não,21,4,3,80,1,36,3,3,36,6,2,13
+627,38,Não,Viaja raramente,1245,Vendas,14,3,Ciências Humanas,1,1582,3,Masculino,80,3,2,Executivo de vendas,2,Casado,9924,12355,0,Sim,Não,11,3,4,80,1,10,3,3,9,8,7,7
+628,38,Não,Viaja raramente,437,Vendas,16,3,Ciências Humanas,1,1583,2,Feminino,90,3,2,Executivo de vendas,2,Solteiro,4198,16379,2,Sim,Não,12,3,2,80,0,8,5,4,3,2,1,2
+629,35,Não,Viaja raramente,670,Pesquisa e Desenvolvimento,10,4,Ciências Médicas,1,1587,1,Feminino,51,3,2,Reprentante de saúde,3,Solteiro,6142,4223,3,Sim,Sim,16,3,3,80,0,10,4,3,5,2,0,4
+630,39,Não,Viaja raramente,1462,Vendas,6,3,Ciências Médicas,1,1588,4,Masculino,38,4,3,Executivo de vendas,3,Casado,8237,4658,2,Sim,Não,11,3,1,80,1,11,3,3,7,6,7,6
+631,50,Não,Viaja raramente,264,Vendas,9,3,Marketing,1,1591,3,Masculino,59,3,5,Gerente,3,Casado,19331,19519,4,Sim,Sim,16,3,3,80,1,27,2,3,1,0,0,0
+632,23,Não,Viaja raramente,977,Pesquisa e Desenvolvimento,10,3,EnsiNão técnico,1,1592,4,Masculino,45,4,1,Pesquisador cientista,3,Casado,2073,12826,2,Sim,Não,16,3,4,80,1,4,2,3,2,2,2,2
+633,36,Não,Viaja frequentemente,1302,Pesquisa e Desenvolvimento,6,4,Ciências Humanas,1,1594,1,Masculino,80,4,2,Técnico de Laboratório,1,Casado,5562,19711,3,Sim,Sim,13,3,4,80,1,9,3,3,3,2,0,2
+634,42,Não,Viaja raramente,1059,Pesquisa e Desenvolvimento,9,2,Outras,1,1595,4,Masculino,93,2,5,Gerente,4,Solteiro,19613,26362,8,Sim,Não,22,4,4,80,0,24,2,3,1,0,0,1
+635,35,Não,Viaja raramente,750,Pesquisa e Desenvolvimento,28,3,Ciências Humanas,1,1596,2,Masculino,46,4,2,Técnico de Laboratório,3,Casado,3407,25348,1,Sim,Não,17,3,4,80,2,10,3,2,10,9,6,8
+636,34,Não,Viaja frequentemente,653,Pesquisa e Desenvolvimento,10,4,EnsiNão técnico,1,1597,4,Masculino,92,2,2,Reprentante de saúde,3,Casado,5063,15332,1,Sim,Não,14,3,2,80,1,8,3,2,8,2,7,7
+637,40,Não,Viaja raramente,118,Vendas,14,2,Ciências Humanas,1,1598,4,Feminino,84,3,2,Executivo de vendas,1,Casado,4639,11262,1,Sim,Não,15,3,3,80,1,5,2,3,5,4,1,2
+638,43,Não,Viaja raramente,990,Pesquisa e Desenvolvimento,27,3,EnsiNão técnico,1,1599,4,Masculino,87,4,1,Técnico de Laboratório,2,Divorciado,4876,5855,5,Sim,Não,12,3,3,80,1,8,0,3,6,4,0,2
+639,35,Não,Viaja raramente,1349,Pesquisa e Desenvolvimento,7,2,Ciências Humanas,1,1601,3,Masculino,63,2,1,Técnico de Laboratório,4,Casado,2690,7713,1,Sim,Não,18,3,4,80,1,1,5,2,1,0,0,1
+640,28,Sim,Viaja raramente,329,Pesquisa e Desenvolvimento,24,3,Ciências Médicas,1,1604,3,Masculino,51,3,1,Técnico de Laboratório,2,Casado,2408,7324,1,Sim,Sim,17,3,3,80,3,1,3,3,1,1,0,0
+641,22,Não,Não Viaja,457,Pesquisa e Desenvolvimento,26,2,Outras,1,1605,2,Feminino,85,2,1,Pesquisador cientista,3,Casado,2814,10293,1,Sim,Sim,14,3,2,80,0,4,2,2,4,2,1,3
+642,50,Não,Viaja frequentemente,1234,Pesquisa e Desenvolvimento,20,5,Ciências Médicas,1,1606,2,Masculino,41,3,4,Reprentante de saúde,3,Casado,11245,20689,2,Sim,Sim,15,3,3,80,1,32,3,3,30,8,12,13
+643,44,Não,Viaja raramente,1313,Pesquisa e Desenvolvimento,7,3,Ciências Médicas,1,1608,2,Feminino,31,3,5,Diretor de pesquisa,4,Divorciado,19049,3549,0,Sim,Sim,14,3,4,80,1,23,4,2,22,7,1,10
+644,30,Não,Viaja raramente,241,Pesquisa e Desenvolvimento,7,3,Ciências Médicas,1,1609,2,Masculino,48,2,1,Pesquisador cientista,2,Casado,2141,5348,1,Sim,Não,12,3,2,80,1,6,3,2,6,4,1,1
+645,45,Não,Não Viaja,336,Vendas,26,3,Marketing,1,1612,1,Masculino,52,2,2,Executivo de vendas,1,Casado,4385,24162,1,Sim,Não,15,3,1,80,1,10,2,3,10,7,4,5
+646,36,Não,Viaja raramente,559,Pesquisa e Desenvolvimento,12,4,Ciências Humanas,1,1614,3,Feminino,76,3,2,Diretor de manufatura,3,Casado,4663,12421,9,Sim,Sim,12,3,2,80,2,7,2,3,3,2,1,1
+647,34,Não,Viaja frequentemente,426,Pesquisa e Desenvolvimento,10,4,Ciências Humanas,1,1615,3,Masculino,42,4,2,Diretor de manufatura,4,Divorciado,4724,17000,1,Sim,Não,13,3,1,80,1,9,3,3,9,7,7,2
+648,49,Não,Viaja raramente,722,Pesquisa e Desenvolvimento,25,4,Ciências Humanas,1,1617,3,Feminino,84,3,1,Técnico de Laboratório,1,Casado,3211,22102,1,Sim,Não,14,3,4,80,1,10,3,2,9,6,1,4
+649,39,Não,Viaja raramente,1387,Pesquisa e Desenvolvimento,10,5,Ciências Médicas,1,1618,2,Masculino,76,3,2,Diretor de manufatura,1,Casado,5377,3835,2,Sim,Não,13,3,4,80,3,10,3,3,7,7,7,7
+650,27,Não,Viaja raramente,1302,Pesquisa e Desenvolvimento,19,3,Outras,1,1619,4,Masculino,67,2,1,Técnico de Laboratório,1,Divorciado,4066,16290,1,Sim,Não,11,3,1,80,2,7,3,3,7,7,0,7
+651,35,Não,Viaja raramente,819,Pesquisa e Desenvolvimento,18,5,Ciências Humanas,1,1621,2,Masculino,48,4,2,Pesquisador cientista,1,Casado,5208,26312,1,Sim,Não,11,3,4,80,0,16,2,3,16,15,1,10
+652,28,Não,Viaja raramente,580,Pesquisa e Desenvolvimento,27,3,Ciências Médicas,1,1622,2,Feminino,39,1,2,Diretor de manufatura,1,Divorciado,4877,20460,0,Sim,Não,21,4,2,80,1,6,5,2,5,3,0,0
+653,47,Não,Viaja raramente,1176,Recursos HumaNãos,26,4,Ciências Humanas,1,1625,4,Feminino,98,3,5,Gerente,3,Casado,19658,5220,3,Sim,Não,11,3,3,80,1,27,2,3,5,2,1,0
+654,40,Não,Viaja raramente,884,Pesquisa e Desenvolvimento,15,3,Ciências Humanas,1,1628,1,Feminino,80,2,3,Diretor de manufatura,3,Casado,10435,25800,1,Sim,Não,13,3,4,80,2,18,2,3,18,15,14,12
+655,35,Não,Não Viaja,208,Pesquisa e Desenvolvimento,8,4,Ciências Humanas,1,1630,3,Feminino,52,3,2,Reprentante de saúde,3,Casado,4148,12250,1,Sim,Não,12,3,4,80,1,15,5,3,14,11,2,9
+656,37,Não,Viaja raramente,671,Pesquisa e Desenvolvimento,19,3,Ciências Humanas,1,1631,3,Masculino,85,3,2,Diretor de manufatura,3,Casado,5768,26493,3,Sim,Não,17,3,1,80,3,9,2,2,4,3,0,2
+657,35,Sim,Viaja raramente,737,Vendas,10,3,Ciências Médicas,1,1639,4,Masculino,55,2,3,Executivo de vendas,1,Casado,10306,21530,9,Sim,Não,17,3,3,80,0,15,3,3,13,12,6,0
+658,37,Não,Viaja raramente,1470,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,1640,2,Feminino,71,3,1,Pesquisador cientista,2,Casado,3936,9953,1,Sim,Não,11,3,1,80,1,8,2,1,8,4,7,7
+659,40,Não,Viaja raramente,448,Pesquisa e Desenvolvimento,16,3,Ciências Humanas,1,1641,3,Feminino,84,3,3,Diretor de manufatura,4,Solteiro,7945,19948,6,Sim,Sim,15,3,4,80,0,18,2,2,4,2,3,3
+660,35,Sim,Viaja raramente,763,Vendas,15,2,Ciências Médicas,1,1645,1,Masculino,59,1,2,Executivo de vendas,4,Divorciado,5440,22098,6,Sim,Sim,14,3,4,80,2,7,2,2,2,2,2,2
+661,27,Não,Viaja raramente,486,Pesquisa e Desenvolvimento,8,3,Ciências Médicas,1,1647,2,Feminino,86,4,1,Pesquisador cientista,3,Casado,3517,22490,7,Sim,Não,17,3,1,80,0,5,0,3,3,2,0,2
+662,40,Sim,Viaja raramente,1329,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,1649,1,Masculino,73,3,1,Técnico de Laboratório,1,Solteiro,2166,3339,3,Sim,Sim,14,3,2,80,0,10,3,1,4,2,0,3
+663,29,Não,Viaja raramente,469,Vendas,10,3,Ciências Médicas,1,1650,3,Masculino,42,2,2,Executivo de vendas,3,Solteiro,5869,23413,9,Sim,Não,11,3,3,80,0,8,2,3,5,2,1,4
+664,39,Não,Viaja raramente,492,Pesquisa e Desenvolvimento,12,3,Ciências Médicas,1,1654,4,Masculino,66,3,2,Diretor de manufatura,2,Casado,5295,7693,4,Sim,Não,21,4,3,80,0,7,3,3,5,4,1,0
+665,49,Não,Viaja raramente,301,Pesquisa e Desenvolvimento,22,4,Outras,1,1655,1,Feminino,72,3,4,Diretor de pesquisa,2,Casado,16413,3498,3,Sim,Não,16,3,2,80,2,27,2,3,4,2,1,2
+666,50,Não,Viaja raramente,813,Pesquisa e Desenvolvimento,17,5,Ciências Humanas,1,1656,4,Feminino,50,2,3,Diretor de pesquisa,1,Divorciado,13269,21981,5,Sim,Não,15,3,3,80,3,19,3,3,14,11,1,11
+667,36,Não,Viaja raramente,311,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,1659,1,Masculino,77,3,1,Técnico de Laboratório,2,Solteiro,2013,10950,2,Sim,Não,11,3,3,80,0,15,4,3,4,3,1,3
+668,49,Não,Viaja raramente,465,Pesquisa e Desenvolvimento,6,1,Ciências Humanas,1,1661,3,Feminino,41,2,4,Reprentante de saúde,3,Casado,13966,11652,2,Sim,Sim,19,3,2,80,1,30,3,3,15,11,2,12
+669,54,Não,Viaja raramente,584,Pesquisa e Desenvolvimento,22,5,Ciências Médicas,1,1665,2,Feminino,91,3,4,Gerente,3,Casado,17426,18685,3,Sim,Não,25,4,3,80,1,36,6,3,10,8,4,7
+670,43,Não,Viaja raramente,1291,Pesquisa e Desenvolvimento,15,2,Ciências Humanas,1,1666,3,Masculino,65,2,4,Diretor de pesquisa,3,Casado,17603,3525,1,Sim,Não,24,4,1,80,1,14,3,3,14,10,6,11
+671,35,Sim,Viaja frequentemente,880,Vendas,12,4,Outras,1,1667,4,Masculino,36,3,2,Executivo de vendas,4,Solteiro,4581,10414,3,Sim,Sim,24,4,1,80,0,13,2,4,11,9,6,7
+672,49,Não,Viaja raramente,464,Pesquisa e Desenvolvimento,16,3,Ciências Médicas,1,1674,4,Feminino,74,3,1,Técnico de Laboratório,1,Divorciado,2587,24941,4,Sim,Sim,16,3,2,80,1,17,2,2,2,2,2,2
+673,41,Não,Viaja raramente,1206,Vendas,23,2,Ciências Humanas,1,1678,4,Masculino,80,3,3,Executivo de vendas,3,Solteiro,7082,11591,3,Sim,Sim,16,3,4,80,0,21,2,3,2,0,0,2
+674,20,Não,Viaja raramente,727,Vendas,9,1,Ciências Humanas,1,1680,4,Masculino,54,3,1,Representante de vendas,1,Solteiro,2728,21082,1,Sim,Não,11,3,1,80,0,2,3,3,2,2,0,2
+675,33,Não,Não Viaja,530,Vendas,16,3,Ciências Humanas,1,1681,3,Feminino,36,3,2,Executivo de vendas,4,Divorciado,5368,16130,1,Sim,Sim,25,4,3,80,1,7,2,3,6,5,1,2
+676,36,Não,Viaja raramente,1351,Pesquisa e Desenvolvimento,26,4,Ciências Humanas,1,1682,1,Masculino,80,3,2,Reprentante de saúde,3,Casado,5347,7419,6,Sim,Não,14,3,2,80,2,10,2,2,3,2,0,2
+677,23,Sim,Viaja raramente,1320,Pesquisa e Desenvolvimento,8,1,Ciências Médicas,1,1684,4,Masculino,93,2,1,Técnico de Laboratório,3,Solteiro,3989,20586,1,Sim,Sim,11,3,1,80,0,5,2,3,5,4,1,2
+678,53,Não,Viaja raramente,1395,Pesquisa e Desenvolvimento,24,4,Ciências Médicas,1,1689,2,Masculino,48,4,3,Reprentante de saúde,4,Casado,7005,3458,3,Sim,Não,15,3,3,80,0,11,2,3,4,3,1,2
+679,48,Sim,Viaja frequentemente,708,Vendas,7,2,Ciências Médicas,1,1691,4,Feminino,95,3,1,Representante de vendas,3,Casado,2655,11740,2,Sim,Sim,11,3,3,80,2,19,3,3,9,7,7,7
+680,26,Não,Não Viaja,786,Pesquisa e Desenvolvimento,7,3,Ciências Médicas,1,1693,4,Masculino,76,3,1,Técnico de Laboratório,4,Solteiro,2570,11925,1,Sim,Não,20,4,3,80,0,7,5,3,7,7,5,7
+681,55,Não,Viaja raramente,1441,Pesquisa e Desenvolvimento,22,3,EnsiNão técnico,1,1694,1,Masculino,94,2,1,Pesquisador cientista,2,Divorciado,3537,23737,5,Sim,Não,12,3,4,80,1,8,1,3,4,2,1,2
+682,33,Não,Viaja raramente,267,Pesquisa e Desenvolvimento,21,3,Ciências Médicas,1,1698,2,Masculino,79,4,1,Técnico de Laboratório,2,Casado,2028,13637,1,Sim,Não,18,3,4,80,3,14,6,3,14,11,2,13
+683,34,Não,Viaja raramente,678,Pesquisa e Desenvolvimento,19,3,Ciências Humanas,1,1701,2,Feminino,35,2,1,Pesquisador cientista,4,Casado,2929,20338,1,Sim,Não,12,3,2,80,0,10,3,3,10,9,8,7
+684,23,Sim,Viaja raramente,427,Vendas,7,3,Ciências Humanas,1,1702,3,Masculino,99,3,1,Representante de vendas,4,Divorciado,2275,25103,1,Sim,Sim,21,4,2,80,1,3,2,3,3,2,0,2
+685,24,Não,Viaja raramente,581,Pesquisa e Desenvolvimento,9,3,Ciências Médicas,1,1707,3,Masculino,62,4,1,Pesquisador cientista,3,Casado,4401,17616,1,Sim,Não,16,3,4,80,1,5,1,3,5,3,0,4
+686,41,Não,Viaja raramente,918,Vendas,6,3,Marketing,1,1708,4,Masculino,35,3,3,Executivo de vendas,3,Solteiro,9241,15869,1,Sim,Não,12,3,2,80,0,10,3,3,10,8,8,7
+687,29,Não,Viaja raramente,1082,Pesquisa e Desenvolvimento,9,4,Ciências Médicas,1,1709,4,Feminino,43,3,1,Técnico de Laboratório,3,Casado,2974,25412,9,Sim,Não,17,3,3,80,1,9,2,3,5,3,1,2
+688,24,Sim,Viaja raramente,240,Recursos HumaNãos,22,1,Recursos HumaNãos,1,1714,4,Masculino,58,1,1,Recursos HumaNãos,3,Casado,1555,11585,1,Sim,Não,11,3,3,80,1,1,2,3,1,0,0,0
+689,47,Sim,Viaja frequentemente,1093,Vendas,9,3,Ciências Humanas,1,1716,3,Masculino,82,1,4,Executivo de vendas,3,Casado,12936,24164,7,Sim,Não,11,3,3,80,0,25,3,1,23,5,14,10
+690,26,Não,Viaja raramente,390,Pesquisa e Desenvolvimento,17,4,Ciências Médicas,1,1718,4,Masculino,62,1,1,Técnico de Laboratório,3,Casado,2305,6217,1,Sim,Não,15,3,3,80,3,3,3,4,3,2,0,2
+691,45,Não,Viaja raramente,1005,Pesquisa e Desenvolvimento,28,2,EnsiNão técnico,1,1719,4,Feminino,48,2,4,Diretor de pesquisa,2,Solteiro,16704,17119,1,Sim,Não,11,3,3,80,0,21,2,3,21,6,8,6
+692,32,Não,Viaja frequentemente,585,Pesquisa e Desenvolvimento,10,3,Ciências Humanas,1,1720,1,Masculino,56,3,1,Pesquisador cientista,3,Casado,3433,17360,6,Sim,Não,13,3,1,80,1,10,3,2,5,2,1,3
+693,40,Não,Viaja raramente,369,Pesquisa e Desenvolvimento,8,2,Ciências Humanas,1,1724,2,Feminino,92,3,2,Diretor de manufatura,1,Casado,6516,5041,2,Sim,Sim,16,3,2,80,1,18,3,3,1,0,0,0
+694,24,Não,Viaja raramente,506,Pesquisa e Desenvolvimento,29,1,Ciências Médicas,1,1725,2,Masculino,91,3,1,Técnico de Laboratório,1,Divorciado,3907,3622,1,Sim,Não,13,3,2,80,3,6,2,4,6,2,1,2
+695,46,Não,Viaja raramente,717,Pesquisa e Desenvolvimento,13,4,Ciências Humanas,1,1727,3,Masculino,34,3,2,Reprentante de saúde,2,Solteiro,5562,9697,6,Sim,Não,14,3,4,80,0,19,3,3,10,7,0,9
+696,35,Não,Viaja raramente,1370,Pesquisa e Desenvolvimento,27,4,Ciências Humanas,1,1728,4,Masculino,49,3,2,Diretor de manufatura,3,Casado,6883,5151,2,Sim,Não,16,3,2,80,1,17,3,3,7,7,0,7
+697,30,Não,Viaja raramente,793,Pesquisa e Desenvolvimento,16,1,Ciências Humanas,1,1729,2,Masculino,33,3,1,Pesquisador cientista,4,Casado,2862,3811,1,Sim,Não,12,3,2,80,1,10,2,2,10,0,0,8
+698,36,Sim,Viaja raramente,1456,Vendas,13,5,Marketing,1,1733,2,Masculino,96,2,2,Executivo de vendas,1,Divorciado,6134,8658,5,Sim,Sim,13,3,2,80,3,16,3,3,2,2,2,2
+699,31,Não,Viaja frequentemente,163,Pesquisa e Desenvolvimento,24,1,EnsiNão técnico,1,1736,4,Feminino,30,3,2,Diretor de manufatura,4,Solteiro,5238,6670,2,Sim,Não,20,4,4,80,0,9,3,2,5,4,1,4
+700,32,Não,Viaja raramente,371,Vendas,19,3,Ciências Humanas,1,1739,4,Masculino,80,1,3,Executivo de vendas,3,Casado,9610,3840,3,Sim,Não,13,3,3,80,1,10,2,1,4,3,0,2
+701,40,Não,Viaja raramente,611,Vendas,7,4,Ciências Médicas,1,1740,2,Masculino,88,3,5,Gerente,2,Solteiro,19833,4349,1,Sim,Não,14,3,2,80,0,21,3,2,21,8,12,8
+702,24,Não,Viaja frequentemente,897,Recursos HumaNãos,10,3,Ciências Médicas,1,1746,1,Masculino,59,3,1,Recursos HumaNãos,4,Casado,2145,2097,0,Sim,Não,14,3,4,80,1,3,2,3,2,2,2,1
+703,30,Sim,Viaja frequentemente,600,Recursos HumaNãos,8,3,Recursos HumaNãos,1,1747,3,Feminino,66,2,1,Recursos HumaNãos,4,Divorciado,2180,9732,6,Sim,Não,11,3,3,80,1,6,0,2,4,2,1,2
+704,27,Não,Viaja raramente,1054,Pesquisa e Desenvolvimento,8,3,Ciências Médicas,1,1751,3,Feminino,67,3,1,Pesquisador cientista,4,Solteiro,3445,6152,1,Sim,Não,11,3,3,80,0,6,5,2,6,2,1,4
+705,29,Sim,Viaja raramente,428,Vendas,9,3,Marketing,1,1752,2,Feminino,52,1,1,Representante de vendas,2,Solteiro,2760,14630,1,Sim,Não,13,3,3,80,0,2,3,3,2,2,2,2
+706,30,Não,Viaja raramente,979,Vendas,15,2,Marketing,1,1754,3,Masculino,94,2,3,Executivo de vendas,1,Divorciado,7140,3088,2,Sim,Não,11,3,1,80,1,12,2,3,7,7,1,7
+707,49,Não,Viaja raramente,1313,Vendas,11,4,Marketing,1,1757,4,Feminino,80,3,2,Executivo de vendas,4,Solteiro,4507,8191,3,Sim,Não,12,3,3,80,0,8,1,4,5,1,0,4
+708,33,Sim,Viaja raramente,211,Vendas,16,3,Ciências Humanas,1,1758,1,Feminino,74,3,3,Executivo de vendas,1,Solteiro,8564,10092,2,Sim,Sim,20,4,3,80,0,11,2,2,0,0,0,0
+709,31,Sim,Viaja raramente,1079,Vendas,16,4,Marketing,1,1761,1,Masculino,70,3,3,Executivo de vendas,3,Casado,8161,19002,2,Sim,Não,13,3,1,80,3,10,2,3,1,0,0,0
+710,30,Não,Viaja raramente,305,Pesquisa e Desenvolvimento,16,3,Ciências Humanas,1,1763,3,Masculino,58,4,2,Reprentante de saúde,3,Casado,5294,9128,3,Sim,Não,16,3,3,80,1,10,3,3,7,0,1,7
+711,38,Não,Viaja raramente,833,Pesquisa e Desenvolvimento,18,3,Ciências Médicas,1,1766,2,Masculino,60,1,2,Reprentante de saúde,4,Casado,5811,24539,3,Sim,Sim,16,3,3,80,1,15,2,3,1,0,1,0
+712,43,Sim,Viaja frequentemente,807,Pesquisa e Desenvolvimento,17,3,EnsiNão técnico,1,1767,3,Masculino,38,2,1,Pesquisador cientista,3,Casado,2437,15587,9,Sim,Sim,16,3,4,80,1,6,4,3,1,0,0,0
+713,42,Não,Viaja raramente,855,Pesquisa e Desenvolvimento,12,3,Ciências Médicas,1,1768,2,Masculino,57,3,1,Técnico de Laboratório,2,Divorciado,2766,8952,8,Sim,Não,22,4,2,80,3,7,6,2,5,3,0,4
+714,41,Não,Viaja raramente,548,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,1772,3,Masculino,94,3,1,Técnico de Laboratório,1,Divorciado,2289,20520,1,Sim,Não,20,4,2,80,2,5,2,3,5,3,0,4
+715,34,Não,Não Viaja,1375,Vendas,10,3,Ciências Humanas,1,1774,4,Masculino,87,3,2,Executivo de vendas,3,Divorciado,4001,12313,1,Sim,Sim,14,3,3,80,1,15,3,3,15,14,0,7
+716,21,Sim,Viaja raramente,337,Vendas,7,1,Marketing,1,1780,2,Masculino,31,3,1,Representante de vendas,2,Solteiro,2679,4567,1,Sim,Não,13,3,2,80,0,1,3,3,1,0,1,0
+717,38,Não,Viaja raramente,1153,Pesquisa e Desenvolvimento,6,2,Outras,1,1782,4,Feminino,40,2,1,Técnico de Laboratório,3,Casado,3702,16376,1,Sim,Não,11,3,2,80,1,5,3,3,5,4,0,4
+718,22,Sim,Viaja raramente,1294,Pesquisa e Desenvolvimento,8,1,Ciências Médicas,1,1783,3,Feminino,79,3,1,Técnico de Laboratório,1,Casado,2398,15999,1,Sim,Sim,17,3,3,80,0,1,6,3,1,0,0,0
+719,31,Não,Viaja raramente,196,Vendas,29,4,Marketing,1,1784,1,Feminino,91,2,2,Executivo de vendas,4,Casado,5468,13402,1,Sim,Não,14,3,1,80,2,13,3,3,12,7,5,7
+720,37,Não,Viaja raramente,589,Vendas,9,2,Marketing,1,1787,2,Masculino,46,2,2,Executivo de vendas,2,Casado,4189,8800,1,Sim,Não,14,3,1,80,2,5,2,3,5,2,0,3
+721,36,Não,Viaja raramente,1383,Pesquisa e Desenvolvimento,10,3,Ciências Humanas,1,1790,4,Masculino,90,3,3,Reprentante de saúde,1,Casado,8321,25949,7,Sim,Sim,13,3,4,80,1,15,1,3,12,8,5,7
+722,37,Não,Viaja raramente,1239,Recursos HumaNãos,8,2,Outras,1,1794,3,Masculino,89,3,2,Recursos HumaNãos,2,Divorciado,4071,12832,2,Sim,Não,13,3,3,80,0,19,4,2,10,0,4,7
+723,35,Sim,Viaja raramente,303,Vendas,27,3,Ciências Humanas,1,1797,3,Masculino,84,3,2,Executivo de vendas,4,Solteiro,5813,13492,1,Sim,Sim,18,3,4,80,0,10,2,3,10,7,7,7
+724,33,Não,Viaja raramente,867,Pesquisa e Desenvolvimento,8,4,Ciências Humanas,1,1798,4,Masculino,90,4,1,Pesquisador cientista,1,Casado,3143,6076,6,Sim,Não,19,3,2,80,1,14,1,3,10,8,7,6
+725,39,Não,Viaja raramente,1253,Pesquisa e Desenvolvimento,10,1,Ciências Médicas,1,1800,3,Masculino,65,3,3,Diretor de pesquisa,3,Solteiro,13464,7914,7,Sim,Não,21,4,3,80,0,9,3,3,4,3,2,2
+726,46,Não,Não Viaja,849,Vendas,26,2,Ciências Humanas,1,1801,2,Masculino,98,2,2,Executivo de vendas,2,Solteiro,7991,25166,8,Sim,Não,15,3,3,80,0,6,3,3,2,2,2,2
+727,42,Não,Viaja raramente,1128,Pesquisa e Desenvolvimento,13,3,Ciências Médicas,1,1803,2,Masculino,95,4,2,Reprentante de saúde,1,Casado,5538,5696,5,Sim,Não,18,3,3,80,2,10,2,2,0,0,0,0
+728,34,Sim,Viaja frequentemente,234,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,1807,4,Masculino,93,3,2,Técnico de Laboratório,1,Casado,5346,6208,4,Sim,Não,17,3,3,80,1,11,3,2,7,1,0,7
+729,37,Sim,Viaja raramente,370,Pesquisa e Desenvolvimento,10,4,Ciências Médicas,1,1809,4,Masculino,58,3,2,Diretor de manufatura,1,Solteiro,4213,4992,1,Sim,Não,15,3,2,80,0,10,4,1,10,3,0,8
+730,39,Não,Viaja frequentemente,766,Vendas,20,3,Ciências Humanas,1,1812,3,Masculino,83,3,2,Executivo de vendas,4,Divorciado,4127,19188,2,Sim,Não,18,3,4,80,1,7,6,3,2,1,2,2
+731,43,Não,Não Viaja,343,Pesquisa e Desenvolvimento,9,3,Ciências Humanas,1,1813,1,Masculino,52,3,1,Pesquisador cientista,3,Solteiro,2438,24978,4,Sim,Não,13,3,3,80,0,7,2,2,3,2,1,2
+732,30,Não,Viaja raramente,1092,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,1816,1,Feminino,64,3,3,Diretor de manufatura,3,Solteiro,9667,2739,9,Sim,Não,14,3,2,80,0,9,3,3,7,7,0,2
+733,26,Sim,Viaja raramente,920,Recursos HumaNãos,20,2,Ciências Médicas,1,1818,4,Feminino,69,3,1,Recursos HumaNãos,2,Casado,2148,6889,0,Sim,Sim,11,3,3,80,0,6,3,3,5,1,1,4
+734,46,Sim,Viaja raramente,261,Pesquisa e Desenvolvimento,21,2,Ciências Médicas,1,1821,4,Feminino,66,3,2,Reprentante de saúde,2,Casado,8926,10842,4,Sim,Não,22,4,4,80,1,13,2,4,9,7,3,7
+735,34,Não,Viaja raramente,810,Vendas,8,2,EnsiNão técnico,1,1823,2,Masculino,92,4,2,Executivo de vendas,3,Casado,6799,22128,1,Sim,Não,21,4,3,80,2,10,5,3,10,8,4,8
+736,35,Não,Viaja raramente,185,Pesquisa e Desenvolvimento,23,4,Ciências Médicas,1,1826,2,Masculino,91,1,1,Técnico de Laboratório,3,Casado,2705,9696,0,Sim,Não,16,3,2,80,1,6,2,4,5,4,0,3
+737,40,Não,Viaja raramente,750,Pesquisa e Desenvolvimento,12,3,Ciências Humanas,1,1829,2,Feminino,47,3,2,Reprentante de saúde,1,Divorciado,4448,10748,2,Sim,Não,12,3,2,80,1,15,3,3,7,4,7,7
+738,54,Não,Viaja raramente,431,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,1830,4,Feminino,68,3,2,Pesquisador cientista,4,Casado,6854,15696,4,Sim,Não,15,3,2,80,1,14,2,2,7,1,1,7
+739,31,Não,Viaja frequentemente,1125,Vendas,7,4,Marketing,1,1833,1,Feminino,68,3,3,Executivo de vendas,1,Casado,9637,8277,2,Sim,Não,14,3,4,80,2,9,3,3,3,2,2,2
+740,26,Não,Viaja raramente,572,Vendas,10,3,Ciências Médicas,1,1836,3,Masculino,46,3,2,Executivo de vendas,4,Solteiro,4684,9125,1,Sim,Não,13,3,1,80,0,5,4,3,5,3,1,2
+741,58,Não,Viaja frequentemente,1216,Pesquisa e Desenvolvimento,15,4,Ciências Humanas,1,1837,1,Masculino,87,3,4,Diretor de pesquisa,3,Casado,15787,21624,2,Sim,Sim,14,3,2,80,0,23,3,3,2,2,2,2
+742,18,Não,Não Viaja,1431,Pesquisa e Desenvolvimento,14,3,Ciências Médicas,1,1839,2,Feminino,33,3,1,Pesquisador cientista,3,Solteiro,1514,8018,1,Sim,Não,16,3,3,80,0,0,4,1,0,0,0,0
+743,31,Sim,Viaja raramente,359,Recursos HumaNãos,18,5,Recursos HumaNãos,1,1842,4,Masculino,89,4,1,Recursos HumaNãos,1,Casado,2956,21495,0,Sim,Não,17,3,3,80,0,2,4,3,1,0,0,0
+744,29,Sim,Viaja raramente,350,Recursos HumaNãos,13,3,Recursos HumaNãos,1,1844,1,Masculino,56,2,1,Recursos HumaNãos,1,Divorciado,2335,3157,4,Sim,Sim,15,3,4,80,3,4,3,3,2,2,2,0
+745,29,Não,Viaja frequentemente,574,Pesquisa e Desenvolvimento,20,1,Ciências Médicas,1,1852,4,Masculino,40,3,1,Técnico de Laboratório,4,Casado,3812,7003,1,Sim,Não,13,3,2,80,0,11,3,4,11,8,3,10
+746,32,Não,Viaja frequentemente,1318,Vendas,10,4,Marketing,1,1853,4,Masculino,79,3,2,Executivo de vendas,4,Solteiro,4648,26075,8,Sim,Não,13,3,3,80,0,4,2,4,0,0,0,0
+747,42,Não,Não Viaja,355,Pesquisa e Desenvolvimento,10,4,EnsiNão técnico,1,1854,3,Masculino,38,3,1,Pesquisador cientista,3,Casado,2936,6161,3,Sim,Não,22,4,2,80,2,10,1,2,6,3,3,3
+748,47,Não,Viaja raramente,207,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,1856,2,Feminino,64,3,1,Técnico de Laboratório,3,Solteiro,2105,5411,4,Sim,Não,12,3,3,80,0,7,2,3,2,2,2,0
+749,29,Não,Viaja raramente,726,Pesquisa e Desenvolvimento,29,1,Ciências Humanas,1,1859,4,Masculino,93,1,2,Reprentante de saúde,3,Divorciado,6384,21143,8,Sim,Não,17,3,4,80,2,11,3,3,7,0,1,6
+750,42,Não,Viaja raramente,1142,Pesquisa e Desenvolvimento,8,3,Ciências Humanas,1,1860,4,Masculino,81,3,1,Técnico de Laboratório,3,Solteiro,3968,13624,4,Sim,Não,13,3,4,80,0,8,3,3,0,0,0,0
+751,27,Não,Viaja raramente,728,Vendas,23,1,Ciências Médicas,1,1864,2,Feminino,36,2,2,Representante de vendas,3,Casado,3540,7018,1,Sim,Não,21,4,4,80,1,9,5,3,9,8,5,8
+752,29,Não,Viaja raramente,352,Recursos HumaNãos,6,1,Ciências Médicas,1,1865,4,Masculino,87,2,1,Recursos HumaNãos,2,Casado,2804,15434,1,Sim,Não,11,3,4,80,0,1,3,3,1,0,0,0
+753,43,Não,Viaja raramente,823,Pesquisa e Desenvolvimento,6,3,Ciências Médicas,1,1866,1,Feminino,81,2,5,Gerente,3,Casado,19392,22539,7,Sim,Não,13,3,4,80,0,21,2,3,16,12,6,14
+754,48,Não,Viaja raramente,1224,Pesquisa e Desenvolvimento,10,3,Ciências Humanas,1,1867,4,Masculino,91,2,5,Diretor de pesquisa,2,Casado,19665,13583,4,Sim,Não,12,3,4,80,0,29,3,3,22,10,12,9
+755,29,Sim,Viaja frequentemente,459,Pesquisa e Desenvolvimento,24,2,Ciências Humanas,1,1868,4,Masculino,73,2,1,Pesquisador cientista,4,Solteiro,2439,14753,1,Sim,Sim,24,4,2,80,0,1,3,2,1,0,1,0
+756,46,Sim,Viaja raramente,1254,Vendas,10,3,Ciências Humanas,1,1869,3,Feminino,64,3,3,Executivo de vendas,2,Casado,7314,14011,5,Sim,Não,21,4,3,80,3,14,2,3,8,7,0,7
+757,27,Não,Viaja frequentemente,1131,Pesquisa e Desenvolvimento,15,3,Ciências Humanas,1,1870,4,Feminino,77,2,1,Pesquisador cientista,1,Casado,4774,23844,0,Sim,Não,19,3,4,80,1,8,2,2,7,6,7,3
+758,39,Não,Viaja raramente,835,Pesquisa e Desenvolvimento,19,4,Outras,1,1871,4,Masculino,41,3,2,Pesquisador cientista,4,Divorciado,3902,5141,8,Sim,Não,14,3,2,80,3,7,2,3,2,2,2,2
+759,30,Sim,Viaja raramente,945,Vendas,9,3,Ciências Médicas,1,1876,2,Masculino,89,3,1,Representante de vendas,4,Solteiro,1081,16019,1,Sim,Não,13,3,3,80,0,1,3,2,1,0,0,0
+760,22,Sim,Viaja raramente,391,Pesquisa e Desenvolvimento,7,1,Ciências Humanas,1,1878,4,Masculino,75,3,1,Pesquisador cientista,2,Solteiro,2472,26092,1,Sim,Sim,23,4,1,80,0,1,2,3,1,0,0,0
+761,36,Não,Viaja raramente,1266,Vendas,10,4,EnsiNão técnico,1,1880,2,Feminino,63,2,2,Executivo de vendas,3,Casado,5673,6060,1,Sim,Sim,13,3,1,80,1,10,4,3,10,9,1,7
+762,31,Não,Viaja raramente,311,Pesquisa e Desenvolvimento,20,3,Ciências Humanas,1,1881,2,Masculino,89,3,2,Técnico de Laboratório,3,Divorciado,4197,18624,1,Sim,Não,11,3,1,80,1,10,2,3,10,8,0,2
+763,29,Não,Viaja raramente,592,Pesquisa e Desenvolvimento,7,3,Ciências Humanas,1,1883,4,Masculino,59,3,1,Técnico de Laboratório,1,Solteiro,2062,19384,3,Sim,Não,14,3,2,80,0,11,2,3,3,2,1,2
+764,37,Não,Viaja raramente,783,Pesquisa e Desenvolvimento,7,4,Ciências Médicas,1,1885,4,Masculino,78,3,2,Pesquisador cientista,1,Casado,4284,13588,5,Sim,Sim,22,4,3,80,1,16,2,3,5,3,0,4
+765,35,Não,Viaja raramente,219,Pesquisa e Desenvolvimento,16,2,Outras,1,1886,4,Feminino,44,2,2,Diretor de manufatura,2,Casado,4788,25388,0,Sim,Sim,11,3,4,80,0,4,2,3,3,2,0,2
+766,45,Não,Viaja raramente,556,Pesquisa e Desenvolvimento,25,2,Ciências Humanas,1,1888,2,Feminino,93,2,2,Diretor de manufatura,4,Casado,5906,23888,0,Sim,Não,13,3,4,80,2,10,2,2,9,8,3,8
+767,48,Não,Viaja frequentemente,117,Pesquisa e Desenvolvimento,22,3,Ciências Médicas,1,1900,4,Feminino,58,3,4,Gerente,4,Divorciado,17174,2437,3,Sim,Não,11,3,2,80,1,24,3,3,22,17,4,7
+768,34,Sim,Não Viaja,967,Pesquisa e Desenvolvimento,16,4,EnsiNão técnico,1,1905,4,Masculino,85,1,1,Pesquisador cientista,1,Casado,2307,14460,1,Sim,Sim,23,4,2,80,1,5,2,3,5,2,3,0
+769,56,Sim,Viaja raramente,1162,Pesquisa e Desenvolvimento,24,2,Ciências Humanas,1,1907,1,Masculino,97,3,1,Técnico de Laboratório,4,Solteiro,2587,10261,1,Sim,Não,16,3,4,80,0,5,3,3,4,2,1,0
+770,36,Não,Viaja raramente,335,Vendas,17,2,Marketing,1,1908,3,Masculino,33,2,2,Executivo de vendas,2,Casado,5507,16822,2,Sim,Não,16,3,3,80,2,12,1,1,4,2,1,3
+771,41,Não,Viaja raramente,337,Vendas,8,3,Marketing,1,1909,3,Feminino,54,3,2,Executivo de vendas,2,Casado,4393,26841,5,Sim,Não,21,4,3,80,1,14,3,3,5,4,1,4
+772,42,Não,Viaja raramente,1396,Pesquisa e Desenvolvimento,6,3,Ciências Médicas,1,1911,3,Masculino,83,3,3,Diretor de pesquisa,1,Casado,13348,14842,9,Sim,Não,13,3,2,80,1,18,3,4,13,7,5,7
+773,31,Não,Viaja raramente,1079,Vendas,10,2,Ciências Médicas,1,1912,3,Feminino,86,3,2,Executivo de vendas,4,Divorciado,6583,20115,2,Sim,Sim,11,3,4,80,1,8,2,3,5,2,1,4
+774,26,Não,Viaja frequentemente,1096,Pesquisa e Desenvolvimento,6,3,Outras,1,1918,3,Masculino,61,4,1,Técnico de Laboratório,4,Casado,2544,7102,0,Sim,Não,18,3,1,80,1,8,3,3,7,7,7,7
+775,33,Não,Viaja raramente,217,Vendas,10,4,Marketing,1,1924,2,Masculino,43,3,2,Executivo de vendas,3,Solteiro,5487,10410,1,Sim,Não,14,3,2,80,0,10,2,2,10,4,0,9
+776,29,Sim,Viaja frequentemente,746,Vendas,24,3,EnsiNão técnico,1,1928,3,Masculino,45,4,1,Representante de vendas,1,Solteiro,1091,10642,1,Sim,Não,17,3,4,80,0,1,3,3,1,0,0,0
+777,39,Não,Não Viaja,1251,Vendas,21,4,Ciências Humanas,1,1929,1,Feminino,32,1,2,Executivo de vendas,3,Casado,5736,3987,6,Sim,Não,19,3,3,80,1,10,1,3,3,2,1,2
+778,34,Não,Viaja frequentemente,735,Pesquisa e Desenvolvimento,22,4,Outras,1,1932,3,Masculino,86,2,2,Pesquisador cientista,4,Casado,5747,26496,1,Sim,Sim,15,3,2,80,0,16,3,3,15,10,6,11
+779,28,Sim,Viaja raramente,1475,Vendas,13,2,Marketing,1,1933,4,Feminino,84,3,2,Executivo de vendas,3,Solteiro,9854,23352,3,Sim,Sim,11,3,4,80,0,6,0,3,2,0,2,2
+780,47,Não,Não Viaja,1169,Pesquisa e Desenvolvimento,14,4,EnsiNão técnico,1,1934,3,Masculino,64,3,2,Pesquisador cientista,2,Casado,5467,2125,8,Sim,Não,18,3,3,80,1,16,4,4,8,7,1,7
+781,56,Não,Viaja raramente,1443,Vendas,11,5,Marketing,1,1935,4,Feminino,89,2,2,Executivo de vendas,1,Casado,5380,20328,4,Sim,Não,16,3,3,80,1,6,3,3,0,0,0,0
+782,39,Não,Viaja raramente,867,Pesquisa e Desenvolvimento,9,2,Ciências Médicas,1,1936,1,Masculino,87,3,2,Diretor de manufatura,1,Casado,5151,12315,1,Sim,Não,25,4,4,80,1,10,3,3,10,0,7,9
+783,38,Não,Viaja frequentemente,1394,Pesquisa e Desenvolvimento,8,3,Ciências Médicas,1,1937,4,Feminino,58,2,2,Pesquisador cientista,2,Divorciado,2133,18115,1,Sim,Sim,16,3,3,80,1,20,3,3,20,11,0,7
+784,58,Não,Viaja raramente,605,Vendas,21,3,Ciências Humanas,1,1938,4,Feminino,72,3,4,Gerente,4,Casado,17875,11761,4,Sim,Sim,13,3,3,80,1,29,2,2,1,0,0,0
+785,38,Não,Viaja raramente,1206,Pesquisa e Desenvolvimento,9,2,Ciências Humanas,1,1940,2,Masculino,71,3,1,Pesquisador cientista,4,Divorciado,4771,14293,2,Sim,Não,19,3,4,80,2,10,0,4,5,2,0,3
+786,42,Não,Viaja raramente,419,Vendas,12,4,Marketing,1,1943,2,Masculino,77,3,2,Executivo de vendas,4,Divorciado,5087,2900,3,Sim,Sim,12,3,3,80,2,14,4,3,0,0,0,0
+787,27,Sim,Viaja frequentemente,1337,Recursos HumaNãos,22,3,Recursos HumaNãos,1,1944,1,Feminino,58,2,1,Recursos HumaNãos,2,Casado,2863,19555,1,Sim,Não,12,3,1,80,0,1,2,3,1,0,0,0
+788,35,Não,Viaja raramente,682,Vendas,18,4,Ciências Médicas,1,1945,2,Masculino,71,3,2,Executivo de vendas,1,Casado,5561,15975,0,Sim,Não,16,3,4,80,1,6,2,1,5,3,0,4
+789,28,Não,Não Viaja,1103,Pesquisa e Desenvolvimento,16,3,Ciências Médicas,1,1947,3,Masculino,49,3,1,Pesquisador cientista,3,Solteiro,2144,2122,1,Sim,Não,14,3,3,80,0,5,3,2,5,3,1,4
+790,36,Não,Não Viaja,1351,Pesquisa e Desenvolvimento,9,4,Ciências Humanas,1,1949,1,Masculino,66,4,1,Técnico de Laboratório,2,Casado,2810,9238,1,Sim,Não,22,4,2,80,0,5,3,3,5,4,0,2
+791,34,Não,Viaja raramente,1239,Vendas,13,4,Ciências Médicas,1,1951,4,Masculino,39,3,3,Executivo de vendas,3,Divorciado,8628,22914,1,Sim,Não,18,3,3,80,1,9,2,2,8,7,1,1
+792,32,Não,Não Viaja,1146,Pesquisa e Desenvolvimento,15,4,Ciências Médicas,1,1955,3,Feminino,34,3,2,Reprentante de saúde,4,Divorciado,6667,16542,5,Sim,Não,18,3,2,80,1,9,6,3,5,1,1,2
+793,28,Sim,Viaja raramente,1404,Pesquisa e Desenvolvimento,17,3,EnsiNão técnico,1,1960,3,Masculino,32,2,1,Técnico de Laboratório,4,Divorciado,2367,18779,5,Sim,Não,12,3,1,80,1,6,2,2,4,1,0,3
+794,35,Não,Viaja raramente,1224,Vendas,7,4,Ciências Humanas,1,1962,3,Feminino,55,3,2,Executivo de vendas,4,Casado,5204,13586,1,Sim,Sim,11,3,4,80,0,10,2,3,10,8,0,9
+795,27,Não,Viaja raramente,954,Vendas,9,3,Marketing,1,1965,4,Masculino,44,3,2,Executivo de vendas,4,Solteiro,4105,5099,1,Sim,Não,14,3,1,80,0,7,5,3,7,7,0,7
+796,31,Sim,Viaja frequentemente,754,Vendas,26,4,Marketing,1,1967,1,Masculino,63,3,2,Executivo de vendas,4,Casado,5617,21075,1,Sim,Sim,11,3,3,80,0,10,4,3,10,7,0,8
+797,53,Sim,Viaja raramente,1168,Vendas,24,4,Ciências Humanas,1,1968,1,Masculino,66,3,3,Executivo de vendas,1,Solteiro,10448,5843,6,Sim,Sim,13,3,2,80,0,15,2,2,2,2,2,2
+798,54,Não,Viaja raramente,155,Pesquisa e Desenvolvimento,9,2,Ciências Humanas,1,1969,1,Feminino,67,3,2,Pesquisador cientista,3,Casado,2897,22474,3,Sim,Não,11,3,3,80,2,9,6,2,4,3,2,3
+799,33,Não,Viaja frequentemente,1303,Pesquisa e Desenvolvimento,7,2,Ciências Humanas,1,1970,4,Masculino,36,3,2,Reprentante de saúde,3,Divorciado,5968,18079,1,Sim,Não,20,4,3,80,3,9,2,3,9,7,2,8
+800,43,Não,Viaja raramente,574,Pesquisa e Desenvolvimento,11,3,Ciências Humanas,1,1971,1,Masculino,30,3,3,Reprentante de saúde,3,Casado,7510,16873,1,Sim,Não,17,3,2,80,1,10,1,3,10,9,0,9
+801,55,Não,Viaja raramente,189,Recursos HumaNãos,26,4,Recursos HumaNãos,1,1973,3,Masculino,71,4,5,Gerente,2,Casado,19636,25811,4,Sim,Sim,18,3,1,80,1,35,0,3,10,9,1,4
+802,39,Não,Viaja raramente,119,Vendas,15,4,Marketing,1,1975,2,Masculino,77,3,4,Executivo de vendas,1,Solteiro,13341,25098,0,Sim,Não,12,3,1,80,0,21,3,3,20,8,11,10
+803,42,Não,Não Viaja,335,Pesquisa e Desenvolvimento,23,2,Ciências Humanas,1,1976,4,Masculino,37,2,2,Pesquisador cientista,3,Solteiro,4332,14811,1,Sim,Não,12,3,4,80,0,20,2,3,20,9,3,7
+804,31,Não,Não Viaja,697,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,1979,3,Feminino,40,3,3,Diretor de pesquisa,3,Casado,11031,26862,4,Sim,Não,20,4,3,80,1,13,2,4,11,7,4,8
+805,54,Não,Viaja raramente,157,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,1980,3,Feminino,77,3,2,Diretor de manufatura,1,Solteiro,4440,25198,6,Sim,Sim,19,3,4,80,0,9,3,3,5,2,1,4
+806,23,Não,Viaja raramente,571,Pesquisa e Desenvolvimento,12,2,Outras,1,1982,4,Masculino,78,3,1,Técnico de Laboratório,4,Solteiro,2647,13672,1,Sim,Não,13,3,3,80,0,5,6,4,5,2,1,4
+807,40,Não,Viaja frequentemente,692,Pesquisa e Desenvolvimento,11,3,EnsiNão técnico,1,1985,4,Feminino,73,3,2,Técnico de Laboratório,3,Casado,6323,26849,1,Sim,Não,11,3,1,80,1,10,2,4,10,9,9,4
+808,47,Não,Viaja raramente,1180,Pesquisa e Desenvolvimento,25,3,Ciências Médicas,1,1993,1,Masculino,84,3,3,Reprentante de saúde,3,Solteiro,8633,13084,2,Sim,Não,23,4,2,80,0,25,3,3,17,14,12,11
+809,38,Não,Viaja frequentemente,508,Pesquisa e Desenvolvimento,6,4,Ciências Humanas,1,1997,1,Masculino,72,2,2,Diretor de manufatura,3,Casado,5321,14284,2,Sim,Não,11,3,4,80,1,10,1,3,8,3,7,7
+810,42,Não,Viaja raramente,557,Pesquisa e Desenvolvimento,18,4,Ciências Humanas,1,1998,4,Masculino,35,3,2,Pesquisador cientista,1,Divorciado,5410,11189,6,Sim,Sim,17,3,3,80,1,9,3,2,4,3,1,2
+811,35,Não,Viaja raramente,1490,Pesquisa e Desenvolvimento,11,4,Ciências Médicas,1,2003,4,Masculino,43,3,1,Técnico de Laboratório,3,Casado,2660,20232,7,Sim,Sim,11,3,3,80,1,5,3,3,2,2,2,2
+812,35,Não,Viaja raramente,1395,Pesquisa e Desenvolvimento,9,4,Ciências Médicas,1,2008,2,Masculino,48,3,2,Pesquisador cientista,3,Solteiro,5098,18698,1,Sim,Não,19,3,2,80,0,10,5,3,10,7,0,8
+813,33,Não,Viaja raramente,501,Pesquisa e Desenvolvimento,15,2,Ciências Médicas,1,2009,2,Feminino,95,3,2,Reprentante de saúde,4,Casado,4878,21653,0,Sim,Sim,13,3,1,80,1,10,6,3,9,7,8,1
+814,32,Não,Viaja raramente,267,Pesquisa e Desenvolvimento,29,4,Ciências Humanas,1,2010,3,Feminino,49,2,1,Técnico de Laboratório,2,Solteiro,2837,15919,1,Sim,Não,13,3,3,80,0,6,3,3,6,2,4,1
+815,39,Não,Viaja raramente,116,Pesquisa e Desenvolvimento,24,1,Ciências Humanas,1,2014,1,Masculino,52,3,2,Pesquisador cientista,4,Solteiro,4108,5340,7,Sim,Não,13,3,1,80,0,18,2,3,7,7,1,7
+816,38,Não,Viaja raramente,201,Pesquisa e Desenvolvimento,10,3,Ciências Médicas,1,2015,2,Feminino,99,1,3,Diretor de pesquisa,3,Casado,13206,3376,3,Sim,Não,12,3,1,80,1,20,3,3,18,16,1,11
+817,37,Não,Viaja raramente,161,Pesquisa e Desenvolvimento,10,3,Ciências Humanas,1,2017,3,Feminino,42,4,3,Diretor de pesquisa,4,Casado,13744,15471,1,Sim,Sim,25,4,1,80,1,16,2,3,16,11,6,8
+818,25,Não,Viaja raramente,1382,Vendas,8,2,Outras,1,2018,1,Feminino,85,3,2,Executivo de vendas,3,Divorciado,4907,13684,0,Sim,Sim,22,4,2,80,1,6,3,2,5,3,0,4
+819,52,Não,Não Viaja,585,Vendas,29,4,Ciências Humanas,1,2019,1,Masculino,40,3,1,Representante de vendas,4,Divorciado,3482,19788,2,Sim,Não,15,3,2,80,2,16,3,2,9,8,0,0
+820,39,Não,Não Viaja,105,Pesquisa e Desenvolvimento,9,3,Ciências Humanas,1,2022,4,Masculino,87,3,5,Gerente,4,Solteiro,19431,15302,2,Sim,Não,13,3,3,80,0,21,3,2,6,0,1,3
+821,23,Sim,Viaja frequentemente,638,Vendas,9,3,Marketing,1,2023,4,Masculino,33,3,1,Representante de vendas,1,Casado,1790,26956,1,Sim,Não,19,3,1,80,1,1,3,2,1,0,1,0
+822,56,Sim,Viaja raramente,310,Pesquisa e Desenvolvimento,7,2,EnsiNão técnico,1,2032,4,Masculino,72,3,1,Técnico de Laboratório,3,Casado,2339,3666,8,Sim,Não,11,3,4,80,1,14,4,1,10,9,9,8
+823,41,Não,Viaja raramente,582,Pesquisa e Desenvolvimento,28,4,Ciências Humanas,1,2034,1,Feminino,60,2,4,Diretor de manufatura,2,Casado,13570,5640,0,Sim,Não,23,4,3,80,1,21,3,3,20,7,0,10
+824,34,Não,Viaja raramente,704,Vendas,28,3,Marketing,1,2035,4,Feminino,95,2,2,Executivo de vendas,3,Casado,6712,8978,1,Sim,Não,21,4,4,80,2,8,2,3,8,7,1,7
+825,36,Não,Não Viaja,301,Vendas,15,4,Marketing,1,2036,4,Masculino,88,1,2,Executivo de vendas,4,Divorciado,5406,10436,1,Sim,Não,24,4,1,80,1,15,4,2,15,12,11,11
+826,35,Não,Viaja raramente,1146,Recursos HumaNãos,26,4,Ciências Humanas,1,2040,3,Feminino,31,3,3,Recursos HumaNãos,4,Solteiro,8837,16642,1,Sim,Sim,16,3,3,80,0,9,2,3,9,0,1,7
+827,38,Não,Viaja raramente,345,Vendas,10,2,Ciências Humanas,1,2041,1,Feminino,100,3,2,Executivo de vendas,4,Casado,5343,5982,1,Sim,Não,11,3,3,80,1,10,1,3,10,7,1,9
+828,36,Não,Viaja raramente,1120,Vendas,11,4,Marketing,1,2045,2,Feminino,100,2,2,Executivo de vendas,4,Casado,6652,14369,4,Sim,Não,13,3,1,80,1,8,2,2,6,3,0,0
+829,45,Não,Viaja raramente,374,Vendas,20,3,Ciências Humanas,1,2046,4,Feminino,50,3,2,Executivo de vendas,3,Solteiro,4850,23333,8,Sim,Não,15,3,3,80,0,8,3,3,5,3,0,1
+830,35,Não,Viaja frequentemente,1199,Pesquisa e Desenvolvimento,18,4,Ciências Humanas,1,2049,3,Masculino,80,3,2,Reprentante de saúde,3,Casado,5689,24594,1,Sim,Sim,14,3,4,80,2,10,2,4,10,2,0,2
+831,29,Não,Viaja raramente,1378,Pesquisa e Desenvolvimento,13,2,Outras,1,2053,4,Masculino,46,2,2,Técnico de Laboratório,2,Casado,4025,23679,4,Sim,Sim,13,3,1,80,1,10,2,3,4,3,0,3
+832,29,Não,Viaja raramente,468,Pesquisa e Desenvolvimento,28,4,Ciências Médicas,1,2054,4,Feminino,73,2,1,Pesquisador cientista,1,Solteiro,3785,8489,1,Sim,Não,14,3,2,80,0,5,3,1,5,4,0,4
+833,50,Sim,Viaja raramente,410,Vendas,28,3,Marketing,1,2055,4,Masculino,39,2,3,Executivo de vendas,1,Divorciado,10854,16586,4,Sim,Sim,13,3,2,80,1,20,3,3,3,2,2,0
+834,39,Não,Viaja raramente,722,Vendas,24,1,Marketing,1,2056,2,Feminino,60,2,4,Executivo de vendas,4,Casado,12031,8828,0,Sim,Não,11,3,1,80,1,21,2,2,20,9,9,6
+835,36,Não,Viaja frequentemente,884,Pesquisa e Desenvolvimento,23,2,Ciências Médicas,1,2061,3,Masculino,41,4,2,Técnico de Laboratório,4,Casado,2571,12290,4,Sim,Não,17,3,3,80,1,17,3,3,5,2,0,3
+836,39,Não,Viaja raramente,613,Pesquisa e Desenvolvimento,6,1,Ciências Médicas,1,2062,4,Masculino,42,2,3,Reprentante de saúde,1,Casado,9991,21457,4,Sim,Não,15,3,1,80,1,9,5,3,7,7,1,7
+837,34,Não,Viaja raramente,628,Pesquisa e Desenvolvimento,8,3,Ciências Médicas,1,2068,2,Masculino,82,4,2,Técnico de Laboratório,3,Casado,4404,10228,2,Sim,Não,12,3,1,80,0,6,3,4,4,3,1,2

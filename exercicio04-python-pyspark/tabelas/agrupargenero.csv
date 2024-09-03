@@ -1,0 +1,3 @@
+,Gênero,avg(Salário por hora),stddev(Salário por hora),median(Salário por hora),max(Salário por hora),min(Salário por hora)
+0,Feminino,65.90306122448979,20.58006654081039,67.0,100,30
+1,Masculino,65.93197278911565,20.185853779614366,65.0,100,30
