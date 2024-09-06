@@ -3,9 +3,11 @@ from pyspark.sql import functions as F
 from pyspark.sql.types import StringType
 from pyspark.sql.types import FloatType
 from pyspark.sql.types import IntegerType
+from pyspark.sql.types import DoubleType
 from pyspark.ml.feature import VectorAssembler
 from pyspark.ml.regression import LinearRegression
 from pyspark.ml.evaluation import RegressionEvaluator
+from pyspark.ml.regression import DecisionTreeRegressor
 
 
 from datetime import datetime
@@ -723,7 +725,11 @@ estatistica_salario = dados_new.groupBy('Status de Emprego').agg(
     F.sum('Salário')
 )
 
-#estatistica_salario.show()
+percentual_aumento = 0.05
+
+estatistica_salario = estatistica_salario.withColumn('Salário Projetado', F.col('sum(Salário)') * (1 + percentual_aumento))
+
+estatistica_salario.show()
 
 """
 46. Análise de Desempenho por Escolaridade: Se houvesse uma coluna de escolaridade, analisar
@@ -751,28 +757,59 @@ analisar como diferentes formações afetam o salário e tempo de casa.
 crescimento salarial futuro.
 """
 
-tabela_previsao = dados_new.withColumn('Tempo de casa', inserir_informacao(F.col('Data de Contratação')))
+def anooo(valor):
+    try:
+        data = datetime.strptime(valor, '%d/%m/%Y')
+        return int(data.year)
+    except ValueError as e:
+        print(f"Erro ao converter a data: {e}")
+        return 0000
+    
 
-tabela_previsao = tabela_previsao.select("Salário", "Idade", "Tempo de casa")
+inserir_ano = F.udf(anooo, IntegerType())
 
-train_df, test_df = tabela_previsao.randomSplit([0.8, 0.2], seed=1234)
+# Calcular anos de experiência
 
-assembler = VectorAssembler(
-    inputCols=["Idade", "Tempo de casa"],
-    outputCol="features"
-)
+dados_tratados = dados_new.withColumn('Anos_Experiencia', inserir_ano(F.col('Data de Contratação')))
 
-train_df = assembler.transform(train_df)
-test_df = assembler.transform(test_df)
+# Selecionar as colunas de interesse
 
+dados_tratados = dados_tratados.select("Idade", "Anos_Experiencia", "Salário")
+
+assembler = VectorAssembler(inputCols=["Idade", "Anos_Experiencia"], outputCol="features")
+dados_vetorizados = assembler.transform(dados_tratados)
+
+dados_treino, dados_teste = dados_vetorizados.randomSplit([0.8, 0.2], seed=12345)
 
 lr = LinearRegression(featuresCol="features", labelCol="Salário")
-lr_model = lr.fit(train_df)
+modelo = lr.fit(dados_treino)
+
+previsoes = modelo.transform(dados_teste)
+previsoes.select("features", "Salário", "prediction").show()
+
+evaluator = RegressionEvaluator(labelCol="Salário", predictionCol="prediction", metricName="rmse")
+rmse = evaluator.evaluate(previsoes)
+print(f"RMSE: {rmse}")
+
 
 """
 50. Identificação de Padrões de Promoção Interna: Analisar os padrões de promoção dentro da
 empresa ao longo dos anos.
 """
 
+def anooo(valor):
+    try:
+        dataRecebido = datetime.strptime(valor, '%d/%m/%Y')
+        datanovo = datetime.now()
+        return (datanovo - dataRecebido).days
+    except ValueError as e:
+        print(f"Erro ao converter a data: {e}")
+        return 0000
+    
+    
 
+inserir_ano = F.udf(anooo,  IntegerType())
 
+dados_tratados_teste = dados_new.withColumn('Tempo_de_Serviço', inserir_ano(F.col('Data de Contratação')))
+
+dados_tratados_teste.show()
