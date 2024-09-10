@@ -100,7 +100,6 @@ SELECT * FROM View_Salarios_Acima_5000;
 
 SELECT * FROM EMPREGADO WHERE DATA_ADMISSAO >= DATE_SUB(CURDATE(), INTERVAL 6 MONTH);
 
-
 -- 16.Crie uma view chamada View_Admitidos_Recentemente que contenha os empregados admitidos nos últimos 6 meses.
 
 CREATE VIEW View_Admitidos_Recentemente AS SELECT * FROM EMPREGADO WHERE DATA_ADMISSAO >= DATE_SUB(CURDATE(), INTERVAL 6 MONTH);

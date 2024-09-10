@@ -79,3 +79,4 @@ insert into RESERVA (cod_equipamento, cod_professor, dt_reserva, cod_sala, horá
 insert into RESERVA (cod_equipamento, cod_professor, dt_reserva, cod_sala, horário) values (3, 3, '2023/03/08', 5, '6:34:36');
 insert into RESERVA (cod_equipamento, cod_professor, dt_reserva, cod_sala, horário) values (1, 5, '2022/12/23', 4, '10:17:47');
 insert into RESERVA (cod_equipamento, cod_professor, dt_reserva, cod_sala, horário) values (5, 4, '2024/04/02', 1, '12:04:29');
+

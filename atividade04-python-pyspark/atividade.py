@@ -812,4 +812,6 @@ inserir_ano = F.udf(anooo,  IntegerType())
 
 dados_tratados_teste = dados_new.withColumn('Tempo_de_Serviço', inserir_ano(F.col('Data de Contratação')))
 
+dados_tratados_teste = dados_tratados_teste.withColumn('')
+
 dados_tratados_teste.show()
